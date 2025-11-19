@@ -1,8 +1,6 @@
 # Awesome Nano-Banana 2 Images ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
 <a href="https://github.com/company/awesome-nanobanana2/stargazers">
   <img src="https://img.shields.io/github/stars/company/awesome-nanobanana2?style=social" alt="GitHub stars">
 </a>
@@ -14,4 +12,4 @@ Most examples come from Twitter/X 🐦 and Nano-Banana Studio 🎬. May they spa
 
 
 
-<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
+<strong>→ Smash that ⭐ if you like it!</strong>
