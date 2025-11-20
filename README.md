@@ -49,7 +49,7 @@ Nano‑Banana 2 is a multimodal model that not only turns text prompts into high
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
-*   [Case 45: CNN Election Results TV Broadcast (by 雪佬说)](#cases-45)
+*   [Case 45: 蜜雪冰城商业海报 (by 雪佬说)](#cases-45)
 *   [Case 44: 过肩镜头：雨夜瘦金体书稿 (by 雪佬说)](#cases-44)
 *   [Case 43: 老北京航拍：光影显形的“衚”字 (by 雪佬说)](#cases-43)
 *   [Case 42: 大唐长安 插画长卷地图 (by 雪佬说)](#cases-42)
@@ -101,11 +101,11 @@ Nano‑Banana 2 is a multimodal model that not only turns text prompts into high
 ## 🧩 Case
 
 <a id="cases-45"></a>
-### Case 45: CNN Election Results TV Broadcast (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+### Case 45: 蜜雪冰城商业海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
-<img src="cases/45/case.webp" width="300" alt="CNN television screen displaying U.S. election results with two candidates and a news anchor."><br>
+<img src="cases/45/case.webp" width="300" alt="古代敦煌壁画风格蜜雪冰城商业海报"><br>
 <sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
 
 
