@@ -1,0 +1,13 @@
+title: "Lightning Radar Browser UI"
+author: "BasketFar667"
+author_link: https://www.reddit.com/user/BasketFar667/
+source_links:
+  - url: https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/
+image: case.png
+alt_text: "Weather-style radar interface in a browser visualizing lightning strikes on a map."
+reference_images: []
+prompt: |
+  Lightning Radar: A copy of the browser version of Lightning Radar.
+submitter: ""
+submitter_link: ""
+
