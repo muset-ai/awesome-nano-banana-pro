@@ -1,0 +1,13 @@
+title: "Web App UI with QR Code"
+author: "Camaraderie"
+author_link: https://www.reddit.com/user/Camaraderie/
+source_links:
+  - url: https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/
+image: case.png
+alt_text: "Modern web app mockup UI featuring a prominent scannable QR code linking to google.com."
+reference_images: []
+prompt: |
+  Generate a mock UI for a web application with modern styling and CSS. Place a QR code with the encoding payload 'https://google.com'. The QR code must be scannable.
+submitter: ""
+submitter_link: ""
+
