@@ -1,6 +1,6 @@
 ## Contents
 
-- [🎨 What is Nano‑Banana 2](#gpt4o-intro)
+- [🎨 What is Nano‑Banana-Pro](#gpt4o-intro)
 - [📖 Cases Directory](#cases-toc)
 - [🛠️ Tools Introduction](#tools-intro)
 - [💡 Prompting Tips](#prompting-tips)

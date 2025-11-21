@@ -1,6 +1,6 @@
-## 🎨 What is Nano‑Banana 2
+## 🎨 What is Nano‑Banana-Pro
 
-Nano‑Banana 2 is a multimodal model that not only turns text prompts into high‑quality images but also offers image‑to‑image editing—enabling targeted retouching, style transfer, and multi‑image blending.
+Nano‑Banana-Pro is a multimodal model that not only turns text prompts into high‑quality images but also offers image‑to‑image editing—enabling targeted retouching, style transfer, and multi‑image blending.
 
 - 🧠 Multimodal comprehension: Simultaneously parses text and images to capture creative intent with precision
 - ✍️ Accurate rendering: Handles complex prompts and rapidly produces high‑quality images
