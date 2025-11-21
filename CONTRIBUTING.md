@@ -6,7 +6,7 @@ There are two main ways you can contribute.
 
 If you want to quickly share an example, or if you're less familiar with the Pull Request process, submitting via an Issue is a great option.
 
-➡️ Click here to submit a new example using the template: [Submit New Example](https://github.com/company/awesome-nano-banana-pro/issues/new?template=add_new_example.yml)
+➡️ Click here to submit a new example using the template: [Submit New Example](https://github.com/muset-ai/awesome-nano-banana-pro/issues/new?template=add_new_example.yml)
 
 ---
 

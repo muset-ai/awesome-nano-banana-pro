@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T03:05:49.804Z",
+  "generated_at": "2025-11-21T03:53:26.266Z",
   "cases": [
     {
       "case_no": 1,
@@ -19,10 +19,10 @@
       "submitter_link": "",
       "attribution": {
         "title": "Clock 11:15 + Wine Glass Filled to Rim",
-        "prompt_author": "@company",
-        "prompt_author_link": "https://github.com/company",
-        "image_author": "@company",
-        "image_author_link": "https://github.com/company",
+        "prompt_author": "@muset-ai",
+        "prompt_author_link": "https://github.com/muset-ai",
+        "image_author": "@muset-ai",
+        "image_author_link": "https://github.com/muset-ai",
         "source_links": [
           {
             "url": "https://medium.com/@CherryZhouTech/introducing-nano-banana-2-ai-image-generation-enters-the-designer-grade-era-324a23d4caa3"
@@ -52,10 +52,10 @@
       "submitter_link": "",
       "attribution": {
         "title": "Math/Formula Boards & Logical Layouts",
-        "prompt_author": "@company",
-        "prompt_author_link": "https://github.com/company",
-        "image_author": "@company",
-        "image_author_link": "https://github.com/company",
+        "prompt_author": "@muset-ai",
+        "prompt_author_link": "https://github.com/muset-ai",
+        "image_author": "@muset-ai",
+        "image_author_link": "https://github.com/muset-ai",
         "source_links": [
           {
             "url": "https://nanobanana2.com/"
