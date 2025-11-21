@@ -1,6 +1,1989 @@
 {
-  "generated_at": "2025-11-19T13:19:36.064Z",
+  "generated_at": "2025-11-21T12:50:31.559Z",
   "cases": [
+    {
+      "case_no": 63,
+      "title": "Clothing Extraction for E-Commerce Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Extract the clothing from [Image1] and present it as a clean e-commerce product photo. Remove the model’s body completely. Keep the outfit in natural 3D shape, with realistic fabric folds, seams, and textures. Display the garment as if photographed on a mannequin or neatly laid flat, centered on a pure white or transparent background. High-resolution, professional lighting, suitable for online fashion catalog.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Clothing Extraction for E-Commerce Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 62,
+      "title": "Ten-Minute-Later Version of the Same Scene",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The same scene reimagined as it would look ten minutes later with natural changes in light, weather, or activity.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Generate an image of the same scene as [Image1], but showing how it looks 10 minutes later. Keep the environment and style consistent, but add natural changes over time such as light, weather, people and so on. Photorealistic, seamless continuity.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Ten-Minute-Later Version of the Same Scene",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 61,
+      "title": "Seamless Text Editing in an Image",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "An image where original text has been replaced with new wording that perfectly matches the existing font and design.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Edit the text in [Image1]. Replace the existing text with “[your new text]” while keeping the background, design, and other elements unchanged. Match the font style, size, and color to look natural and consistent with the image. Photorealistic, seamless integration.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Seamless Text Editing in an Image",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 60,
+      "title": "Four Camera Angles of the Same Scene",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "Four images of the same person and environment shown from bird’s-eye, rear, side profile, and close-up portrait views.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Recreate the person from [Image1] in four different camera perspectives.Keep the subject’s identity, body proportions, and clothing consistent across all four images. Maintain the same background environment as [Image1], with photorealistic lighting, natural shadows, and high-quality details.\nGenerate four variations side by side:\nBird’s-eye view (from above).\nRear view (from behind).\nSide profile view.\nClose-up portrait view.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Four Camera Angles of the Same Scene",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 59,
+      "title": "Object Removal and Clean Background Fill",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A photo where a selected object has been removed and the background filled in realistically so the edit is invisible.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Remove [element to remove, e.g., a person, a car, a sign] from [Image1]. Fill the background naturally to maintain the scene’s continuity, lighting, and details. Keep all other elements unchanged. Photorealistic, high-resolution.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Object Removal and Clean Background Fill",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 58,
+      "title": "Adding a New Element into a Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The original scene preserved while a new object or element is added and blended naturally into the environment.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Add [desired element, e.g., a tree, a lamp, a dog] to [Image1]. Place it naturally in the scene, matching the lighting, perspective, and style. Keep the original elements unchanged. Photorealistic, seamless integration.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Adding a New Element into a Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 57,
+      "title": "Background Replacement for a Subject",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A subject from the original photo placed into a new background that matches the lighting and style for seamless integration.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Replace the background of [Image1] with [desired background description, e.g., a beach, a forest, a city skyline]. Keep the main subject (person/object) unchanged, maintaining original proportions, lighting, and details. Ensure the subject blends naturally with the new environment. Photorealistic, high-resolution, seamless integration.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Background Replacement for a Subject",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 56,
+      "title": "Nine Half-Length Portraits in Natural Environments",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A 3x3 grid of vibrant half-length portraits of the same person in different poses and colorful natural settings.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Using the uploaded photo as a reference, generate a set of 9 vibrant half-length portraits featuring natural life. Each portrait should show a different pose and be placed in a unique setting, with rich, colorful details that highlight the diversity of nature.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Nine Half-Length Portraits in Natural Environments",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 55,
+      "title": "Body Reshaping While Preserving Identity",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A portrait where the person’s body shape is transformed to a new type while their face, hairstyle, and clothing remain recognizable.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Reshape the body of the person in [Image1] into a [target body type]. Keep the face, identity, hairstyle, and clothing consistent. Ensure realistic anatomy, natural proportions, and photorealistic details.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Body Reshaping While Preserving Identity",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 54,
+      "title": "Pose Transfer Between Two Men",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "Two men recreated in a new photo, posed exactly like the man in green carrying the man in red from the reference image.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Take the two men and place them in the exact poses of the man in green carrying the man in red. Preserve their identities, body proportions, and clothing details. Ensure the pose is natural and realistic, with consistent lighting, shadows, and perspective. Photorealistic, high-resolution result.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Pose Transfer Between Two Men",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 53,
+      "title": "Facial Expression Editing of the Same Person",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A portrait where the person’s pose and appearance stay the same but their facial expression is changed to a new emotion.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Keep the person from [Image1] unchanged, but change their facial expression to [desired expression, e.g., smiling, surprised, angry]. Preserve the pose, body proportions, hairstyle, and overall appearance. Maintain realistic lighting, shadows, and photorealistic details.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Facial Expression Editing of the Same Person",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 52,
+      "title": "Outfit Swap with New Pants from Reference",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The original character kept the same while their pants are replaced by the outfit design from a second reference image.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Keep the character in [Image1] unchanged, but replace her pant with the outfit in [Image2]. Maintain the same pose, body proportions, and facial features, while applying the color, texture, and style of the pants in [Image2]. High-quality, realistic, consistent detail.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Outfit Swap with New Pants from Reference",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 51,
+      "title": "Image Style Transfer Between Two Photos",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The main subject from one photo rendered in the artistic colors and textures of another reference image.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Transform this image [Image1] into the artistic style of [Image2]. Keep the main subject, composition, and details from [Image1], but apply the colors, textures, and overall aesthetic of [Image2]. High-quality, [illustraition] style, consistent details.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Image Style Transfer Between Two Photos",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 50,
+      "title": "Photorealistic Multi-Image Composite",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A seamless photorealistic composite image that blends several source photos into one coherent scene with consistent lighting and perspective.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesive image. Keep all key subjects recognizable and maintain their proportions and details. Blend the images naturally with consistent lighting, shadows, perspective, and style. Photorealistic, high-resolution, seamless integration.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Photorealistic Multi-Image Composite",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 49,
+      "title": "Rhythm Dance Game Scene with 3D Character",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A neon-lit rhythm dance game screenshot with a 3D animated character dancing on a glossy reflective stage and full rhythm-game HUD.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "A vibrant rhythm dance game screenshot featuring the 3D animated character from the reference photo, keeping its unique style, hat, outfit, and confident dance pose. Immersive cinematic lighting with neon pink and purple glow, glossy reflective dance floor shining under spotlights, and dynamic 3D cartoon style. Rhythm game interface with immersive UI: score meter at the top, colorful music waveform animations synced to the beat, stage timer countdown, and floating combo numbers. Highly detailed, game-like atmosphere with energy bars, neon particle effects, and immersive arcade rhythm game HUD elements. Ultra-detailed, cinematic, immersive, 3D animation.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Rhythm Dance Game Scene with 3D Character",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 48,
+      "title": "Ghibli-Style Redraw of Reference Photo",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "The reference photo redrawn in a soft, colorful Studio Ghibli-inspired illustration style.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Redraw this photo in Ghibli style\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Ghibli-Style Redraw of Reference Photo",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 47,
+      "title": "Chibi Funko Pop 3D Character Render",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A detailed 3D render of a chibi Funko Pop-style figure based on a reference photo on a pure white background.",
+      "reference_images": [
+        "input.webp"
+      ],
+      "prompt": "Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the provided reference photo. The figure should accurately reflect the person's appearance, hairstyle, attire, and characteristic style from the photo. High detail, studio lighting, photorealistic texture, pure white background.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Chibi Funko Pop 3D Character Render",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 46,
+      "title": "Chibi Sticker Sheet with Expressive Poses",
+      "author": "Marvin",
+      "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+      "source_links": [
+        {
+          "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "A set of chibi-style character stickers in multiple expressive poses on a vibrant red background.",
+      "reference_images": [
+        "input.jpg"
+      ],
+      "prompt": "Making a playful peace sign with both hands and winking. Tearful eyes and slightly trembling lips, showing a cute crying expression. Arms wide open in a warm, enthusiastic hug pose. Lying on their side asleep, resting on a tiny pillow with a sweet smile. Pointing forward with confidence, surrounded by shining visual effects. Blowing a kiss, with heart symbols floating around. Maintain the chibi aesthetic. Exaggerated, expressive big eyes. Soft facial lines. Background: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker. Aspect ratio: 9:16\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Chibi Sticker Sheet with Expressive Poses",
+        "prompt_author": "Marvin",
+        "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "image_author": "Marvin",
+        "image_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
+        "source_links": [
+          {
+            "url": "https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-21T00:00:00.000Z",
+        "notes": "Prompt adapted from Fotor Nano-Banana model prompts; image fully regenerated via Nano-Banana 2."
+      }
+    },
+    {
+      "case_no": 45,
+      "title": "CNN Election Results TV Broadcast",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "CNN television screen displaying U.S. election results with two candidates and a news anchor.",
+      "reference_images": [],
+      "prompt": "艺术风格与要求:\n画幅比例16:9，一张极其复杂宏伟的蜜雪冰城商业海报。严格遵循古代敦煌壁画中“经变画”的风格，绘制在风化的石窟墙壁上，细节丰富，堪称杰作。使用赭石、朱砂、石绿等矿物颜料色彩，墙壁有裂纹和斑驳质感。整体采用二维视角，具有强烈的书法式轮廓线和神圣、古老的历史氛围，唐代艺术风格。\n构图布局:\n采用复杂的多板块叙事构图。一个巨大的中央主体，两侧环绕着四个较小的叙事故事板块，底部有一排供养人像。\n一、中央主体:\n吉祥物“雪王”化身为庄严宁静的佛陀形象，端坐于冰晶莲花宝座上。他的背后光环是一个巨大、发光的柠檬切片。两侧有两位由透明冰块雕刻而成的金刚力士护法，手持巨大的冰淇淋勺作为武器。优雅的飞天在空中飞舞，手捧发光的冰淇淋甜筒和柠檬水。\n二、两侧叙事板块:\n右上板块: 描绘酷暑沙漠，烈日下人们表情痛苦。旁边有竖排榜题，用书法风格模仿“酷暑之地，衆生皆苦”。\n右下板块: 描绘天界冰雪宫殿中的雪王，心生慈悲，脚踩冰晶祥云准备下凡。榜题文字模仿“聖王憫世，乘冰東來”。\n左上板块: 描绘雪王在沙漠上空，从净瓶中洒下由真实柠檬和冰淇淋雪花组成的甘露。榜题文字模仿“天降甘露，地湧冰蓮”。\n左下板块: 描绘沙漠变为绿洲，人们欢欣鼓舞，畅饮柠檬泉，采摘冰淇淋花。榜题文字模仿“煩惱盡滌，同登極樂”。\n三、底部供养人区域:\n最下方有一排供养人像，他们保持着敦煌壁画中僵直、虔诚的姿态，但穿着现代的蜜雪冰城员工制服，手捧联动饮品。旁边有题记模仿“弟子蜜雪冰城衆等，一心供養”。\n四、标题与文字排版:\n顶部中央: 在一个华丽的画框内，有宏大的标题，模仿书法“大雪聖王甘露普惠經變圖”。\n中央主体两侧: 有主Slogan，模仿书法“雪王赐福，衆生皆甜”。\n底部中央: 有副Slogan，模仿书法“冰雪甘露，沁入心田”。\n右下角: 有一个模仿朱红色篆书的方形印章，印文为“蜜雪之寶”。\n负面提示词:\n3D, 照片, 现代, 简约, 极简主义, 模糊, 水印, 糟糕的书法, 畸形, 错误\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 44,
+      "title": "过肩镜头：雨夜瘦金体书稿",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "文人右手执笔书写《声声慢》，孤灯映照宣纸；雨滴在新字上炸裂成纤细羽毛状洇染，与窗外芭蕉雨景相映。",
+      "reference_images": [],
+      "prompt": "画幅比例16:9，一个源自中国古装剧的、极富氛围感和叙事性的电影镜头，散发着宋代典雅、克制的美学。风格令人联想到张艺谋的电影。\n\n**构图与视角:**\n一个精心构图的**过肩镜头**。摄影机位于一位文人身后，越过他的肩膀，望向半开的窗外雨景。\n\n**叙事元素与调度:**\n- **窗外景象:** 透过雕花木窗，一株巨大的芭蕉树正被大雨抽打。\n- **人物与动作:** 文人坐在书案前，**右手**以正确的姿势执笔。他的左手按在纸张边缘。\n- **书稿 (极致的细节与神韵):** 桌上的宣纸是清晰的视觉焦点，被一盏温暖的孤灯照亮。\n    - **书法:** 纸上写满了**笔画锐利的“瘦金体”**，内容是李清照的《声声慢》开篇。\n    - **墨色变化 (墨分五色):** 字迹的墨色应有微妙而真实的变化。较早写下、已经干透的字是深沉的、哑光的“焦墨”。最新写的字则是更浓郁、湿润、闪着光泽的“湿墨”。\n    - **墨迹晕染效果 (诗意的高潮):** 几滴雨点落在了纸上。\n        - 在**较干的旧字**上，雨滴只留下一个微妙的、半透明的水痕，字迹本身保持清晰。\n        - 在**湿润的新字**上，雨滴导致墨迹**向外“炸”开，形成一圈精细的、羽毛状的洇染**。晕染的边缘不是一个实心圆，而是有机的、**带有纤维感的“毛边”**，仿佛墨水正顺着宣纸的纹理漫开。这个效果必须既美丽又充满悲剧感。\n\n**光影与色调:**\n一盏孤灯的暖光至关重要。它必须捕捉到新洇开墨迹的湿润光泽，突显出那圈墨花富有质感的纤维边缘，并在纸张干燥的部分投下柔和的光泽。这温暖的室内与窗外冷色调、低饱和度的绿和灰形成对比。\n\n**美学:**\n一幅在电影镜头中捕捉到中国水墨画灵魂的杰作。对墨、水、纸之间物理互动的关注，将这个场景从一个简单的叙事提升为对“无常”和“秩序世界被混乱入侵”的深刻冥想。\n\n**负面提示词:**\n墨色完全一样, 实心的墨团晕染, 完全干燥的纸, 左手写字, 不正确的姿势, 模糊的文字, 现代字体, 粗壮的笔画, 晴天, 微笑, 水印。\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 43,
+      "title": "老北京航拍：光影显形的“衚”字",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "胡同与四合院墙体在同一高度与材质中，被低角度阳光与氛围雾以光影与对比微妙勾勒出“衚”字形态。",
+      "reference_images": [],
+      "prompt": "画幅比例16:9，一幅关于精妙含蓄与视觉智慧的杰作。一幅老北京城市肌理的无人机鸟瞰图。核心概念是汉字“衚”**完美无缝地**融入了整个城市景观。\n\n**字体与建筑的融合 (终极的精妙之处):**\n- **无物理高差:** “衚”字不是一个独立的、高耸的或庞大的结构。构成其笔画的墙体，与周围所有的胡同、四合院的墙体，在**高度、材质和风格上完全一致**。它身处肌理之中，而非凌驾其上。\n- **“光影雕刻”:** 汉字的形态并非由结构来凸显，而是由**大师级的、富有氛围感的光影**来呈现。一束低角度的午后斜阳（Raking Light）横扫整个场景。光线刚好捕捉到构成“衚”字形态的墙体的边缘，使其微妙地变亮，同时在其“笔画”（即胡同）内部投下深刻而轮廓分明的阴影。这个字，是被光所揭示，而非被水泥所建造。\n- **“氛围透视”:** 一层纤薄的、贴地的晨雾或霭气，弥漫在周边的庭院和巷陌中，使边缘的细节略微柔化。然而，构成“衚”字形态的那些路径和庭院，则**微妙地更加清晰、对比度更高**，由此形成一个自然的视觉焦点，让隐藏的形状在凝视者的眼中浮现。\n\n**优雅的字体排版布局:**\n保留精致且艺术化的字体设计。\n- **主标题:** 标题“字里京城”被排成一个强有力的单列竖排，位于右侧。背景区域被巧妙地处理成半透明的微妙褪色效果，以确保文字的可读性而不突兀。字体是优雅的“新宋体”风格。一条极细的竖线与文字平行。\n- **信息标签:** 标签文字（“灰瓦”、“国槐”）采用小号、精致的手写体。它们通过一条铅笔在图纸上画出般的、针尖般纤细的手绘曲线连接到物体。**不要有方框，不要有发光效果。**\n\n**美学:**\n整体基调是宁静、引人深思且意境深远的。色调是考究的“高级灰”，以饱和度低的色彩为主，唯一的色彩点缀来自阳光温暖的轻抚。画面拥有一种“众目睽睽下的秘密”般的气质，回报着观者的耐心与洞察力。它是一次具有深刻绘画感和哲学氛围的超写实渲染。\n\n**负面提示词:**\n高耸的墙壁, 雕塑般的汉字, 庞大的结构, 过于明显的汉字形状, 平均的光照, 平光, 发光方框, 未来感UI, 无衬线字体, 抽象, 2D, 色彩鲜艳, 卡通, 糟糕的书法, 水印。\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 42,
+      "title": "大唐长安 插画长卷地图",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "唐代仕女画风散点透视长卷，朱雀大街为中轴，宫市池等微型场景与小篆坊名印章构成华丽城市织锦。",
+      "reference_images": [],
+      "prompt": "画幅比例16:9，一幅令人叹为观止的插画地图学杰作，描绘了唐代首都长安的地图。整个画面以唐代仕女画的精致风格呈现，令人联想到绘画大师周昉的作品。媒材是在陈旧、细腻的绢本上使用工笔重彩。\n\n**构图与透视:**\n地图采用“散点透视”的长卷形式。城市感觉更像一幅生动的织锦，而非僵硬的蓝图。朱雀大街作为画面的中轴线。\n\n**插画与字体细节:**\n- **作为微型场景的地标:** 关键地点是小巧、精致的叙事场景：\n    - **大明宫:** 宫廷仕女在园林中演奏乐器。\n    - **西市:** 粟特商人与贵族妇女交易丝绸。\n    - **曲江池:** 仕女们正在进行“曲水流觞”。\n- **作为地图元素的优雅人物:** 优雅的唐代仕女被用作装饰元素，她们的姿态和袖带引导着观众的视线。\n\n**一百零八坊 - 高级指令:**\n一百零八坊由一个个优雅的手绘长方形印章来代表。核心目标是用貌似可信的、具有历史感的文字填充这些印章。\n- **指令:** AI不必尝试渲染全部108个独一无二的坊名，而是必须从提供的“样本集”中学习，并用相似的、合理的、不重复的双字坊名去填充每一个印章。\n- **著名坊名样本集 (用于风格参考):**\n  “平康坊”、“崇仁坊”、“兴庆坊”、“道政坊”、“长兴坊”、“永崇坊”、“亲仁坊”、“永宁坊”、“怀远坊”、“延康坊”、“金城坊”、“布政坊”。\n- **风格强制要求:** 所有印章内的文字必须是优美、纤细、典雅的“小篆”字体。结构应为“[某][某]坊”。\n\n**主标题与标签:**\n- **主标题:** “大唐长安”以雄浑大气的隶书，竖排书写在右上角。\n- **标签:** 街道（“朱雀大街”）和河流（“渭水”）的名称，以娟秀的行书直接写在绢本背景上，并顺着路径的曲线流动。\n\n**美学与氛围:**\n调色板丰富而华丽（朱砂、石绿、石青、金箔）。线条如“游丝描”般细劲流畅。整体氛围是一种繁华、诗意、优雅的感觉。\n\n**负面提示词:**\n英文, 罗马字母, 3D, 现代地图, 网格布局, 几何形状, 电脑字体, 西方艺术风格, 卡通, 简单, 极简, 空白区域, 水印, 糟糕的书法, 乱码。\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 41,
+      "title": "成都慢行图 手绘旅游地图",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "羊皮纸上的水彩钢笔插画，等轴视角呈现熊猫基地、锦里等地标，行楷主标题与沿锦江弯曲书写的文字融于地图。",
+      "reference_images": [],
+      "prompt": "画幅比例16:9，一张迷人而精致的成都手绘旅游地图，具有吉卜力工作室艺术设定集般的风格。整个画面是在一张有纹理的、陈旧的羊皮纸上的水彩和钢笔淡彩插画。整体美学风格异想天开、充满活力和生活气息。\n\n地图布局与风格:\n地图以风格化的等轴测视角，展示了成都的核心地标，这些地标被描绘成可爱、精细的微缩建筑和图标（例如，熊猫基地的熊猫、锦里的灯笼、人民公园的茶馆）。布局是有机的、自由流动的，而非基于僵硬的网格。\n\n至关重要的字体排版挑战 (高难度部分):\n所有文字必须以一种优美的、略带不完美感的手写书法风格（行楷）呈现，看起来就像是用绘制插图的同一支钢笔写出来的。\n1.  **主标题:** 主标题“成都慢行图”被艺术性地写在顶部一条飘逸的缎带上。\n2.  **带角度的趣味标签:** 每个地标图标旁边，都以俏皮的、略带倾斜的方式写着它的名字（例如：“宽窄巷子”、“武侯祠”、“杜甫草堂”）。文字需要感觉是有机放置的，而不是死板的水平线。\n3.  **沿路径弯曲的文字:** 一条风格化的锦江贯穿地图。河流的名字“锦江”二字，需要沿着河流的弯曲路径优雅地书写。这是一个关键测试点。\n4.  **融合性的注释:** 地图上散布着小小的、异想天开的注释，这些注释结合了文字和图标。例如：\n    - 一条写着“吃火锅!”的注释，旁边画着一个小小的红辣椒。\n    - 一个“喝茶咯!”的标签，旁边有一个冒着热气的微型茶杯图标。\n    - 区域名称“锦江区”被写在一个手绘的云朵形状里。\n5.  **手绘图例:** 在一个角落，有一个手绘的“图例”方框，里面有小图标（如茶杯、熊猫脸、寺庙屋顶）和它们对应的手写标签。\n6.  **印章:** 一枚红色的、仿佛手工篆刻风格的印章，印着“蓉”字（成都的简称），被盖在角落，并与边框有轻微的重叠。\n\n美学:\n一幅插画地图学的杰作。文字和插图的融合必须天衣无缝。水彩效果要柔和，有可见的水渍和纹理，而钢笔线条则要自信而生动。整体感觉温暖、诱人，充满个性。\n\n负面提示词:\n电脑字体, 计算机生成的文字, 直线, 僵硬的网格, 完美对齐, 只有水平文字, 文字浮层, 照片, 3D, 极简, 通用图标, 拼写错误, 乱码, 水印。\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 40,
+      "title": "90年代过肩镜头：Nano Banana 2 电视广告",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "父亲与小孩的剪影前景越肩看木纹显像管电视，屏幕以刀锋般锐利字体显示“未来之约，准时抵达！2025年11月18日”。",
+      "reference_images": [],
+      "prompt": "画幅比例16:9，一张大师级的电影感过肩镜头画面，视角位于一个怀旧的90年代中国家庭成员身后。这个视角将观众直接带入场景中，与角色一同望向电视。\n\n场景与视角:\n前景是父亲和小孩头部的柔焦剪影，这确立了观众的观察视角。我们正越过他们看向前方。电视周围的房间沐浴在温暖、朦胧的黄色调灯光中，带有王家卫电影般的可见胶片颗粒感。老式风扇、花纹热水瓶等细节可见，但不是主要焦点。\n\n电视机 (视觉焦点):\n镜头的中心焦点是一台老式的、厚重的、有木纹外壳的显像管电视机，它正**面对着家人（即背对镜头）**。\n\n屏幕内容 (关键对比):\n**与柔焦的前景和充满颗粒感的房间形成强烈对比**，电视屏幕上的图像**是不可思议地锐利、鲜艳和清晰**。它是在一个模拟信号世界中打开的一扇完美的8K超高清窗口。屏幕内容**绝对不能有任何反光、扫描线或球面畸变**。\n\n屏幕上的文字 (最高优先级, 刀锋般锐利):\n电视屏幕上正播放着“Nano Banana 2”的未来感广告。屏幕上的文字是**整个图像中最锐利的元素，必须完美清晰可读**。字体采用大胆、时髦的90年代“美术字”风格。\n- **第一行 (大而醒目):** 「未来之约，准时抵达！」\n- **第二行 (在下方清晰可见):** 「2025年11月18日」\n务必确保这些汉字和数字**形态完美、如刀锋般锐利，没有任何模糊或变形**。\n\n美学:\n一幅关于视角和对比的杰作。过肩镜头创造了一种亲密、窥视的感觉，让观众成为这个时间瞬间的一部分。朦胧的、模拟信号的过去（房间和人）与来自未来的完美、超高清清晰文字之间的超现实并置，构成了整个画面的核心叙事。\n\n负面提示词:\n家人的正面视角, 角色面向镜头, 电视面向镜头, 模糊的文字, 无法辨认的文字, 文字错误, 屏幕反光, 扫描线, 像素化的屏幕, 扭曲的屏幕内容, 现代房间, 平板电视, 水印。\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 39,
+      "title": "奈斯派索 上海装饰艺术海报",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "摩登旗袍女子操作Art Deco风咖啡机，右侧竖排“奈斯派索”艺术字与标语，背景为几何化上海城市与华丽边框。",
+      "reference_images": [],
+      "prompt": "`画幅比例16:9，一张为Nespresso设计的优雅商业海报，采用上世纪二三十年代独特的上海装饰艺术（Art Deco）风格。\n构图: 不对称但平衡的构图。\n左侧人物: 一位身穿时尚几何图案旗袍的摩登女性，正优雅地操作一台被重新设计成Art Deco美学的Nespresso咖啡机——黄铜细节、流线型曲线、华丽雕刻。\n右侧文字: 视觉焦点是一列巨大、引人注目的竖排风格化汉字。\n字体是核心元素:\n主标题: “奈斯派索”这四个汉字是核心艺术品。每个字的笔画都被设计成大胆的几何线条和装饰元素。\nSlogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“啡常时刻，啡你莫属”。\n英文“Nespresso”以小号无衬线字体，作为装饰巧妙地融入汉字笔画之间或旁边。\n背景与边框: 背景是风格化、几何化的上海城市景观。整个海报被一个融合了中式传统图案与Art Deco几何图形的华丽边框包围。色彩丰富而怀旧（深红、金色、蓝绿色、奶油色）。杰作，精致，黄金时代的魅力。\n负面提示词: 3D, 照片, 写实, 现代, 极简, 丑陋, 畸形, 糟糕的书法, 水印。\n`画幅比例16:9，一张为Nespresso设计的优雅商业海报，采用上世纪二三十年代独特的上海装饰艺术（Art Deco）风格。\n构图: 不对称但平衡的构图。\n左侧人物: 一位身穿时尚几何图案旗袍的摩登女性，正优雅地操作一台被重新设计成Art Deco美学的Nespresso咖啡机——黄铜细节、流线型曲线、华丽雕刻。\n右侧文字: 视觉焦点是一列巨大、引人注目的竖排风格化汉字。\n字体是核心元素:\n主标题: “奈斯派索”这四个汉字是核心艺术品。每个字的笔画都被设计成大胆的几何线条和装饰元素。\nSlogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“啡常时刻，啡你莫属”。\n英文“Nespresso”以小号无衬线字体，作为装饰巧妙地融入汉字笔画之间或旁边。\n背景与边框: 背景是风格化、几何化的上海城市景观。整个海报被一个融合了中式传统图案与Art Deco几何图形的华丽边框包围。色彩丰富而怀旧（深红、金色、蓝绿色、奶油色）。杰作，精致，黄金时代的魅力。\n负面提示词: 3D, 照片, 写实, 现代, 极简, 丑陋, 畸形, 糟糕的书法, 水印。\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 38,
+      "title": "美团 赛博黄历 复古符箓海报",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "仿古木版画风的密集网格海报，中心“外卖神君”持手机与餐盒，十二时辰宜忌与八卦图标围绕，呈现赛博道教美学。",
+      "reference_images": [],
+      "prompt": "`画幅比例16:9，一张为美团设计的、超级复杂的商业海报，风格是未来主义的道家黄历或符箓图。\n布局与风格: 整张海报是一个密集的、复杂的网格，充满了文字和图标，模仿在泛黄旧纸上的中国传统木版画。所有文字都采用经典的木刻风格楷体或宋体，从右到左竖排。\n中心神像: 中央是一位“外卖神君”，以古版画风格描绘。他身穿黄帝袍，头戴袋鼠耳神冠，一手托着显示美团App的手机，另一手托着外卖餐盒。\n复杂文字网格:\n顶部标题: 在一个华丽的画框中，从右到左写着主标题：“赛博黄历·万事皆宜”。\n环绕网格: 中心神像被代表十二时辰（子、丑、寅…）的网格包围。每个时辰下都有一列竖排文字描述宜忌，例如“宜：點宵夜”和“忌：空腹眠”。\n角落元素: 四角是八卦卦象，每个卦象都与一项美团业务和一个小版画图标相关联（例如，机械马代表共享单车）。\n细节: 海报上装饰着几个红色的、篆书风格的方形印章。整体氛围是古代神秘主义与现代日常生活的融合，一种“赛博道教”美学。杰作，高信息密度。\n负面提示词: 3D, 照片, 现代字体, 横排文字, 极简, 简单, 模糊, 丑陋, 畸形, 糟糕的书法, 水印。\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 37,
+      "title": "绝区零 × 喜茶 霓虹联动海报",
+      "author": "雪佬说",
+      "author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+      "source_links": [
+        {
+          "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+        }
+      ],
+      "image": "case.webp",
+      "alt_text": "四位动漫角色在未来城市夜景下手持喜茶，背后巨大的“ZZZ”和“HEYTEA”霓虹招牌发光，漂浮水果与能量漩涡营造活力联动氛围。",
+      "reference_images": [],
+      "prompt": "`画幅比例16:9，官方游戏联动海报，杰作，充满活力的《绝区零》动漫风格。\n场景: 四位时尚的动漫角色（一位黑夹克粉发女孩是视觉中心，一位银发女孩，一位白发男孩，一位黑发男孩）在未来城市夜晚上摆姿势，每人都拿着一杯喜茶。\n环境: 这是一个未来城市的夜间街道，整个场景\n被巨大、发光的霓虹灯招牌所主导。\n一个以风格化的“ZZZ”标志为特色的、巨大且不容错过的霓虹灯招牌，是背景的绝对视觉焦点，在主角们身后闪耀着明亮的光芒。 其他写着“HEYTEA”的霓虹灯也同样醒目，将整个场景沐浴在鲜艳的紫色和蓝色光线中。\n特殊效果: 草莓和柠檬等水果被包裹在透明气泡中漂浮，发光的粉色和蓝色能量漩涡贯穿画面。\n文字元素:\n左上角: 显示“绝区零”和“喜茶”的Logo，由“X”连接。\n底部中央: 一大块醒目的中文文字“绝区零 X 喜茶：异能觉醒，双倍快乐！”。字体为粗体、风格化的艺术字，白色填充，带有厚重的紫粉渐变描边。\n中文下方: 黑色矩形框内有白色大写英文“LIMITED COLLAB”。\n艺术风格: 高度细节，线条干净，来自巨型霓虹灯的电影级光效，动态构图。\n负面提示词: 模糊, 低质量, 人体结构崩坏, 手部畸形, 丑陋, 水印, 签名, 乱码文字, 字母变形\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代",
+        "prompt_author": "雪佬说",
+        "prompt_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "image_author": "雪佬说",
+        "image_author_link": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA",
+        "source_links": [
+          {
+            "url": "https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-18T00:00:00.000Z",
+        "notes": "【全网最早尝鲜】NanoBanana要大杀四方了，谷歌图生进入下一个时代"
+      }
+    },
+    {
+      "case_no": 36,
+      "title": "Prompt Overload Dystopian Desert",
+      "author": "ComprehensiveLead198",
+      "author_link": "https://www.reddit.com/user/ComprehensiveLead198/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Highly detailed dystopian desert landscape with a glowing digital monolith reading 'PROMPT OVERLOAD' amid neon-lit cyberpunk ruins.",
+      "reference_images": [],
+      "prompt": "Dystopian, arid desert landscape under a hazy orange sky, leading to a distant cyberpunk megalopolis. Central focus: a rusted tech scrap pile with a flickering digital monolith. The monolith displays: \"PROMPT OVERLOAD: Reddit silliness consumed creative cycles. Error 404: Imagination Not Found.\" Holographic snippets of absurd Reddit prompts drift like digital sand. Highly detailed 3D render, volumetric fog, neon reflections.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Prompt Overload Dystopian Desert",
+        "prompt_author": "ComprehensiveLead198",
+        "prompt_author_link": "https://www.reddit.com/user/ComprehensiveLead198/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Highly detailed dystopian desert landscape with a glowing digital monolith reading 'PROMPT OVERLOAD' amid neon-lit cyberpunk ruins."
+      }
+    },
+    {
+      "case_no": 35,
+      "title": "Comic-Book Ouroboros with Ben Day Dots",
+      "author": "SupehCookie",
+      "author_link": "https://www.reddit.com/user/SupehCookie/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Ouroboros drawn in bold comic-book style with Ben Day dots suggesting motion.",
+      "reference_images": [],
+      "prompt": "an Ouroboros in a comicbook theme, with ben day dots make the Ouroboros look like its moving\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Comic-Book Ouroboros with Ben Day Dots",
+        "prompt_author": "SupehCookie",
+        "prompt_author_link": "https://www.reddit.com/user/SupehCookie/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Ouroboros drawn in bold comic-book style with Ben Day dots suggesting motion."
+      }
+    },
+    {
+      "case_no": 34,
+      "title": "Space-Age 60s Living Room at Golden Hour",
+      "author": "Polstick1971",
+      "author_link": "https://www.reddit.com/user/Polstick1971/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Retro space-age 1960s style living room bathed in warm golden-hour light.",
+      "reference_images": [],
+      "prompt": "Space age 60’s style living room. Golden hour. Nostalgic feeling.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Space-Age 60s Living Room at Golden Hour",
+        "prompt_author": "Polstick1971",
+        "prompt_author_link": "https://www.reddit.com/user/Polstick1971/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Retro space-age 1960s style living room bathed in warm golden-hour light."
+      }
+    },
+    {
+      "case_no": 33,
+      "title": "A Burger, but not",
+      "author": "HeraclesLeftNipple",
+      "author_link": "https://www.reddit.com/user/HeraclesLeftNipple/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "A Burger, but not.",
+      "reference_images": [],
+      "prompt": "A Burger, but not.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "A Burger, but not",
+        "prompt_author": "HeraclesLeftNipple",
+        "prompt_author_link": "https://www.reddit.com/user/HeraclesLeftNipple/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "A Burger, but not."
+      }
+    },
+    {
+      "case_no": 32,
+      "title": "Blue Oranges and a Purple Apple",
+      "author": "Head_Phrase_7084",
+      "author_link": "https://www.reddit.com/user/Head_Phrase_7084/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "White bowl filled with vivid blue oranges and a single purple apple in the center.",
+      "reference_images": [],
+      "prompt": "Photo of a white bowl filled with blue oranges and a singular purple apple in the center\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Blue Oranges and a Purple Apple",
+        "prompt_author": "Head_Phrase_7084",
+        "prompt_author_link": "https://www.reddit.com/user/Head_Phrase_7084/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "White bowl filled with vivid blue oranges and a single purple apple in the center."
+      }
+    },
+    {
+      "case_no": 31,
+      "title": "Tiny Human Inside an Acoustic Guitar",
+      "author": "xGRAPH1KSx",
+      "author_link": "https://www.reddit.com/user/xGRAPH1KSx/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Surreal view from inside an acoustic guitar with a tiny person standing among its inner bracing.",
+      "reference_images": [],
+      "prompt": "a tiny human standing in the inside of an accoustic guitar revealing all the inner workings and details of the hollow space that is contained within a guitar.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Tiny Human Inside an Acoustic Guitar",
+        "prompt_author": "xGRAPH1KSx",
+        "prompt_author_link": "https://www.reddit.com/user/xGRAPH1KSx/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Surreal view from inside an acoustic guitar with a tiny person standing among its inner bracing."
+      }
+    },
+    {
+      "case_no": 30,
+      "title": "Anne Boleyn Actress iPhone Selfie",
+      "author": "Bait_Shop_Guy_",
+      "author_link": "https://www.reddit.com/user/Bait_Shop_Guy_/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Casual iPhone selfie of a smiling young actress dressed as Anne Boleyn on an outdoor film set.",
+      "reference_images": [],
+      "prompt": "Amateur, medicore iPhone selfie of smiling young actress dressed as Anne Boleyn. Outdoor movie set setting, daytime, clear blue sky.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Anne Boleyn Actress iPhone Selfie",
+        "prompt_author": "Bait_Shop_Guy_",
+        "prompt_author_link": "https://www.reddit.com/user/Bait_Shop_Guy_/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Casual iPhone selfie of a smiling young actress dressed as Anne Boleyn on an outdoor film set."
+      }
+    },
+    {
+      "case_no": 29,
+      "title": "Wind Turbine over the Swiss Alps",
+      "author": "Kosmicce",
+      "author_link": "https://www.reddit.com/user/Kosmicce/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Drone close-up of a wind turbine spinning above snowy Swiss Alps on a clear sunny day.",
+      "reference_images": [],
+      "prompt": "Close-up drone shot of a wind turbine on top of swiss alps, beautiful sunny day, no clouds\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Wind Turbine over the Swiss Alps",
+        "prompt_author": "Kosmicce",
+        "prompt_author_link": "https://www.reddit.com/user/Kosmicce/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Drone close-up of a wind turbine spinning above snowy Swiss Alps on a clear sunny day."
+      }
+    },
+    {
+      "case_no": 28,
+      "title": "Brazilian Zouk Demo at Warsaw Zouk Festival",
+      "author": "zactral",
+      "author_link": "https://www.reddit.com/user/zactral/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Photorealistic couple dancing Brazilian Zouk while a crowd watches and a videographer films at a festival.",
+      "reference_images": [],
+      "prompt": "A couple doing a Brazilian Zouk dance demo at Warsaw Zouk Festival while a crowd of people watches and a videographer films the dancers, photorealistic.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Brazilian Zouk Demo at Warsaw Zouk Festival",
+        "prompt_author": "zactral",
+        "prompt_author_link": "https://www.reddit.com/user/zactral/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Photorealistic couple dancing Brazilian Zouk while a crowd watches and a videographer films at a festival."
+      }
+    },
+    {
+      "case_no": 27,
+      "title": "CT5-V Blackwing and Purple Hellcat at Dusk",
+      "author": "InformalNatural1134",
+      "author_link": "https://www.reddit.com/user/InformalNatural1134/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Radiant red CT5-V Blackwing and gloss purple Hellcat parked side by side in an empty lot at evening.",
+      "reference_images": [],
+      "prompt": "A ct5 v black wing radiant red and a gloss purple hellcat parked together in a empty parking lot in evening\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "CT5-V Blackwing and Purple Hellcat at Dusk",
+        "prompt_author": "InformalNatural1134",
+        "prompt_author_link": "https://www.reddit.com/user/InformalNatural1134/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Radiant red CT5-V Blackwing and gloss purple Hellcat parked side by side in an empty lot at evening."
+      }
+    },
+    {
+      "case_no": 26,
+      "title": "Web App UI with QR Code",
+      "author": "Camaraderie",
+      "author_link": "https://www.reddit.com/user/Camaraderie/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Modern web app mockup UI featuring a prominent scannable QR code linking to google.com.",
+      "reference_images": [],
+      "prompt": "Generate a mock UI for a web application with modern styling and CSS. Place a QR code with the encoding payload 'https://google.com'. The QR code must be scannable.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Web App UI with QR Code",
+        "prompt_author": "Camaraderie",
+        "prompt_author_link": "https://www.reddit.com/user/Camaraderie/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Modern web app mockup UI featuring a prominent scannable QR code linking to google.com."
+      }
+    },
+    {
+      "case_no": 25,
+      "title": "Sveavägen Street in Stockholm",
+      "author": "kyprianou",
+      "author_link": "https://www.reddit.com/user/kyprianou/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Street-level view of Sveavägen in Stockholm with cars, buildings and Nordic city atmosphere.",
+      "reference_images": [],
+      "prompt": "Sveavägen, Stockholm\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Sveavägen Street in Stockholm",
+        "prompt_author": "kyprianou",
+        "prompt_author_link": "https://www.reddit.com/user/kyprianou/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Street-level view of Sveavägen in Stockholm with cars, buildings and Nordic city atmosphere."
+      }
+    },
+    {
+      "case_no": 24,
+      "title": "Volcanic Werewolf Camo Pattern",
+      "author": "SentinelHalo",
+      "author_link": "https://www.reddit.com/user/SentinelHalo/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Seamless ember-orange and charcoal-black camouflage pattern hiding snarling wolf faces.",
+      "reference_images": [],
+      "prompt": "Volcanic-inspired werewolf camo pattern using ember-orange, charcoal-black, and deep red hues, molten cracks forming hidden wolf faces and snarls, flame-like fur textures, jagged claw-scar geometry, intense and supernatural, seamless repeating pattern\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Volcanic Werewolf Camo Pattern",
+        "prompt_author": "SentinelHalo",
+        "prompt_author_link": "https://www.reddit.com/user/SentinelHalo/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Seamless ember-orange and charcoal-black camouflage pattern hiding snarling wolf faces."
+      }
+    },
+    {
+      "case_no": 23,
+      "title": "Cats Boxing in the Ring",
+      "author": "Every_Ad_2705",
+      "author_link": "https://www.reddit.com/user/Every_Ad_2705/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Two cats wearing boxing gloves fight in a boxing ring.",
+      "reference_images": [],
+      "prompt": "2 cats in the ring boxing it out\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Cats Boxing in the Ring",
+        "prompt_author": "Every_Ad_2705",
+        "prompt_author_link": "https://www.reddit.com/user/Every_Ad_2705/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Two cats wearing boxing gloves fight in a boxing ring."
+      }
+    },
+    {
+      "case_no": 22,
+      "title": "Orchestra Playing 'Baby Got Back' in Vienna",
+      "author": "ryebrye",
+      "author_link": "https://www.reddit.com/user/ryebrye/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Conductor’s-eye view of a Viennese orchestra at a Christmas concert performing an arrangement of 'Baby Got Back'.",
+      "reference_images": [],
+      "prompt": "a conductor's point of view of an orchestra during a Christmas concert in Vienna, with the score for an orchestral arrangement of \"Baby Got Back\" on the music stand. Photorealistic. RF 20mm f/1.4 L VCM lens at 4.0, Canon R5 with Aperture priority +1 ev.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Orchestra Playing 'Baby Got Back' in Vienna",
+        "prompt_author": "ryebrye",
+        "prompt_author_link": "https://www.reddit.com/user/ryebrye/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Conductor’s-eye view of a Viennese orchestra at a Christmas concert performing an arrangement of 'Baby Got Back'."
+      }
+    },
+    {
+      "case_no": 21,
+      "title": "Business Conversation Film Still",
+      "author": "Bait_Shop_Guy_",
+      "author_link": "https://www.reddit.com/user/Bait_Shop_Guy_/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Movie-style shot of a red-haired woman in a black blazer talking with a man in a blue suit indoors.",
+      "reference_images": [],
+      "prompt": "A redhead woman in a black blazer talks with a man in a blue business suit. Indoor setting. Screencap from a film.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Business Conversation Film Still",
+        "prompt_author": "Bait_Shop_Guy_",
+        "prompt_author_link": "https://www.reddit.com/user/Bait_Shop_Guy_/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Movie-style shot of a red-haired woman in a black blazer talking with a man in a blue suit indoors."
+      }
+    },
+    {
+      "case_no": 20,
+      "title": "Soviet Manual on Human-Wolf Hybrids",
+      "author": "ryebrye",
+      "author_link": "https://www.reddit.com/user/ryebrye/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Retro Technicolor-style frame of a werewolf reading a Soviet biology textbook about human-wolf hybrids with a sparkly vampire in a glass cage behind.",
+      "reference_images": [],
+      "prompt": "A soviet biology textbook open to the page describing how to hybridize a human and a wolf, photo realistic - being read by a werewolf with a sparkly vampire in a glass cage in the background. 1940's styling. Frame from a 1953 motion picture in technicolor.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Soviet Manual on Human-Wolf Hybrids",
+        "prompt_author": "ryebrye",
+        "prompt_author_link": "https://www.reddit.com/user/ryebrye/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Retro Technicolor-style frame of a werewolf reading a Soviet biology textbook about human-wolf hybrids with a sparkly vampire in a glass cage behind."
+      }
+    },
+    {
+      "case_no": 19,
+      "title": "Old Lady Balancing Sumo Wrestlers on the Statue of Liberty",
+      "author": "maynmaynmayn",
+      "author_link": "https://www.reddit.com/user/maynmaynmayn/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Cartoony scene of an old lady atop the Statue of Liberty balancing three stacked sumo wrestlers on her pinky.",
+      "reference_images": [],
+      "prompt": "An old lady balancing 3 sumo wrestlers on her pinky finger, each sumo wrestler balances the others on their pinky fingers, the old lady is balancing on the top of the statue of liberty\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Old Lady Balancing Sumo Wrestlers on the Statue of Liberty",
+        "prompt_author": "maynmaynmayn",
+        "prompt_author_link": "https://www.reddit.com/user/maynmaynmayn/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Cartoony scene of an old lady atop the Statue of Liberty balancing three stacked sumo wrestlers on her pinky."
+      }
+    },
+    {
+      "case_no": 18,
+      "title": "Sun Exploding into Pigeons",
+      "author": "neoqueto",
+      "author_link": "https://www.reddit.com/user/neoqueto/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Photorealistic doomsday scene where the Sun erupts into flocks of pigeons as an old lady exclaims 'oh, crikey!'.",
+      "reference_images": [],
+      "prompt": "A very photorealistic image of the Sun vigorously exploding into a bunch of pigeons and an old lady looking at the situation saying \"oh, crikey!\", some of the pigeons are wearing pink wedding dresses, but don't be fooled, this is certainly a doomsday scenario, Earth is cooked.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Sun Exploding into Pigeons",
+        "prompt_author": "neoqueto",
+        "prompt_author_link": "https://www.reddit.com/user/neoqueto/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Photorealistic doomsday scene where the Sun erupts into flocks of pigeons as an old lady exclaims 'oh, crikey!'."
+      }
+    },
+    {
+      "case_no": 17,
+      "title": "Big-Headed Superhero Sprite Sheet",
+      "author": "hydrangers",
+      "author_link": "https://www.reddit.com/user/hydrangers/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "2D sprite sheet of a big-headed blue-and-red superhero in multiple animation poses.",
+      "reference_images": [],
+      "prompt": "a sprite sheet for various animation for a single character for a 2d game. The hero should have a big head, cell shaded appearance, blue spandex suit with red face mask, red gloves, and red boots\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Big-Headed Superhero Sprite Sheet",
+        "prompt_author": "hydrangers",
+        "prompt_author_link": "https://www.reddit.com/user/hydrangers/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "2D sprite sheet of a big-headed blue-and-red superhero in multiple animation poses."
+      }
+    },
+    {
+      "case_no": 16,
+      "title": "Gemini Solves Cancer and World Peace",
+      "author": "Feisty_Test_9388",
+      "author_link": "https://www.reddit.com/user/Feisty_Test_9388/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Futuristic AI Gemini is depicted discovering a cure for cancer and ushering in world peace.",
+      "reference_images": [],
+      "prompt": "Gemini finding cure to cancer and establishing world peace\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Gemini Solves Cancer and World Peace",
+        "prompt_author": "Feisty_Test_9388",
+        "prompt_author_link": "https://www.reddit.com/user/Feisty_Test_9388/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Futuristic AI Gemini is depicted discovering a cure for cancer and ushering in world peace."
+      }
+    },
+    {
+      "case_no": 15,
+      "title": "One-Eyed Whippet on a Moped",
+      "author": "douggieball1312",
+      "author_link": "https://www.reddit.com/user/douggieball1312/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "A whippet wearing an eye patch rides a moped down a UK street lined with boarded-up shops.",
+      "reference_images": [],
+      "prompt": "A whippet with an eye patch riding a moped through a UK street filled with shops with boarded up windows.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "One-Eyed Whippet on a Moped",
+        "prompt_author": "douggieball1312",
+        "prompt_author_link": "https://www.reddit.com/user/douggieball1312/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "A whippet wearing an eye patch rides a moped down a UK street lined with boarded-up shops."
+      }
+    },
+    {
+      "case_no": 14,
+      "title": "Duck, Chicken and Parrot Riding a Scooter",
+      "author": "maynmaynmayn",
+      "author_link": "https://www.reddit.com/user/maynmaynmayn/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "A parrot drives an electric scooter while a chicken rides on its shoulders and a duck rides on the chicken through a theme park.",
+      "reference_images": [],
+      "prompt": "A duck riding a chicken that sits in the shoulders of a parrot that drives and electric scooter in a theme park\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Duck, Chicken and Parrot Riding a Scooter",
+        "prompt_author": "maynmaynmayn",
+        "prompt_author_link": "https://www.reddit.com/user/maynmaynmayn/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "A parrot drives an electric scooter while a chicken rides on its shoulders and a duck rides on the chicken through a theme park."
+      }
+    },
+    {
+      "case_no": 13,
+      "title": "Lightning Radar Browser UI",
+      "author": "BasketFar667",
+      "author_link": "https://www.reddit.com/user/BasketFar667/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Weather-style radar interface in a browser visualizing lightning strikes on a map.",
+      "reference_images": [],
+      "prompt": "Lightning Radar: A copy of the browser version of Lightning Radar.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Lightning Radar Browser UI",
+        "prompt_author": "BasketFar667",
+        "prompt_author_link": "https://www.reddit.com/user/BasketFar667/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Weather-style radar interface in a browser visualizing lightning strikes on a map."
+      }
+    },
+    {
+      "case_no": 12,
+      "title": "Floral Calculus Blackboard",
+      "author": "Longjumping_Spot5843",
+      "author_link": "https://www.reddit.com/user/Longjumping_Spot5843/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Blackboard with a solved calculus integral whose colorful chalk lines form a flower-like artwork.",
+      "reference_images": [],
+      "prompt": "A hard calculus integration problem written and solved on a blackboard, but the text itself and the chalk is sort of turned into this coloured artwork that looks like a flower. (as a photo)\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Floral Calculus Blackboard",
+        "prompt_author": "Longjumping_Spot5843",
+        "prompt_author_link": "https://www.reddit.com/user/Longjumping_Spot5843/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Blackboard with a solved calculus integral whose colorful chalk lines form a flower-like artwork."
+      }
+    },
+    {
+      "case_no": 11,
+      "title": "Grizzly Bear Showing a Meme to a Hiker",
+      "author": "maynmaynmayn",
+      "author_link": "https://www.reddit.com/user/maynmaynmayn/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "A grizzly bear holds a meme photo of another bear in front of a real hiker in the forest.",
+      "reference_images": [],
+      "prompt": "A grizzly bear holding a picture with a meme of a grizzly bear in the forest, in front of a real hiker\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Grizzly Bear Showing a Meme to a Hiker",
+        "prompt_author": "maynmaynmayn",
+        "prompt_author_link": "https://www.reddit.com/user/maynmaynmayn/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "A grizzly bear holds a meme photo of another bear in front of a real hiker in the forest."
+      }
+    },
+    {
+      "case_no": 10,
+      "title": "Man Drinking Sushi Water Under Surreal Skies",
+      "author": "Rare-Belt-9644",
+      "author_link": "https://www.reddit.com/user/Rare-Belt-9644/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Smirking man drinks a bottle of sushi water while gazing at strangely shaped skies.",
+      "reference_images": [],
+      "prompt": "A man drinking bottle of sushi water and looking at beautiful-shaped skies, smirking\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Man Drinking Sushi Water Under Surreal Skies",
+        "prompt_author": "Rare-Belt-9644",
+        "prompt_author_link": "https://www.reddit.com/user/Rare-Belt-9644/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Smirking man drinks a bottle of sushi water while gazing at strangely shaped skies."
+      }
+    },
+    {
+      "case_no": 9,
+      "title": "Stylized 3D Zombie Character",
+      "author": "Fysikz",
+      "author_link": "https://www.reddit.com/user/Fysikz/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Graphic 3D zombie with decaying flesh and bold, saturated colors.",
+      "reference_images": [],
+      "prompt": "3D character model of a zombie. The style should be stylized and graphic, with crisp, defined, and bold colors. The zombie should have a gloomy inspired aesthetic only wearing torn shorts. Has decaying flesh.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Stylized 3D Zombie Character",
+        "prompt_author": "Fysikz",
+        "prompt_author_link": "https://www.reddit.com/user/Fysikz/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Graphic 3D zombie with decaying flesh and bold, saturated colors."
+      }
+    },
+    {
+      "case_no": 8,
+      "title": "Elderly Couple Watching a B-2 Bomber",
+      "author": "Snoo26837",
+      "author_link": "https://www.reddit.com/user/Snoo26837/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Grainy film photo of an elderly couple on a vast tarmac facing a distant B-2 stealth bomber.",
+      "reference_images": [],
+      "prompt": "35mm film photograph, full shot from behind of an elderly man in a long black overcoat and an elderly woman in a long deep red overcoat, standing symmetrically on a vast concrete tarmac. They are looking at a Northrop Grumman B-2 Spirit stealth bomber parked in the middle distance. In the far background are hazy, snow-capped mountains under a pale blue sky. The top third of the image is framed by the interior ceiling of a massive hangar with horizontal beams. Cinematic and formal composition, muted color palette, visible film grain, somber and powerful atmosphere. --ar 2:3 --style raw --v 6.0\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Elderly Couple Watching a B-2 Bomber",
+        "prompt_author": "Snoo26837",
+        "prompt_author_link": "https://www.reddit.com/user/Snoo26837/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Grainy film photo of an elderly couple on a vast tarmac facing a distant B-2 stealth bomber."
+      }
+    },
+    {
+      "case_no": 7,
+      "title": "Biden’s Dog Holding a 2018 Newspaper",
+      "author": "Healthy_Razzmatazz38",
+      "author_link": "https://www.reddit.com/user/Healthy_Razzmatazz38/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Biden’s pet dog stands on a skateboard holding a newspaper with an October 1, 2018 headline.",
+      "reference_images": [],
+      "prompt": "the breed of dog which biden had as a pet holding up a newspaper with the top headline from october 1st 2018 on a skateboard.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Biden’s Dog Holding a 2018 Newspaper",
+        "prompt_author": "Healthy_Razzmatazz38",
+        "prompt_author_link": "https://www.reddit.com/user/Healthy_Razzmatazz38/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Biden’s pet dog stands on a skateboard holding a newspaper with an October 1, 2018 headline."
+      }
+    },
+    {
+      "case_no": 6,
+      "title": "A Motorbike Made of Sharks",
+      "author": "Dependent_Piece_5781",
+      "author_link": "https://www.reddit.com/user/Dependent_Piece_5781/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "A motorbike made of sharks",
+      "reference_images": [],
+      "prompt": "A motorbike made of sharks\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "A Motorbike Made of Sharks",
+        "prompt_author": "Dependent_Piece_5781",
+        "prompt_author_link": "https://www.reddit.com/user/Dependent_Piece_5781/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "A motorbike made of sharks"
+      }
+    },
+    {
+      "case_no": 5,
+      "title": "Five Adventurers in a Luminous Cave",
+      "author": "Kiitani",
+      "author_link": "https://www.reddit.com/user/Kiitani/",
+      "source_links": [
+        {
+          "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+        }
+      ],
+      "image": "case.png",
+      "alt_text": "Animated fantasy party of five adventurers exploring a glowing cave corridor.",
+      "reference_images": [],
+      "prompt": "an animated illustration of a party of five adventurers navigating a cave system. In the middle, the tall, old guide stands. He is dressed in navy blue wizard robes. He has a silver goatee and a wise smile on his face. He holds a brown walking stick. He is carrying a heavy load of packs. A grimoire floats next to him, creating a luminescent light to guide the way. On his right, stands the towering Berserker. The berserker is wearing fur armor. He has a sculpted, muscular and tall build. His muscles are covered in storm lightning runes that flicker and crack. He is carrying twin axes, one in his left hand, and another in his axe holster on his hip. He has a large bastardsword on his back. He is gnawing on a huge piece of meat which he holds with his right hand. On the right of the berserker stands the pretty, fair-skinned healer. She is short and cute, wearing pure white priestess robes with golden trim. She has blonde hair and she is actually levitating a bit off the ground, with an aura around her. On the left of the guide stands a mischievious, redhead archer with a crafty smile on her face. She is drawing her bow. She has a number of arrows on her back and bombs strapped to her leather armor. She is slender and of average height. Next to her left stands the bald monk with five shaolin marks on his head. He wears orange monk robes and has a lean-muscular build. He is wearing sandals. He is carrying daoist builds and holding his hands close together in prayer.\n",
+      "submitter": "",
+      "submitter_link": "",
+      "attribution": {
+        "title": "Five Adventurers in a Luminous Cave",
+        "prompt_author": "Kiitani",
+        "prompt_author_link": "https://www.reddit.com/user/Kiitani/",
+        "image_author": "vladislavkochergin01",
+        "image_author_link": "https://www.reddit.com/user/vladislavkochergin01/",
+        "source_links": [
+          {
+            "url": "https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/"
+          }
+        ],
+        "license": "CC-BY-4.0",
+        "creation_tool": "nano-banana 2",
+        "date": "2025-11-19T00:00:00.000Z",
+        "notes": "Animated fantasy party of five adventurers exploring a glowing cave corridor."
+      }
+    },
     {
       "case_no": 4,
       "title": "CNN Election Results TV Broadcast",
