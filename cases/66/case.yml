@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Color Grading and Palette Adjustment from Reference Image"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A recolored version of the reference image where the overall color scheme, lighting, and shadows are adjusted to a new palette while preserving the original subject and composition."
 reference_images:
   - input.webp
 prompt: |

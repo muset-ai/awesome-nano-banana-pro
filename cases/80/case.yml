@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Top-Angle Black-and-White Portrait"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A high-resolution black-and-white close-up portrait shot from a high angle, focusing on the face, upper chest, and shoulders against a deep black shadow background."
 reference_images:
   - input.webp
 prompt: |

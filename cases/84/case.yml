@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Storyboard Generated from a Single Image"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.jpg
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A storyboard derived from the uploaded image, showing key moments and transitions with cinematic framing, camera movements, and angles that convey the scene’s narrative flow."
 reference_images:
   - input.webp
 prompt: |

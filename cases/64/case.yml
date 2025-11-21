@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "High-Quality Photo Enhancement from Reference Image"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "An enhanced version of the original reference photo with improved resolution, sharpness, texture clarity, and realistic lighting while preserving the original composition and colors."
 reference_images:
   - input.webp
 prompt: |

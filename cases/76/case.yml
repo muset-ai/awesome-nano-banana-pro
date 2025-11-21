@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "16-Bit Video Game Character Recreation"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A 16-bit pixel art version of the original character placed in a side-scrolling 2D platformer level, retaining the character’s key features within a retro game environment."
 reference_images:
   - input.webp
 prompt: |

@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Dual-Image Redraw and Aspect Ratio Transfer"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "Two combined reference images where the content of the first image has been redrawn to fill the aspect ratio of the second, with the original content of the second image cleared and only its aspect ratio preserved."
 reference_images:
   - input1.webp
   - input2.webp

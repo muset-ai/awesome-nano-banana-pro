@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Two-Step Living Room Redesign from Reference Photos"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A living room scene evolved in two steps from the reference images, first adding a gray sofa and wooden coffee table, then enriching the space with more furniture, daily items, and warmer wallpaper."
 reference_images:
   - input.webp
   - input2.webp

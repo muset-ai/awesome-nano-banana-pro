@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "3x3 Studio-Style Photo Strip Grid"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A 3x3 grid of photo strips derived from the original image, each panel showing different studio-style poses and facial expressions in a cohesive layout."
 reference_images:
   - input.webp
 prompt: |

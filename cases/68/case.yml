@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Image Outpainting Extension from Reference Photo"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "An extended version of the original reference photo where new content has been generated beyond the original borders, seamlessly matching the style, colors, lighting, and perspective."
 reference_images:
   - input.webp
 prompt: |

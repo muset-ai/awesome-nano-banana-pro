@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T14:00:59.587Z",
+  "generated_at": "2025-11-21T14:40:21.243Z",
   "cases": [
     {
       "case_no": 1,
@@ -2118,7 +2118,7 @@
     },
     {
       "case_no": 64,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "High-Quality Photo Enhancement from Reference Image",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2127,7 +2127,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "An enhanced version of the original reference photo with improved resolution, sharpness, texture clarity, and realistic lighting while preserving the original composition and colors.",
       "reference_images": [
         "input.webp"
       ],
@@ -2135,7 +2135,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "High-Quality Photo Enhancement from Reference Image",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2153,7 +2153,7 @@
     },
     {
       "case_no": 65,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Weather Transformation Based on Reference Image",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2162,7 +2162,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A transformed version of the original photo where the weather has been changed while keeping the main subject and scene intact, with lighting, shadows, and colors adjusted to match the new weather in a photorealistic way.",
       "reference_images": [
         "input.webp"
       ],
@@ -2170,7 +2170,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Weather Transformation Based on Reference Image",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2188,7 +2188,7 @@
     },
     {
       "case_no": 66,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Color Grading and Palette Adjustment from Reference Image",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2197,7 +2197,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A recolored version of the reference image where the overall color scheme, lighting, and shadows are adjusted to a new palette while preserving the original subject and composition.",
       "reference_images": [
         "input.webp"
       ],
@@ -2205,7 +2205,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Color Grading and Palette Adjustment from Reference Image",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2223,7 +2223,7 @@
     },
     {
       "case_no": 67,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Targeted content replacement in a reference image",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2232,7 +2232,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A photorealistic image where a specific target element from the reference image has been replaced with a new subject, seamlessly blended with the original lighting, perspective, and style.",
       "reference_images": [
         "input.webp"
       ],
@@ -2240,7 +2240,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Targeted content replacement in a reference image",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2258,7 +2258,7 @@
     },
     {
       "case_no": 68,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Image Outpainting Extension from Reference Photo",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2267,7 +2267,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "An extended version of the original reference photo where new content has been generated beyond the original borders, seamlessly matching the style, colors, lighting, and perspective.",
       "reference_images": [
         "input.webp"
       ],
@@ -2275,7 +2275,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Image Outpainting Extension from Reference Photo",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2293,7 +2293,7 @@
     },
     {
       "case_no": 69,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Dual-Image Redraw and Aspect Ratio Transfer",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2302,7 +2302,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "Two combined reference images where the content of the first image has been redrawn to fill the aspect ratio of the second, with the original content of the second image cleared and only its aspect ratio preserved.",
       "reference_images": [
         "input1.webp",
         "input2.webp"
@@ -2311,7 +2311,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Dual-Image Redraw and Aspect Ratio Transfer",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2329,7 +2329,7 @@
     },
     {
       "case_no": 70,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "3x3 Studio-Style Photo Strip Grid",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2338,7 +2338,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A 3x3 grid of photo strips derived from the original image, each panel showing different studio-style poses and facial expressions in a cohesive layout.",
       "reference_images": [
         "input.webp"
       ],
@@ -2346,7 +2346,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "3x3 Studio-Style Photo Strip Grid",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2364,7 +2364,7 @@
     },
     {
       "case_no": 71,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Line Art to Fully Colored Illustration",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2373,7 +2373,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A fully colored and detailed illustration generated from the original line art, preserving all outlines and composition while adding realistic lighting, shadows, and textures.",
       "reference_images": [
         "input.webp"
       ],
@@ -2381,7 +2381,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Line Art to Fully Colored Illustration",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2399,7 +2399,7 @@
     },
     {
       "case_no": 72,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Line Art Colorization with Detailed Rendering",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2408,7 +2408,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A richly colored, fully rendered version of the original line art, keeping all line work intact while adding detailed lighting, shadows, and textures in the chosen style.",
       "reference_images": [
         "input.webp"
       ],
@@ -2416,7 +2416,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Line Art Colorization with Detailed Rendering",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2434,7 +2434,7 @@
     },
     {
       "case_no": 73,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Two-Step Living Room Redesign from Reference Photos",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2443,7 +2443,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A living room scene evolved in two steps from the reference images, first adding a gray sofa and wooden coffee table, then enriching the space with more furniture, daily items, and warmer wallpaper.",
       "reference_images": [
         "input.webp",
         "input2.webp"
@@ -2452,7 +2452,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Two-Step Living Room Redesign from Reference Photos",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2470,7 +2470,7 @@
     },
     {
       "case_no": 74,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Object or Scene Creation from Listed Items",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2479,7 +2479,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "An image of a logically composed object or scene constructed from the provided list of items, with clear placement, appropriate proportions, and a coherent visual style.",
       "reference_images": [
         "input.webp"
       ],
@@ -2487,7 +2487,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Object or Scene Creation from Listed Items",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2505,7 +2505,7 @@
     },
     {
       "case_no": 75,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Anatomical Infographic of a Fictional Character",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2514,7 +2514,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A bilaterally symmetrical frontal anatomical illustration of a fictional character, showing external features and partially exposed internal anatomy with explanatory infographic-style labels.",
       "reference_images": [
         "input.webp"
       ],
@@ -2522,7 +2522,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Anatomical Infographic of a Fictional Character",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2540,7 +2540,7 @@
     },
     {
       "case_no": 76,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "16-Bit Video Game Character Recreation",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2549,7 +2549,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A 16-bit pixel art version of the original character placed in a side-scrolling 2D platformer level, retaining the character’s key features within a retro game environment.",
       "reference_images": [
         "input.webp"
       ],
@@ -2557,7 +2557,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "16-Bit Video Game Character Recreation",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2575,7 +2575,7 @@
     },
     {
       "case_no": 77,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Polaroid-Style Snapshot with Curtain Background",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2584,7 +2584,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A slightly blurred Polaroid-style photograph with two people in front of a plain white curtain background, natural flash lighting, and unchanged faces.",
       "reference_images": [
         "input.webp"
       ],
@@ -2592,7 +2592,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Polaroid-Style Snapshot with Curtain Background",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2610,7 +2610,7 @@
     },
     {
       "case_no": 78,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Soft Sunlit Portrait in Yellow Saree",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2619,7 +2619,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A soft, sunlit portrait of a person in a flowing sheer yellow saree with floral embroidery, seated against a plain wall with artistic sunlight, holding sunflowers and exuding a serene, romantic mood.",
       "reference_images": [
         "input.webp"
       ],
@@ -2627,7 +2627,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Soft Sunlit Portrait in Yellow Saree",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2645,7 +2645,7 @@
     },
     {
       "case_no": 79,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Polaroid Hug Scene with White Curtain Background",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2654,7 +2654,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A slightly blurred Polaroid-style photograph where two people from the reference image appear to be hugging each other in front of white curtains, with consistent flash lighting and unchanged faces.",
       "reference_images": [
         "input.webp"
       ],
@@ -2662,7 +2662,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Polaroid Hug Scene with White Curtain Background",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2680,7 +2680,7 @@
     },
     {
       "case_no": 80,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Top-Angle Black-and-White Portrait",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2689,7 +2689,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A high-resolution black-and-white close-up portrait shot from a high angle, focusing on the face, upper chest, and shoulders against a deep black shadow background.",
       "reference_images": [
         "input.webp"
       ],
@@ -2697,7 +2697,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Top-Angle Black-and-White Portrait",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2715,7 +2715,7 @@
     },
     {
       "case_no": 81,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Vertical Cinematic Portrait with Red Background",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2724,7 +2724,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A vertical portrait of the same face captured from a slightly low angle with stark cinematic lighting, intense contrast, and a deep crimson red background contrasting with luminous skin and dark clothing.",
       "reference_images": [
         "input.webp"
       ],
@@ -2732,7 +2732,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Vertical Cinematic Portrait with Red Background",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2750,7 +2750,7 @@
     },
     {
       "case_no": 82,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Exploded Technical View of a Product",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2759,7 +2759,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "An ultra-detailed exploded view of a product with metallic parts and electronic components floating in mid-air, perfectly aligned to reveal the internal structure with cinematic lighting.",
       "reference_images": [
         "input.webp"
       ],
@@ -2767,7 +2767,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Exploded Technical View of a Product",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2785,7 +2785,7 @@
     },
     {
       "case_no": 83,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "100x Zoom Detail View of a Scene",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2794,7 +2794,7 @@
         }
       ],
       "image": "case.webp",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "An extremely close 100x zoomed-in view of the original image, preserving aspect ratio, sharp details, intricate textures, and natural colors without distortion.",
       "reference_images": [
         "input.webp"
       ],
@@ -2802,7 +2802,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "100x Zoom Detail View of a Scene",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2820,7 +2820,7 @@
     },
     {
       "case_no": 84,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Storyboard Generated from a Single Image",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2829,7 +2829,7 @@
         }
       ],
       "image": "case.jpg",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A storyboard derived from the uploaded image, showing key moments and transitions with cinematic framing, camera movements, and angles that convey the scene’s narrative flow.",
       "reference_images": [
         "input.webp"
       ],
@@ -2837,7 +2837,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Storyboard Generated from a Single Image",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2855,7 +2855,7 @@
     },
     {
       "case_no": 85,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Tom Yum Goong Soup Recipe Infographic",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2864,7 +2864,7 @@
         }
       ],
       "image": "case.jpg",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "An infographic that visually explains how to make Thai Tom Yum Goong Soup, including ingredients and step-by-step recipe elements.",
       "reference_images": [
         "input.webp"
       ],
@@ -2872,7 +2872,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Tom Yum Goong Soup Recipe Infographic",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2890,7 +2890,7 @@
     },
     {
       "case_no": 86,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Background and Blanket Focus with Blurred Child",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2899,7 +2899,7 @@
         }
       ],
       "image": "case.jpg",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A photograph where the trees and blanket in the background are sharp and emphasized, while the child in the foreground is intentionally blurred.",
       "reference_images": [
         "input.jpg"
       ],
@@ -2907,7 +2907,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Background and Blanket Focus with Blurred Child",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",
@@ -2925,7 +2925,7 @@
     },
     {
       "case_no": 87,
-      "title": "Clothing Extraction for E-Commerce Photo",
+      "title": "Minimal Food Letter Logos on White Background",
       "author": "Marvin",
       "author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
       "source_links": [
@@ -2934,7 +2934,7 @@
         }
       ],
       "image": "case.jpg",
-      "alt_text": "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background.",
+      "alt_text": "A set of eight sophisticated minimalistic logos arranged on a solid white background, each logo forming letters made from realistic food to express the meaning of the word.",
       "reference_images": [
         "input.jpg"
       ],
@@ -2942,7 +2942,7 @@
       "submitter": "",
       "submitter_link": "",
       "attribution": {
-        "title": "Clothing Extraction for E-Commerce Photo",
+        "title": "Minimal Food Letter Logos on White Background",
         "prompt_author": "Marvin",
         "prompt_author_link": "https://www.fotor.com/blog/author/marvin-tompkins/",
         "image_author": "Marvin",

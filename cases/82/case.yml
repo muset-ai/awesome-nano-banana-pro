@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Exploded Technical View of a Product"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "An ultra-detailed exploded view of a product with metallic parts and electronic components floating in mid-air, perfectly aligned to reveal the internal structure with cinematic lighting."
 reference_images:
   - input.webp
 prompt: |

@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Polaroid Hug Scene with White Curtain Background"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A slightly blurred Polaroid-style photograph where two people from the reference image appear to be hugging each other in front of white curtains, with consistent flash lighting and unchanged faces."
 reference_images:
   - input.webp
 prompt: |

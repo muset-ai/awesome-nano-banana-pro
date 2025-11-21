@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Line Art Colorization with Detailed Rendering"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A richly colored, fully rendered version of the original line art, keeping all line work intact while adding detailed lighting, shadows, and textures in the chosen style."
 reference_images:
   - input.webp
 prompt: |

@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Soft Sunlit Portrait in Yellow Saree"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "A soft, sunlit portrait of a person in a flowing sheer yellow saree with floral embroidery, seated against a plain wall with artistic sunlight, holding sunflowers and exuding a serene, romantic mood."
 reference_images:
   - input.webp
 prompt: |

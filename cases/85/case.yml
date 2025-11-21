@@ -1,10 +1,10 @@
-title: "Clothing Extraction for E-Commerce Photo"
+title: "Tom Yum Goong Soup Recipe Infographic"
 author: "Marvin"
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.jpg
-alt_text: "The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."
+alt_text: "An infographic that visually explains how to make Thai Tom Yum Goong Soup, including ingredients and step-by-step recipe elements."
 reference_images:
   - input.webp
 prompt: |
