@@ -49,89 +49,909 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
-*   [Case 45: 蜜雪冰城商业海报 (by 雪佬说)](#cases-45)
-*   [Case 44: 过肩镜头：雨夜瘦金体书稿 (by 雪佬说)](#cases-44)
-*   [Case 43: 老北京航拍：光影显形的“衚”字 (by 雪佬说)](#cases-43)
-*   [Case 42: 大唐长安 插画长卷地图 (by 雪佬说)](#cases-42)
-*   [Case 41: 成都慢行图 手绘旅游地图 (by 雪佬说)](#cases-41)
-*   [Case 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by 雪佬说)](#cases-40)
-*   [Case 39: 奈斯派索 上海装饰艺术海报 (by 雪佬说)](#cases-39)
-*   [Case 38: 美团 赛博黄历 复古符箓海报 (by 雪佬说)](#cases-38)
-*   [Case 37: 绝区零 × 喜茶 霓虹联动海报 (by 雪佬说)](#cases-37)
-*   [Case 36: Prompt Overload Dystopian Desert (by ComprehensiveLead198)](#cases-36)
-*   [Case 35: Comic-Book Ouroboros with Ben Day Dots (by SupehCookie)](#cases-35)
-*   [Case 34: Space-Age 60s Living Room at Golden Hour (by Polstick1971)](#cases-34)
-*   [Case 33: A Burger, but not (by HeraclesLeftNipple)](#cases-33)
-*   [Case 32: Blue Oranges and a Purple Apple (by Head_Phrase_7084)](#cases-32)
-*   [Case 31: Tiny Human Inside an Acoustic Guitar (by xGRAPH1KSx)](#cases-31)
-*   [Case 30: Anne Boleyn Actress iPhone Selfie (by Bait_Shop_Guy_)](#cases-30)
-*   [Case 29: Wind Turbine over the Swiss Alps (by Kosmicce)](#cases-29)
-*   [Case 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by zactral)](#cases-28)
-*   [Case 27: CT5-V Blackwing and Purple Hellcat at Dusk (by InformalNatural1134)](#cases-27)
-*   [Case 26: Web App UI with QR Code (by Camaraderie)](#cases-26)
-*   [Case 25: Sveavägen Street in Stockholm (by kyprianou)](#cases-25)
-*   [Case 24: Volcanic Werewolf Camo Pattern (by SentinelHalo)](#cases-24)
-*   [Case 23: Cats Boxing in the Ring (by Every_Ad_2705)](#cases-23)
-*   [Case 22: Orchestra Playing 'Baby Got Back' in Vienna (by ryebrye)](#cases-22)
-*   [Case 21: Business Conversation Film Still (by Bait_Shop_Guy_)](#cases-21)
-*   [Case 20: Soviet Manual on Human-Wolf Hybrids (by ryebrye)](#cases-20)
-*   [Case 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by maynmaynmayn)](#cases-19)
-*   [Case 18: Sun Exploding into Pigeons (by neoqueto)](#cases-18)
-*   [Case 17: Big-Headed Superhero Sprite Sheet (by hydrangers)](#cases-17)
-*   [Case 16: Gemini Solves Cancer and World Peace (by Feisty_Test_9388)](#cases-16)
-*   [Case 15: One-Eyed Whippet on a Moped (by douggieball1312)](#cases-15)
-*   [Case 14: Duck, Chicken and Parrot Riding a Scooter (by maynmaynmayn)](#cases-14)
-*   [Case 13: Lightning Radar Browser UI (by BasketFar667)](#cases-13)
-*   [Case 12: Floral Calculus Blackboard (by Longjumping_Spot5843)](#cases-12)
-*   [Case 11: Grizzly Bear Showing a Meme to a Hiker (by maynmaynmayn)](#cases-11)
-*   [Case 10: Man Drinking Sushi Water Under Surreal Skies (by Rare-Belt-9644)](#cases-10)
-*   [Case 9: Stylized 3D Zombie Character (by Fysikz)](#cases-9)
-*   [Case 8: Elderly Couple Watching a B-2 Bomber (by Snoo26837)](#cases-8)
-*   [Case 7: Biden’s Dog Holding a 2018 Newspaper (by Healthy_Razzmatazz38)](#cases-7)
-*   [Case 6: A Motorbike Made of Sharks (by Dependent_Piece_5781)](#cases-6)
-*   [Case 5: Five Adventurers in a Luminous Cave (by Kiitani)](#cases-5)
-*   [Case 4: CNN Election Results TV Broadcast (by vladislavkochergin01)](#cases-4)
-*   [Case 3: CCTV Footage (by )](#cases-3)
-*   [Case 2: Math/Formula Boards & Logical Layouts (by )](#cases-2)
 *   [Case 1: Clock 11:15 + Wine Glass Filled to Rim (by )](#cases-1)
+*   [Case 2: Math/Formula Boards & Logical Layouts (by )](#cases-2)
+*   [Case 3: CCTV Footage (by )](#cases-3)
+*   [Case 4: CNN Election Results TV Broadcast (by vladislavkochergin01)](#cases-4)
+*   [Case 5: Five Adventurers in a Luminous Cave (by Kiitani)](#cases-5)
+*   [Case 6: A Motorbike Made of Sharks (by Dependent_Piece_5781)](#cases-6)
+*   [Case 7: Biden’s Dog Holding a 2018 Newspaper (by Healthy_Razzmatazz38)](#cases-7)
+*   [Case 8: Elderly Couple Watching a B-2 Bomber (by Snoo26837)](#cases-8)
+*   [Case 9: Stylized 3D Zombie Character (by Fysikz)](#cases-9)
+*   [Case 10: Man Drinking Sushi Water Under Surreal Skies (by Rare-Belt-9644)](#cases-10)
+*   [Case 11: Grizzly Bear Showing a Meme to a Hiker (by maynmaynmayn)](#cases-11)
+*   [Case 12: Floral Calculus Blackboard (by Longjumping_Spot5843)](#cases-12)
+*   [Case 13: Lightning Radar Browser UI (by BasketFar667)](#cases-13)
+*   [Case 14: Duck, Chicken and Parrot Riding a Scooter (by maynmaynmayn)](#cases-14)
+*   [Case 15: One-Eyed Whippet on a Moped (by douggieball1312)](#cases-15)
+*   [Case 16: Gemini Solves Cancer and World Peace (by Feisty_Test_9388)](#cases-16)
+*   [Case 17: Big-Headed Superhero Sprite Sheet (by hydrangers)](#cases-17)
+*   [Case 18: Sun Exploding into Pigeons (by neoqueto)](#cases-18)
+*   [Case 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by maynmaynmayn)](#cases-19)
+*   [Case 20: Soviet Manual on Human-Wolf Hybrids (by ryebrye)](#cases-20)
+*   [Case 21: Business Conversation Film Still (by Bait_Shop_Guy_)](#cases-21)
+*   [Case 22: Orchestra Playing 'Baby Got Back' in Vienna (by ryebrye)](#cases-22)
+*   [Case 23: Cats Boxing in the Ring (by Every_Ad_2705)](#cases-23)
+*   [Case 24: Volcanic Werewolf Camo Pattern (by SentinelHalo)](#cases-24)
+*   [Case 25: Sveavägen Street in Stockholm (by kyprianou)](#cases-25)
+*   [Case 26: Web App UI with QR Code (by Camaraderie)](#cases-26)
+*   [Case 27: CT5-V Blackwing and Purple Hellcat at Dusk (by InformalNatural1134)](#cases-27)
+*   [Case 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by zactral)](#cases-28)
+*   [Case 29: Wind Turbine over the Swiss Alps (by Kosmicce)](#cases-29)
+*   [Case 30: Anne Boleyn Actress iPhone Selfie (by Bait_Shop_Guy_)](#cases-30)
+*   [Case 31: Tiny Human Inside an Acoustic Guitar (by xGRAPH1KSx)](#cases-31)
+*   [Case 32: Blue Oranges and a Purple Apple (by Head_Phrase_7084)](#cases-32)
+*   [Case 33: A Burger, but not (by HeraclesLeftNipple)](#cases-33)
+*   [Case 34: Space-Age 60s Living Room at Golden Hour (by Polstick1971)](#cases-34)
+*   [Case 35: Comic-Book Ouroboros with Ben Day Dots (by SupehCookie)](#cases-35)
+*   [Case 36: Prompt Overload Dystopian Desert (by ComprehensiveLead198)](#cases-36)
+*   [Case 37: 绝区零 × 喜茶 霓虹联动海报 (by 雪佬说)](#cases-37)
+*   [Case 38: 美团 赛博黄历 复古符箓海报 (by 雪佬说)](#cases-38)
+*   [Case 39: 奈斯派索 上海装饰艺术海报 (by 雪佬说)](#cases-39)
+*   [Case 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by 雪佬说)](#cases-40)
+*   [Case 41: 成都慢行图 手绘旅游地图 (by 雪佬说)](#cases-41)
+*   [Case 42: 大唐长安 插画长卷地图 (by 雪佬说)](#cases-42)
+*   [Case 43: 老北京航拍：光影显形的“衚”字 (by 雪佬说)](#cases-43)
+*   [Case 44: 过肩镜头：雨夜瘦金体书稿 (by 雪佬说)](#cases-44)
+*   [Case 45: 蜜雪冰城商业海报 (by 雪佬说)](#cases-45)
 
 ---
 
 <a id="cases"></a>
 ## 🧩 Case
 
-<a id="cases-45"></a>
-### Case 45: 蜜雪冰城商业海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+<a id="cases-1"></a>
+### Case 1: Clock 11:15 + Wine Glass Filled to Rim (by []())
+
+[Source Link](https://aidisruption.ai/p/nano-banana-2-pulled-in-1-hour-aced)
+
+<img src="cases/1/case.jpg" width="300" alt="A cozy dining table, wall clock showing exactly 11:15, and a crystal wine glass filled to the rim."><br>
+<sub>Image © 2025 <a href="https://github.com/company">@company</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/company">@company</a></sub>
+
+
+**Prompt**
+
+```
+A cozy dining table scene. On the wall, a clock showing exactly 11:15 with correct tick marks. A crystal wine glass on the table is filled exactly to the rim with liquid—no spill, realistic meniscus, and natural reflections. Soft daylight, 50mm lens look.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-2"></a>
+### Case 2: Math/Formula Boards & Logical Layouts (by []())
+
+[Source Link](https://x.com/EHuanglu/status/1988007355070451975)
+
+<img src="cases/2/case.jpeg" width="300" alt="Professor in a classroom with a blackboard full of multi-line mathematical derivations."><br>
+<sub>Image © 2025 <a href="https://github.com/company">@company</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/company">@company</a></sub>
+
+
+**Prompt**
+
+```
+A professor teaching in a classroom. Large blackboard behind them filled with a multi-line derivation: numbered steps, clearly separated lines, readable mathematical symbols, and logical arrows or brackets showing the flow of the proof.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-3"></a>
+### Case 3: CCTV Footage (by []())
+
+[Source Link](https://www.reddit.com/r/singularity/comments/1otuefg/nano_banana_2_crazy_image_outputs/)
+
+<img src="cases/3/case.webp" width="300" alt="Security camera style frame with scanlines, timestamp, and documentary feel."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">@vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Qemmish/">@Qemmish</a></sub>
+
+
+**Prompt**
+
+```
+cctv footage, UK. a man in the street wearing gigantic oversized sneakers. talking to a police officer.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-4"></a>
+### Case 4: CNN Election Results TV Broadcast (by [vladislavkochergin01](https://www.reddit.com/user/vladislavkochergin01/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/4/case.webp" width="300" alt="CNN television screen displaying U.S. election results with two candidates and a news anchor."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a></sub>
+
+
+**Prompt**
+
+```
+A realistic close-up of a television screen displaying CNN U.S. election results. The broadcast layout shows the two candidates with their photos: P Diddy at 50.2% and Jeffry Epstein at 49.8%. Their portraits appear beside their names and percentages in a clean red-and-blue election graphic. On the right side of the screen, a female news anchor is visible in a small live window, as if she is reporting the results. High-resolution, realistic lighting, slight screen glare, modern American news broadcast style.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-5"></a>
+### Case 5: Five Adventurers in a Luminous Cave (by [Kiitani](https://www.reddit.com/user/Kiitani/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/5/case.png" width="300" alt="Animated fantasy party of five adventurers exploring a glowing cave corridor."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kiitani/">Kiitani</a></sub>
+
+
+**Prompt**
+
+```
+an animated illustration of a party of five adventurers navigating a cave system. In the middle, the tall, old guide stands. He is dressed in navy blue wizard robes. He has a silver goatee and a wise smile on his face. He holds a brown walking stick. He is carrying a heavy load of packs. A grimoire floats next to him, creating a luminescent light to guide the way. On his right, stands the towering Berserker. The berserker is wearing fur armor. He has a sculpted, muscular and tall build. His muscles are covered in storm lightning runes that flicker and crack. He is carrying twin axes, one in his left hand, and another in his axe holster on his hip. He has a large bastardsword on his back. He is gnawing on a huge piece of meat which he holds with his right hand. On the right of the berserker stands the pretty, fair-skinned healer. She is short and cute, wearing pure white priestess robes with golden trim. She has blonde hair and she is actually levitating a bit off the ground, with an aura around her. On the left of the guide stands a mischievious, redhead archer with a crafty smile on her face. She is drawing her bow. She has a number of arrows on her back and bombs strapped to her leather armor. She is slender and of average height. Next to her left stands the bald monk with five shaolin marks on his head. He wears orange monk robes and has a lean-muscular build. He is wearing sandals. He is carrying daoist builds and holding his hands close together in prayer.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-6"></a>
+### Case 6: A Motorbike Made of Sharks (by [Dependent_Piece_5781](https://www.reddit.com/user/Dependent_Piece_5781/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/6/case.png" width="300" alt="A motorbike made of sharks"><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Dependent_Piece_5781/">Dependent_Piece_5781</a></sub>
+
+
+**Prompt**
+
+```
+A motorbike made of sharks
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-7"></a>
+### Case 7: Biden’s Dog Holding a 2018 Newspaper (by [Healthy_Razzmatazz38](https://www.reddit.com/user/Healthy_Razzmatazz38/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/7/case.png" width="300" alt="Biden’s pet dog stands on a skateboard holding a newspaper with an October 1, 2018 headline."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Healthy_Razzmatazz38/">Healthy_Razzmatazz38</a></sub>
+
+
+**Prompt**
+
+```
+the breed of dog which biden had as a pet holding up a newspaper with the top headline from october 1st 2018 on a skateboard.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-8"></a>
+### Case 8: Elderly Couple Watching a B-2 Bomber (by [Snoo26837](https://www.reddit.com/user/Snoo26837/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/8/case.png" width="300" alt="Grainy film photo of an elderly couple on a vast tarmac facing a distant B-2 stealth bomber."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Snoo26837/">Snoo26837</a></sub>
+
+
+**Prompt**
+
+```
+35mm film photograph, full shot from behind of an elderly man in a long black overcoat and an elderly woman in a long deep red overcoat, standing symmetrically on a vast concrete tarmac. They are looking at a Northrop Grumman B-2 Spirit stealth bomber parked in the middle distance. In the far background are hazy, snow-capped mountains under a pale blue sky. The top third of the image is framed by the interior ceiling of a massive hangar with horizontal beams. Cinematic and formal composition, muted color palette, visible film grain, somber and powerful atmosphere. --ar 2:3 --style raw --v 6.0
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-9"></a>
+### Case 9: Stylized 3D Zombie Character (by [Fysikz](https://www.reddit.com/user/Fysikz/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/9/case.png" width="300" alt="Graphic 3D zombie with decaying flesh and bold, saturated colors."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Fysikz/">Fysikz</a></sub>
+
+
+**Prompt**
+
+```
+3D character model of a zombie. The style should be stylized and graphic, with crisp, defined, and bold colors. The zombie should have a gloomy inspired aesthetic only wearing torn shorts. Has decaying flesh.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-10"></a>
+### Case 10: Man Drinking Sushi Water Under Surreal Skies (by [Rare-Belt-9644](https://www.reddit.com/user/Rare-Belt-9644/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/10/case.png" width="300" alt="Smirking man drinks a bottle of sushi water while gazing at strangely shaped skies."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Rare-Belt-9644/">Rare-Belt-9644</a></sub>
+
+
+**Prompt**
+
+```
+A man drinking bottle of sushi water and looking at beautiful-shaped skies, smirking
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-11"></a>
+### Case 11: Grizzly Bear Showing a Meme to a Hiker (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/11/case.png" width="300" alt="A grizzly bear holds a meme photo of another bear in front of a real hiker in the forest."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
+
+
+**Prompt**
+
+```
+A grizzly bear holding a picture with a meme of a grizzly bear in the forest, in front of a real hiker
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-12"></a>
+### Case 12: Floral Calculus Blackboard (by [Longjumping_Spot5843](https://www.reddit.com/user/Longjumping_Spot5843/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/12/case.png" width="300" alt="Blackboard with a solved calculus integral whose colorful chalk lines form a flower-like artwork."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Longjumping_Spot5843/">Longjumping_Spot5843</a></sub>
+
+
+**Prompt**
+
+```
+A hard calculus integration problem written and solved on a blackboard, but the text itself and the chalk is sort of turned into this coloured artwork that looks like a flower. (as a photo)
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-13"></a>
+### Case 13: Lightning Radar Browser UI (by [BasketFar667](https://www.reddit.com/user/BasketFar667/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/13/case.png" width="300" alt="Weather-style radar interface in a browser visualizing lightning strikes on a map."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/BasketFar667/">BasketFar667</a></sub>
+
+
+**Prompt**
+
+```
+Lightning Radar: A copy of the browser version of Lightning Radar.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-14"></a>
+### Case 14: Duck, Chicken and Parrot Riding a Scooter (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/14/case.png" width="300" alt="A parrot drives an electric scooter while a chicken rides on its shoulders and a duck rides on the chicken through a theme park."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
+
+
+**Prompt**
+
+```
+A duck riding a chicken that sits in the shoulders of a parrot that drives and electric scooter in a theme park
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-15"></a>
+### Case 15: One-Eyed Whippet on a Moped (by [douggieball1312](https://www.reddit.com/user/douggieball1312/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/15/case.png" width="300" alt="A whippet wearing an eye patch rides a moped down a UK street lined with boarded-up shops."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/douggieball1312/">douggieball1312</a></sub>
+
+
+**Prompt**
+
+```
+A whippet with an eye patch riding a moped through a UK street filled with shops with boarded up windows.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-16"></a>
+### Case 16: Gemini Solves Cancer and World Peace (by [Feisty_Test_9388](https://www.reddit.com/user/Feisty_Test_9388/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/16/case.png" width="300" alt="Futuristic AI Gemini is depicted discovering a cure for cancer and ushering in world peace."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Feisty_Test_9388/">Feisty_Test_9388</a></sub>
+
+
+**Prompt**
+
+```
+Gemini finding cure to cancer and establishing world peace
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-17"></a>
+### Case 17: Big-Headed Superhero Sprite Sheet (by [hydrangers](https://www.reddit.com/user/hydrangers/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/17/case.png" width="300" alt="2D sprite sheet of a big-headed blue-and-red superhero in multiple animation poses."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/hydrangers/">hydrangers</a></sub>
+
+
+**Prompt**
+
+```
+a sprite sheet for various animation for a single character for a 2d game. The hero should have a big head, cell shaded appearance, blue spandex suit with red face mask, red gloves, and red boots
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-18"></a>
+### Case 18: Sun Exploding into Pigeons (by [neoqueto](https://www.reddit.com/user/neoqueto/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/18/case.png" width="300" alt="Photorealistic doomsday scene where the Sun erupts into flocks of pigeons as an old lady exclaims 'oh, crikey!'."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/neoqueto/">neoqueto</a></sub>
+
+
+**Prompt**
+
+```
+A very photorealistic image of the Sun vigorously exploding into a bunch of pigeons and an old lady looking at the situation saying "oh, crikey!", some of the pigeons are wearing pink wedding dresses, but don't be fooled, this is certainly a doomsday scenario, Earth is cooked.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-19"></a>
+### Case 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/19/case.png" width="300" alt="Cartoony scene of an old lady atop the Statue of Liberty balancing three stacked sumo wrestlers on her pinky."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
+
+
+**Prompt**
+
+```
+An old lady balancing 3 sumo wrestlers on her pinky finger, each sumo wrestler balances the others on their pinky fingers, the old lady is balancing on the top of the statue of liberty
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-20"></a>
+### Case 20: Soviet Manual on Human-Wolf Hybrids (by [ryebrye](https://www.reddit.com/user/ryebrye/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/20/case.png" width="300" alt="Retro Technicolor-style frame of a werewolf reading a Soviet biology textbook about human-wolf hybrids with a sparkly vampire in a glass cage behind."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a></sub>
+
+
+**Prompt**
+
+```
+A soviet biology textbook open to the page describing how to hybridize a human and a wolf, photo realistic - being read by a werewolf with a sparkly vampire in a glass cage in the background. 1940's styling. Frame from a 1953 motion picture in technicolor.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-21"></a>
+### Case 21: Business Conversation Film Still (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/21/case.png" width="300" alt="Movie-style shot of a red-haired woman in a black blazer talking with a man in a blue suit indoors."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a></sub>
+
+
+**Prompt**
+
+```
+A redhead woman in a black blazer talks with a man in a blue business suit. Indoor setting. Screencap from a film.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-22"></a>
+### Case 22: Orchestra Playing 'Baby Got Back' in Vienna (by [ryebrye](https://www.reddit.com/user/ryebrye/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/22/case.png" width="300" alt="Conductor’s-eye view of a Viennese orchestra at a Christmas concert performing an arrangement of 'Baby Got Back'."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a></sub>
+
+
+**Prompt**
+
+```
+a conductor's point of view of an orchestra during a Christmas concert in Vienna, with the score for an orchestral arrangement of "Baby Got Back" on the music stand. Photorealistic. RF 20mm f/1.4 L VCM lens at 4.0, Canon R5 with Aperture priority +1 ev.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-23"></a>
+### Case 23: Cats Boxing in the Ring (by [Every_Ad_2705](https://www.reddit.com/user/Every_Ad_2705/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/23/case.png" width="300" alt="Two cats wearing boxing gloves fight in a boxing ring."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Every_Ad_2705/">Every_Ad_2705</a></sub>
+
+
+**Prompt**
+
+```
+2 cats in the ring boxing it out
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-24"></a>
+### Case 24: Volcanic Werewolf Camo Pattern (by [SentinelHalo](https://www.reddit.com/user/SentinelHalo/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/24/case.png" width="300" alt="Seamless ember-orange and charcoal-black camouflage pattern hiding snarling wolf faces."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SentinelHalo/">SentinelHalo</a></sub>
+
+
+**Prompt**
+
+```
+Volcanic-inspired werewolf camo pattern using ember-orange, charcoal-black, and deep red hues, molten cracks forming hidden wolf faces and snarls, flame-like fur textures, jagged claw-scar geometry, intense and supernatural, seamless repeating pattern
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-25"></a>
+### Case 25: Sveavägen Street in Stockholm (by [kyprianou](https://www.reddit.com/user/kyprianou/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/25/case.png" width="300" alt="Street-level view of Sveavägen in Stockholm with cars, buildings and Nordic city atmosphere."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/kyprianou/">kyprianou</a></sub>
+
+
+**Prompt**
+
+```
+Sveavägen, Stockholm
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-26"></a>
+### Case 26: Web App UI with QR Code (by [Camaraderie](https://www.reddit.com/user/Camaraderie/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/26/case.png" width="300" alt="Modern web app mockup UI featuring a prominent scannable QR code linking to google.com."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Camaraderie/">Camaraderie</a></sub>
+
+
+**Prompt**
+
+```
+Generate a mock UI for a web application with modern styling and CSS. Place a QR code with the encoding payload 'https://google.com'. The QR code must be scannable.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-27"></a>
+### Case 27: CT5-V Blackwing and Purple Hellcat at Dusk (by [InformalNatural1134](https://www.reddit.com/user/InformalNatural1134/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/27/case.png" width="300" alt="Radiant red CT5-V Blackwing and gloss purple Hellcat parked side by side in an empty lot at evening."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/InformalNatural1134/">InformalNatural1134</a></sub>
+
+
+**Prompt**
+
+```
+A ct5 v black wing radiant red and a gloss purple hellcat parked together in a empty parking lot in evening
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-28"></a>
+### Case 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by [zactral](https://www.reddit.com/user/zactral/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/28/case.png" width="300" alt="Photorealistic couple dancing Brazilian Zouk while a crowd watches and a videographer films at a festival."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/zactral/">zactral</a></sub>
+
+
+**Prompt**
+
+```
+A couple doing a Brazilian Zouk dance demo at Warsaw Zouk Festival while a crowd of people watches and a videographer films the dancers, photorealistic.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-29"></a>
+### Case 29: Wind Turbine over the Swiss Alps (by [Kosmicce](https://www.reddit.com/user/Kosmicce/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/29/case.png" width="300" alt="Drone close-up of a wind turbine spinning above snowy Swiss Alps on a clear sunny day."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kosmicce/">Kosmicce</a></sub>
+
+
+**Prompt**
+
+```
+Close-up drone shot of a wind turbine on top of swiss alps, beautiful sunny day, no clouds
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-30"></a>
+### Case 30: Anne Boleyn Actress iPhone Selfie (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/30/case.png" width="300" alt="Casual iPhone selfie of a smiling young actress dressed as Anne Boleyn on an outdoor film set."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a></sub>
+
+
+**Prompt**
+
+```
+Amateur, medicore iPhone selfie of smiling young actress dressed as Anne Boleyn. Outdoor movie set setting, daytime, clear blue sky.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-31"></a>
+### Case 31: Tiny Human Inside an Acoustic Guitar (by [xGRAPH1KSx](https://www.reddit.com/user/xGRAPH1KSx/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/31/case.png" width="300" alt="Surreal view from inside an acoustic guitar with a tiny person standing among its inner bracing."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/xGRAPH1KSx/">xGRAPH1KSx</a></sub>
+
+
+**Prompt**
+
+```
+a tiny human standing in the inside of an accoustic guitar revealing all the inner workings and details of the hollow space that is contained within a guitar.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-32"></a>
+### Case 32: Blue Oranges and a Purple Apple (by [Head_Phrase_7084](https://www.reddit.com/user/Head_Phrase_7084/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/32/case.png" width="300" alt="White bowl filled with vivid blue oranges and a single purple apple in the center."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Head_Phrase_7084/">Head_Phrase_7084</a></sub>
+
+
+**Prompt**
+
+```
+Photo of a white bowl filled with blue oranges and a singular purple apple in the center
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-33"></a>
+### Case 33: A Burger, but not (by [HeraclesLeftNipple](https://www.reddit.com/user/HeraclesLeftNipple/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/33/case.png" width="300" alt="A Burger, but not."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/HeraclesLeftNipple/">HeraclesLeftNipple</a></sub>
+
+
+**Prompt**
+
+```
+A Burger, but not.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-34"></a>
+### Case 34: Space-Age 60s Living Room at Golden Hour (by [Polstick1971](https://www.reddit.com/user/Polstick1971/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/34/case.png" width="300" alt="Retro space-age 1960s style living room bathed in warm golden-hour light."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Polstick1971/">Polstick1971</a></sub>
+
+
+**Prompt**
+
+```
+Space age 60’s style living room. Golden hour. Nostalgic feeling.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-35"></a>
+### Case 35: Comic-Book Ouroboros with Ben Day Dots (by [SupehCookie](https://www.reddit.com/user/SupehCookie/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/35/case.png" width="300" alt="Ouroboros drawn in bold comic-book style with Ben Day dots suggesting motion."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SupehCookie/">SupehCookie</a></sub>
+
+
+**Prompt**
+
+```
+an Ouroboros in a comicbook theme, with ben day dots make the Ouroboros look like its moving
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-36"></a>
+### Case 36: Prompt Overload Dystopian Desert (by [ComprehensiveLead198](https://www.reddit.com/user/ComprehensiveLead198/))
+
+[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<img src="cases/36/case.png" width="300" alt="Highly detailed dystopian desert landscape with a glowing digital monolith reading 'PROMPT OVERLOAD' amid neon-lit cyberpunk ruins."><br>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ComprehensiveLead198/">ComprehensiveLead198</a></sub>
+
+
+**Prompt**
+
+```
+Dystopian, arid desert landscape under a hazy orange sky, leading to a distant cyberpunk megalopolis. Central focus: a rusted tech scrap pile with a flickering digital monolith. The monolith displays: "PROMPT OVERLOAD: Reddit silliness consumed creative cycles. Error 404: Imagination Not Found." Holographic snippets of absurd Reddit prompts drift like digital sand. Highly detailed 3D render, volumetric fog, neon reflections.
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-37"></a>
+### Case 37: 绝区零 × 喜茶 霓虹联动海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
-<img src="cases/45/case.webp" width="300" alt="古代敦煌壁画风格蜜雪冰城商业海报"><br>
+<img src="cases/37/case.webp" width="300" alt="四位动漫角色在未来城市夜景下手持喜茶，背后巨大的“ZZZ”和“HEYTEA”霓虹招牌发光，漂浮水果与能量漩涡营造活力联动氛围。"><br>
 <sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
 
 
 **Prompt**
 
 ```
-艺术风格与要求:
-画幅比例16:9，一张极其复杂宏伟的蜜雪冰城商业海报。严格遵循古代敦煌壁画中“经变画”的风格，绘制在风化的石窟墙壁上，细节丰富，堪称杰作。使用赭石、朱砂、石绿等矿物颜料色彩，墙壁有裂纹和斑驳质感。整体采用二维视角，具有强烈的书法式轮廓线和神圣、古老的历史氛围，唐代艺术风格。
-构图布局:
-采用复杂的多板块叙事构图。一个巨大的中央主体，两侧环绕着四个较小的叙事故事板块，底部有一排供养人像。
-一、中央主体:
-吉祥物“雪王”化身为庄严宁静的佛陀形象，端坐于冰晶莲花宝座上。他的背后光环是一个巨大、发光的柠檬切片。两侧有两位由透明冰块雕刻而成的金刚力士护法，手持巨大的冰淇淋勺作为武器。优雅的飞天在空中飞舞，手捧发光的冰淇淋甜筒和柠檬水。
-二、两侧叙事板块:
-右上板块: 描绘酷暑沙漠，烈日下人们表情痛苦。旁边有竖排榜题，用书法风格模仿“酷暑之地，衆生皆苦”。
-右下板块: 描绘天界冰雪宫殿中的雪王，心生慈悲，脚踩冰晶祥云准备下凡。榜题文字模仿“聖王憫世，乘冰東來”。
-左上板块: 描绘雪王在沙漠上空，从净瓶中洒下由真实柠檬和冰淇淋雪花组成的甘露。榜题文字模仿“天降甘露，地湧冰蓮”。
-左下板块: 描绘沙漠变为绿洲，人们欢欣鼓舞，畅饮柠檬泉，采摘冰淇淋花。榜题文字模仿“煩惱盡滌，同登極樂”。
-三、底部供养人区域:
-最下方有一排供养人像，他们保持着敦煌壁画中僵直、虔诚的姿态，但穿着现代的蜜雪冰城员工制服，手捧联动饮品。旁边有题记模仿“弟子蜜雪冰城衆等，一心供養”。
-四、标题与文字排版:
-顶部中央: 在一个华丽的画框内，有宏大的标题，模仿书法“大雪聖王甘露普惠經變圖”。
-中央主体两侧: 有主Slogan，模仿书法“雪王赐福，衆生皆甜”。
-底部中央: 有副Slogan，模仿书法“冰雪甘露，沁入心田”。
-右下角: 有一个模仿朱红色篆书的方形印章，印文为“蜜雪之寶”。
+`画幅比例16:9，官方游戏联动海报，杰作，充满活力的《绝区零》动漫风格。
+场景: 四位时尚的动漫角色（一位黑夹克粉发女孩是视觉中心，一位银发女孩，一位白发男孩，一位黑发男孩）在未来城市夜晚上摆姿势，每人都拿着一杯喜茶。
+环境: 这是一个未来城市的夜间街道，整个场景
+被巨大、发光的霓虹灯招牌所主导。
+一个以风格化的“ZZZ”标志为特色的、巨大且不容错过的霓虹灯招牌，是背景的绝对视觉焦点，在主角们身后闪耀着明亮的光芒。 其他写着“HEYTEA”的霓虹灯也同样醒目，将整个场景沐浴在鲜艳的紫色和蓝色光线中。
+特殊效果: 草莓和柠檬等水果被包裹在透明气泡中漂浮，发光的粉色和蓝色能量漩涡贯穿画面。
+文字元素:
+左上角: 显示“绝区零”和“喜茶”的Logo，由“X”连接。
+底部中央: 一大块醒目的中文文字“绝区零 X 喜茶：异能觉醒，双倍快乐！”。字体为粗体、风格化的艺术字，白色填充，带有厚重的紫粉渐变描边。
+中文下方: 黑色矩形框内有白色大写英文“LIMITED COLLAB”。
+艺术风格: 高度细节，线条干净，来自巨型霓虹灯的电影级光效，动态构图。
+负面提示词: 模糊, 低质量, 人体结构崩坏, 手部畸形, 丑陋, 水印, 签名, 乱码文字, 字母变形
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-38"></a>
+### Case 38: 美团 赛博黄历 复古符箓海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+
+[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<img src="cases/38/case.webp" width="300" alt="仿古木版画风的密集网格海报，中心“外卖神君”持手机与餐盒，十二时辰宜忌与八卦图标围绕，呈现赛博道教美学。"><br>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+
+
+**Prompt**
+
+```
+`画幅比例16:9，一张为美团设计的、超级复杂的商业海报，风格是未来主义的道家黄历或符箓图。
+布局与风格: 整张海报是一个密集的、复杂的网格，充满了文字和图标，模仿在泛黄旧纸上的中国传统木版画。所有文字都采用经典的木刻风格楷体或宋体，从右到左竖排。
+中心神像: 中央是一位“外卖神君”，以古版画风格描绘。他身穿黄帝袍，头戴袋鼠耳神冠，一手托着显示美团App的手机，另一手托着外卖餐盒。
+复杂文字网格:
+顶部标题: 在一个华丽的画框中，从右到左写着主标题：“赛博黄历·万事皆宜”。
+环绕网格: 中心神像被代表十二时辰（子、丑、寅…）的网格包围。每个时辰下都有一列竖排文字描述宜忌，例如“宜：點宵夜”和“忌：空腹眠”。
+角落元素: 四角是八卦卦象，每个卦象都与一项美团业务和一个小版画图标相关联（例如，机械马代表共享单车）。
+细节: 海报上装饰着几个红色的、篆书风格的方形印章。整体氛围是古代神秘主义与现代日常生活的融合，一种“赛博道教”美学。杰作，高信息密度。
+负面提示词: 3D, 照片, 现代字体, 横排文字, 极简, 简单, 模糊, 丑陋, 畸形, 糟糕的书法, 水印。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-39"></a>
+### Case 39: 奈斯派索 上海装饰艺术海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+
+[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<img src="cases/39/case.webp" width="300" alt="摩登旗袍女子操作Art Deco风咖啡机，右侧竖排“奈斯派索”艺术字与标语，背景为几何化上海城市与华丽边框。"><br>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+
+
+**Prompt**
+
+```
+`画幅比例16:9，一张为Nespresso设计的优雅商业海报，采用上世纪二三十年代独特的上海装饰艺术（Art Deco）风格。
+构图: 不对称但平衡的构图。
+左侧人物: 一位身穿时尚几何图案旗袍的摩登女性，正优雅地操作一台被重新设计成Art Deco美学的Nespresso咖啡机——黄铜细节、流线型曲线、华丽雕刻。
+右侧文字: 视觉焦点是一列巨大、引人注目的竖排风格化汉字。
+字体是核心元素:
+主标题: “奈斯派索”这四个汉字是核心艺术品。每个字的笔画都被设计成大胆的几何线条和装饰元素。
+Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“啡常时刻，啡你莫属”。
+英文“Nespresso”以小号无衬线字体，作为装饰巧妙地融入汉字笔画之间或旁边。
+背景与边框: 背景是风格化、几何化的上海城市景观。整个海报被一个融合了中式传统图案与Art Deco几何图形的华丽边框包围。色彩丰富而怀旧（深红、金色、蓝绿色、奶油色）。杰作，精致，黄金时代的魅力。
+负面提示词: 3D, 照片, 写实, 现代, 极简, 丑陋, 畸形, 糟糕的书法, 水印。
+`画幅比例16:9，一张为Nespresso设计的优雅商业海报，采用上世纪二三十年代独特的上海装饰艺术（Art Deco）风格。
+构图: 不对称但平衡的构图。
+左侧人物: 一位身穿时尚几何图案旗袍的摩登女性，正优雅地操作一台被重新设计成Art Deco美学的Nespresso咖啡机——黄铜细节、流线型曲线、华丽雕刻。
+右侧文字: 视觉焦点是一列巨大、引人注目的竖排风格化汉字。
+字体是核心元素:
+主标题: “奈斯派索”这四个汉字是核心艺术品。每个字的笔画都被设计成大胆的几何线条和装饰元素。
+Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“啡常时刻，啡你莫属”。
+英文“Nespresso”以小号无衬线字体，作为装饰巧妙地融入汉字笔画之间或旁边。
+背景与边框: 背景是风格化、几何化的上海城市景观。整个海报被一个融合了中式传统图案与Art Deco几何图形的华丽边框包围。色彩丰富而怀旧（深红、金色、蓝绿色、奶油色）。杰作，精致，黄金时代的魅力。
+负面提示词: 3D, 照片, 写实, 现代, 极简, 丑陋, 畸形, 糟糕的书法, 水印。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-40"></a>
+### Case 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+
+[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<img src="cases/40/case.webp" width="300" alt="父亲与小孩的剪影前景越肩看木纹显像管电视，屏幕以刀锋般锐利字体显示“未来之约，准时抵达！2025年11月18日”。"><br>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+
+
+**Prompt**
+
+```
+画幅比例16:9，一张大师级的电影感过肩镜头画面，视角位于一个怀旧的90年代中国家庭成员身后。这个视角将观众直接带入场景中，与角色一同望向电视。
+
+场景与视角:
+前景是父亲和小孩头部的柔焦剪影，这确立了观众的观察视角。我们正越过他们看向前方。电视周围的房间沐浴在温暖、朦胧的黄色调灯光中，带有王家卫电影般的可见胶片颗粒感。老式风扇、花纹热水瓶等细节可见，但不是主要焦点。
+
+电视机 (视觉焦点):
+镜头的中心焦点是一台老式的、厚重的、有木纹外壳的显像管电视机，它正**面对着家人（即背对镜头）**。
+
+屏幕内容 (关键对比):
+**与柔焦的前景和充满颗粒感的房间形成强烈对比**，电视屏幕上的图像**是不可思议地锐利、鲜艳和清晰**。它是在一个模拟信号世界中打开的一扇完美的8K超高清窗口。屏幕内容**绝对不能有任何反光、扫描线或球面畸变**。
+
+屏幕上的文字 (最高优先级, 刀锋般锐利):
+电视屏幕上正播放着“Nano Banana 2”的未来感广告。屏幕上的文字是**整个图像中最锐利的元素，必须完美清晰可读**。字体采用大胆、时髦的90年代“美术字”风格。
+- **第一行 (大而醒目):** 「未来之约，准时抵达！」
+- **第二行 (在下方清晰可见):** 「2025年11月18日」
+务必确保这些汉字和数字**形态完美、如刀锋般锐利，没有任何模糊或变形**。
+
+美学:
+一幅关于视角和对比的杰作。过肩镜头创造了一种亲密、窥视的感觉，让观众成为这个时间瞬间的一部分。朦胧的、模拟信号的过去（房间和人）与来自未来的完美、超高清清晰文字之间的超现实并置，构成了整个画面的核心叙事。
+
 负面提示词:
-3D, 照片, 现代, 简约, 极简主义, 模糊, 水印, 糟糕的书法, 畸形, 错误
+家人的正面视角, 角色面向镜头, 电视面向镜头, 模糊的文字, 无法辨认的文字, 文字错误, 屏幕反光, 扫描线, 像素化的屏幕, 扭曲的屏幕内容, 现代房间, 平板电视, 水印。
 ```
 
 
@@ -139,77 +959,40 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-44"></a>
-### Case 44: 过肩镜头：雨夜瘦金体书稿 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+<a id="cases-41"></a>
+### Case 41: 成都慢行图 手绘旅游地图 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
-<img src="cases/44/case.webp" width="300" alt="文人右手执笔书写《声声慢》，孤灯映照宣纸；雨滴在新字上炸裂成纤细羽毛状洇染，与窗外芭蕉雨景相映。"><br>
+<img src="cases/41/case.webp" width="300" alt="羊皮纸上的水彩钢笔插画，等轴视角呈现熊猫基地、锦里等地标，行楷主标题与沿锦江弯曲书写的文字融于地图。"><br>
 <sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
 
 
 **Prompt**
 
 ```
-画幅比例16:9，一个源自中国古装剧的、极富氛围感和叙事性的电影镜头，散发着宋代典雅、克制的美学。风格令人联想到张艺谋的电影。
+画幅比例16:9，一张迷人而精致的成都手绘旅游地图，具有吉卜力工作室艺术设定集般的风格。整个画面是在一张有纹理的、陈旧的羊皮纸上的水彩和钢笔淡彩插画。整体美学风格异想天开、充满活力和生活气息。
 
-**构图与视角:**
-一个精心构图的**过肩镜头**。摄影机位于一位文人身后，越过他的肩膀，望向半开的窗外雨景。
+地图布局与风格:
+地图以风格化的等轴测视角，展示了成都的核心地标，这些地标被描绘成可爱、精细的微缩建筑和图标（例如，熊猫基地的熊猫、锦里的灯笼、人民公园的茶馆）。布局是有机的、自由流动的，而非基于僵硬的网格。
 
-**叙事元素与调度:**
-- **窗外景象:** 透过雕花木窗，一株巨大的芭蕉树正被大雨抽打。
-- **人物与动作:** 文人坐在书案前，**右手**以正确的姿势执笔。他的左手按在纸张边缘。
-- **书稿 (极致的细节与神韵):** 桌上的宣纸是清晰的视觉焦点，被一盏温暖的孤灯照亮。
-    - **书法:** 纸上写满了**笔画锐利的“瘦金体”**，内容是李清照的《声声慢》开篇。
-    - **墨色变化 (墨分五色):** 字迹的墨色应有微妙而真实的变化。较早写下、已经干透的字是深沉的、哑光的“焦墨”。最新写的字则是更浓郁、湿润、闪着光泽的“湿墨”。
-    - **墨迹晕染效果 (诗意的高潮):** 几滴雨点落在了纸上。
-        - 在**较干的旧字**上，雨滴只留下一个微妙的、半透明的水痕，字迹本身保持清晰。
-        - 在**湿润的新字**上，雨滴导致墨迹**向外“炸”开，形成一圈精细的、羽毛状的洇染**。晕染的边缘不是一个实心圆，而是有机的、**带有纤维感的“毛边”**，仿佛墨水正顺着宣纸的纹理漫开。这个效果必须既美丽又充满悲剧感。
+至关重要的字体排版挑战 (高难度部分):
+所有文字必须以一种优美的、略带不完美感的手写书法风格（行楷）呈现，看起来就像是用绘制插图的同一支钢笔写出来的。
+1.  **主标题:** 主标题“成都慢行图”被艺术性地写在顶部一条飘逸的缎带上。
+2.  **带角度的趣味标签:** 每个地标图标旁边，都以俏皮的、略带倾斜的方式写着它的名字（例如：“宽窄巷子”、“武侯祠”、“杜甫草堂”）。文字需要感觉是有机放置的，而不是死板的水平线。
+3.  **沿路径弯曲的文字:** 一条风格化的锦江贯穿地图。河流的名字“锦江”二字，需要沿着河流的弯曲路径优雅地书写。这是一个关键测试点。
+4.  **融合性的注释:** 地图上散布着小小的、异想天开的注释，这些注释结合了文字和图标。例如：
+    - 一条写着“吃火锅!”的注释，旁边画着一个小小的红辣椒。
+    - 一个“喝茶咯!”的标签，旁边有一个冒着热气的微型茶杯图标。
+    - 区域名称“锦江区”被写在一个手绘的云朵形状里。
+5.  **手绘图例:** 在一个角落，有一个手绘的“图例”方框，里面有小图标（如茶杯、熊猫脸、寺庙屋顶）和它们对应的手写标签。
+6.  **印章:** 一枚红色的、仿佛手工篆刻风格的印章，印着“蓉”字（成都的简称），被盖在角落，并与边框有轻微的重叠。
 
-**光影与色调:**
-一盏孤灯的暖光至关重要。它必须捕捉到新洇开墨迹的湿润光泽，突显出那圈墨花富有质感的纤维边缘，并在纸张干燥的部分投下柔和的光泽。这温暖的室内与窗外冷色调、低饱和度的绿和灰形成对比。
+美学:
+一幅插画地图学的杰作。文字和插图的融合必须天衣无缝。水彩效果要柔和，有可见的水渍和纹理，而钢笔线条则要自信而生动。整体感觉温暖、诱人，充满个性。
 
-**美学:**
-一幅在电影镜头中捕捉到中国水墨画灵魂的杰作。对墨、水、纸之间物理互动的关注，将这个场景从一个简单的叙事提升为对“无常”和“秩序世界被混乱入侵”的深刻冥想。
-
-**负面提示词:**
-墨色完全一样, 实心的墨团晕染, 完全干燥的纸, 左手写字, 不正确的姿势, 模糊的文字, 现代字体, 粗壮的笔画, 晴天, 微笑, 水印。
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-43"></a>
-### Case 43: 老北京航拍：光影显形的“衚”字 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
-
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
-
-<img src="cases/43/case.webp" width="300" alt="胡同与四合院墙体在同一高度与材质中，被低角度阳光与氛围雾以光影与对比微妙勾勒出“衚”字形态。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
-
-
-**Prompt**
-
-```
-画幅比例16:9，一幅关于精妙含蓄与视觉智慧的杰作。一幅老北京城市肌理的无人机鸟瞰图。核心概念是汉字“衚”**完美无缝地**融入了整个城市景观。
-
-**字体与建筑的融合 (终极的精妙之处):**
-- **无物理高差:** “衚”字不是一个独立的、高耸的或庞大的结构。构成其笔画的墙体，与周围所有的胡同、四合院的墙体，在**高度、材质和风格上完全一致**。它身处肌理之中，而非凌驾其上。
-- **“光影雕刻”:** 汉字的形态并非由结构来凸显，而是由**大师级的、富有氛围感的光影**来呈现。一束低角度的午后斜阳（Raking Light）横扫整个场景。光线刚好捕捉到构成“衚”字形态的墙体的边缘，使其微妙地变亮，同时在其“笔画”（即胡同）内部投下深刻而轮廓分明的阴影。这个字，是被光所揭示，而非被水泥所建造。
-- **“氛围透视”:** 一层纤薄的、贴地的晨雾或霭气，弥漫在周边的庭院和巷陌中，使边缘的细节略微柔化。然而，构成“衚”字形态的那些路径和庭院，则**微妙地更加清晰、对比度更高**，由此形成一个自然的视觉焦点，让隐藏的形状在凝视者的眼中浮现。
-
-**优雅的字体排版布局:**
-保留精致且艺术化的字体设计。
-- **主标题:** 标题“字里京城”被排成一个强有力的单列竖排，位于右侧。背景区域被巧妙地处理成半透明的微妙褪色效果，以确保文字的可读性而不突兀。字体是优雅的“新宋体”风格。一条极细的竖线与文字平行。
-- **信息标签:** 标签文字（“灰瓦”、“国槐”）采用小号、精致的手写体。它们通过一条铅笔在图纸上画出般的、针尖般纤细的手绘曲线连接到物体。**不要有方框，不要有发光效果。**
-
-**美学:**
-整体基调是宁静、引人深思且意境深远的。色调是考究的“高级灰”，以饱和度低的色彩为主，唯一的色彩点缀来自阳光温暖的轻抚。画面拥有一种“众目睽睽下的秘密”般的气质，回报着观者的耐心与洞察力。它是一次具有深刻绘画感和哲学氛围的超写实渲染。
-
-**负面提示词:**
-高耸的墙壁, 雕塑般的汉字, 庞大的结构, 过于明显的汉字形状, 平均的光照, 平光, 发光方框, 未来感UI, 无衬线字体, 抽象, 2D, 色彩鲜艳, 卡通, 糟糕的书法, 水印。
+负面提示词:
+电脑字体, 计算机生成的文字, 直线, 僵硬的网格, 完美对齐, 只有水平文字, 文字浮层, 照片, 3D, 极简, 通用图标, 拼写错误, 乱码, 水印。
 ```
 
 
@@ -264,899 +1047,116 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-41"></a>
-### Case 41: 成都慢行图 手绘旅游地图 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+<a id="cases-43"></a>
+### Case 43: 老北京航拍：光影显形的“衚”字 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
 
 [Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
 
-<img src="cases/41/case.webp" width="300" alt="羊皮纸上的水彩钢笔插画，等轴视角呈现熊猫基地、锦里等地标，行楷主标题与沿锦江弯曲书写的文字融于地图。"><br>
+<img src="cases/43/case.webp" width="300" alt="胡同与四合院墙体在同一高度与材质中，被低角度阳光与氛围雾以光影与对比微妙勾勒出“衚”字形态。"><br>
 <sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
 
 
 **Prompt**
 
 ```
-画幅比例16:9，一张迷人而精致的成都手绘旅游地图，具有吉卜力工作室艺术设定集般的风格。整个画面是在一张有纹理的、陈旧的羊皮纸上的水彩和钢笔淡彩插画。整体美学风格异想天开、充满活力和生活气息。
+画幅比例16:9，一幅关于精妙含蓄与视觉智慧的杰作。一幅老北京城市肌理的无人机鸟瞰图。核心概念是汉字“衚”**完美无缝地**融入了整个城市景观。
 
-地图布局与风格:
-地图以风格化的等轴测视角，展示了成都的核心地标，这些地标被描绘成可爱、精细的微缩建筑和图标（例如，熊猫基地的熊猫、锦里的灯笼、人民公园的茶馆）。布局是有机的、自由流动的，而非基于僵硬的网格。
+**字体与建筑的融合 (终极的精妙之处):**
+- **无物理高差:** “衚”字不是一个独立的、高耸的或庞大的结构。构成其笔画的墙体，与周围所有的胡同、四合院的墙体，在**高度、材质和风格上完全一致**。它身处肌理之中，而非凌驾其上。
+- **“光影雕刻”:** 汉字的形态并非由结构来凸显，而是由**大师级的、富有氛围感的光影**来呈现。一束低角度的午后斜阳（Raking Light）横扫整个场景。光线刚好捕捉到构成“衚”字形态的墙体的边缘，使其微妙地变亮，同时在其“笔画”（即胡同）内部投下深刻而轮廓分明的阴影。这个字，是被光所揭示，而非被水泥所建造。
+- **“氛围透视”:** 一层纤薄的、贴地的晨雾或霭气，弥漫在周边的庭院和巷陌中，使边缘的细节略微柔化。然而，构成“衚”字形态的那些路径和庭院，则**微妙地更加清晰、对比度更高**，由此形成一个自然的视觉焦点，让隐藏的形状在凝视者的眼中浮现。
 
-至关重要的字体排版挑战 (高难度部分):
-所有文字必须以一种优美的、略带不完美感的手写书法风格（行楷）呈现，看起来就像是用绘制插图的同一支钢笔写出来的。
-1.  **主标题:** 主标题“成都慢行图”被艺术性地写在顶部一条飘逸的缎带上。
-2.  **带角度的趣味标签:** 每个地标图标旁边，都以俏皮的、略带倾斜的方式写着它的名字（例如：“宽窄巷子”、“武侯祠”、“杜甫草堂”）。文字需要感觉是有机放置的，而不是死板的水平线。
-3.  **沿路径弯曲的文字:** 一条风格化的锦江贯穿地图。河流的名字“锦江”二字，需要沿着河流的弯曲路径优雅地书写。这是一个关键测试点。
-4.  **融合性的注释:** 地图上散布着小小的、异想天开的注释，这些注释结合了文字和图标。例如：
-    - 一条写着“吃火锅!”的注释，旁边画着一个小小的红辣椒。
-    - 一个“喝茶咯!”的标签，旁边有一个冒着热气的微型茶杯图标。
-    - 区域名称“锦江区”被写在一个手绘的云朵形状里。
-5.  **手绘图例:** 在一个角落，有一个手绘的“图例”方框，里面有小图标（如茶杯、熊猫脸、寺庙屋顶）和它们对应的手写标签。
-6.  **印章:** 一枚红色的、仿佛手工篆刻风格的印章，印着“蓉”字（成都的简称），被盖在角落，并与边框有轻微的重叠。
+**优雅的字体排版布局:**
+保留精致且艺术化的字体设计。
+- **主标题:** 标题“字里京城”被排成一个强有力的单列竖排，位于右侧。背景区域被巧妙地处理成半透明的微妙褪色效果，以确保文字的可读性而不突兀。字体是优雅的“新宋体”风格。一条极细的竖线与文字平行。
+- **信息标签:** 标签文字（“灰瓦”、“国槐”）采用小号、精致的手写体。它们通过一条铅笔在图纸上画出般的、针尖般纤细的手绘曲线连接到物体。**不要有方框，不要有发光效果。**
 
-美学:
-一幅插画地图学的杰作。文字和插图的融合必须天衣无缝。水彩效果要柔和，有可见的水渍和纹理，而钢笔线条则要自信而生动。整体感觉温暖、诱人，充满个性。
+**美学:**
+整体基调是宁静、引人深思且意境深远的。色调是考究的“高级灰”，以饱和度低的色彩为主，唯一的色彩点缀来自阳光温暖的轻抚。画面拥有一种“众目睽睽下的秘密”般的气质，回报着观者的耐心与洞察力。它是一次具有深刻绘画感和哲学氛围的超写实渲染。
 
+**负面提示词:**
+高耸的墙壁, 雕塑般的汉字, 庞大的结构, 过于明显的汉字形状, 平均的光照, 平光, 发光方框, 未来感UI, 无衬线字体, 抽象, 2D, 色彩鲜艳, 卡通, 糟糕的书法, 水印。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-44"></a>
+### Case 44: 过肩镜头：雨夜瘦金体书稿 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+
+[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<img src="cases/44/case.webp" width="300" alt="文人右手执笔书写《声声慢》，孤灯映照宣纸；雨滴在新字上炸裂成纤细羽毛状洇染，与窗外芭蕉雨景相映。"><br>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+
+
+**Prompt**
+
+```
+画幅比例16:9，一个源自中国古装剧的、极富氛围感和叙事性的电影镜头，散发着宋代典雅、克制的美学。风格令人联想到张艺谋的电影。
+
+**构图与视角:**
+一个精心构图的**过肩镜头**。摄影机位于一位文人身后，越过他的肩膀，望向半开的窗外雨景。
+
+**叙事元素与调度:**
+- **窗外景象:** 透过雕花木窗，一株巨大的芭蕉树正被大雨抽打。
+- **人物与动作:** 文人坐在书案前，**右手**以正确的姿势执笔。他的左手按在纸张边缘。
+- **书稿 (极致的细节与神韵):** 桌上的宣纸是清晰的视觉焦点，被一盏温暖的孤灯照亮。
+    - **书法:** 纸上写满了**笔画锐利的“瘦金体”**，内容是李清照的《声声慢》开篇。
+    - **墨色变化 (墨分五色):** 字迹的墨色应有微妙而真实的变化。较早写下、已经干透的字是深沉的、哑光的“焦墨”。最新写的字则是更浓郁、湿润、闪着光泽的“湿墨”。
+    - **墨迹晕染效果 (诗意的高潮):** 几滴雨点落在了纸上。
+        - 在**较干的旧字**上，雨滴只留下一个微妙的、半透明的水痕，字迹本身保持清晰。
+        - 在**湿润的新字**上，雨滴导致墨迹**向外“炸”开，形成一圈精细的、羽毛状的洇染**。晕染的边缘不是一个实心圆，而是有机的、**带有纤维感的“毛边”**，仿佛墨水正顺着宣纸的纹理漫开。这个效果必须既美丽又充满悲剧感。
+
+**光影与色调:**
+一盏孤灯的暖光至关重要。它必须捕捉到新洇开墨迹的湿润光泽，突显出那圈墨花富有质感的纤维边缘，并在纸张干燥的部分投下柔和的光泽。这温暖的室内与窗外冷色调、低饱和度的绿和灰形成对比。
+
+**美学:**
+一幅在电影镜头中捕捉到中国水墨画灵魂的杰作。对墨、水、纸之间物理互动的关注，将这个场景从一个简单的叙事提升为对“无常”和“秩序世界被混乱入侵”的深刻冥想。
+
+**负面提示词:**
+墨色完全一样, 实心的墨团晕染, 完全干燥的纸, 左手写字, 不正确的姿势, 模糊的文字, 现代字体, 粗壮的笔画, 晴天, 微笑, 水印。
+```
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-45"></a>
+### Case 45: 蜜雪冰城商业海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+
+[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<img src="cases/45/case.webp" width="300" alt="古代敦煌壁画风格蜜雪冰城商业海报"><br>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+
+
+**Prompt**
+
+```
+艺术风格与要求:
+画幅比例16:9，一张极其复杂宏伟的蜜雪冰城商业海报。严格遵循古代敦煌壁画中“经变画”的风格，绘制在风化的石窟墙壁上，细节丰富，堪称杰作。使用赭石、朱砂、石绿等矿物颜料色彩，墙壁有裂纹和斑驳质感。整体采用二维视角，具有强烈的书法式轮廓线和神圣、古老的历史氛围，唐代艺术风格。
+构图布局:
+采用复杂的多板块叙事构图。一个巨大的中央主体，两侧环绕着四个较小的叙事故事板块，底部有一排供养人像。
+一、中央主体:
+吉祥物“雪王”化身为庄严宁静的佛陀形象，端坐于冰晶莲花宝座上。他的背后光环是一个巨大、发光的柠檬切片。两侧有两位由透明冰块雕刻而成的金刚力士护法，手持巨大的冰淇淋勺作为武器。优雅的飞天在空中飞舞，手捧发光的冰淇淋甜筒和柠檬水。
+二、两侧叙事板块:
+右上板块: 描绘酷暑沙漠，烈日下人们表情痛苦。旁边有竖排榜题，用书法风格模仿“酷暑之地，衆生皆苦”。
+右下板块: 描绘天界冰雪宫殿中的雪王，心生慈悲，脚踩冰晶祥云准备下凡。榜题文字模仿“聖王憫世，乘冰東來”。
+左上板块: 描绘雪王在沙漠上空，从净瓶中洒下由真实柠檬和冰淇淋雪花组成的甘露。榜题文字模仿“天降甘露，地湧冰蓮”。
+左下板块: 描绘沙漠变为绿洲，人们欢欣鼓舞，畅饮柠檬泉，采摘冰淇淋花。榜题文字模仿“煩惱盡滌，同登極樂”。
+三、底部供养人区域:
+最下方有一排供养人像，他们保持着敦煌壁画中僵直、虔诚的姿态，但穿着现代的蜜雪冰城员工制服，手捧联动饮品。旁边有题记模仿“弟子蜜雪冰城衆等，一心供養”。
+四、标题与文字排版:
+顶部中央: 在一个华丽的画框内，有宏大的标题，模仿书法“大雪聖王甘露普惠經變圖”。
+中央主体两侧: 有主Slogan，模仿书法“雪王赐福，衆生皆甜”。
+底部中央: 有副Slogan，模仿书法“冰雪甘露，沁入心田”。
+右下角: 有一个模仿朱红色篆书的方形印章，印文为“蜜雪之寶”。
 负面提示词:
-电脑字体, 计算机生成的文字, 直线, 僵硬的网格, 完美对齐, 只有水平文字, 文字浮层, 照片, 3D, 极简, 通用图标, 拼写错误, 乱码, 水印。
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-40"></a>
-### Case 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
-
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
-
-<img src="cases/40/case.webp" width="300" alt="父亲与小孩的剪影前景越肩看木纹显像管电视，屏幕以刀锋般锐利字体显示“未来之约，准时抵达！2025年11月18日”。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
-
-
-**Prompt**
-
-```
-画幅比例16:9，一张大师级的电影感过肩镜头画面，视角位于一个怀旧的90年代中国家庭成员身后。这个视角将观众直接带入场景中，与角色一同望向电视。
-
-场景与视角:
-前景是父亲和小孩头部的柔焦剪影，这确立了观众的观察视角。我们正越过他们看向前方。电视周围的房间沐浴在温暖、朦胧的黄色调灯光中，带有王家卫电影般的可见胶片颗粒感。老式风扇、花纹热水瓶等细节可见，但不是主要焦点。
-
-电视机 (视觉焦点):
-镜头的中心焦点是一台老式的、厚重的、有木纹外壳的显像管电视机，它正**面对着家人（即背对镜头）**。
-
-屏幕内容 (关键对比):
-**与柔焦的前景和充满颗粒感的房间形成强烈对比**，电视屏幕上的图像**是不可思议地锐利、鲜艳和清晰**。它是在一个模拟信号世界中打开的一扇完美的8K超高清窗口。屏幕内容**绝对不能有任何反光、扫描线或球面畸变**。
-
-屏幕上的文字 (最高优先级, 刀锋般锐利):
-电视屏幕上正播放着“Nano Banana 2”的未来感广告。屏幕上的文字是**整个图像中最锐利的元素，必须完美清晰可读**。字体采用大胆、时髦的90年代“美术字”风格。
-- **第一行 (大而醒目):** 「未来之约，准时抵达！」
-- **第二行 (在下方清晰可见):** 「2025年11月18日」
-务必确保这些汉字和数字**形态完美、如刀锋般锐利，没有任何模糊或变形**。
-
-美学:
-一幅关于视角和对比的杰作。过肩镜头创造了一种亲密、窥视的感觉，让观众成为这个时间瞬间的一部分。朦胧的、模拟信号的过去（房间和人）与来自未来的完美、超高清清晰文字之间的超现实并置，构成了整个画面的核心叙事。
-
-负面提示词:
-家人的正面视角, 角色面向镜头, 电视面向镜头, 模糊的文字, 无法辨认的文字, 文字错误, 屏幕反光, 扫描线, 像素化的屏幕, 扭曲的屏幕内容, 现代房间, 平板电视, 水印。
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-39"></a>
-### Case 39: 奈斯派索 上海装饰艺术海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
-
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
-
-<img src="cases/39/case.webp" width="300" alt="摩登旗袍女子操作Art Deco风咖啡机，右侧竖排“奈斯派索”艺术字与标语，背景为几何化上海城市与华丽边框。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
-
-
-**Prompt**
-
-```
-`画幅比例16:9，一张为Nespresso设计的优雅商业海报，采用上世纪二三十年代独特的上海装饰艺术（Art Deco）风格。
-构图: 不对称但平衡的构图。
-左侧人物: 一位身穿时尚几何图案旗袍的摩登女性，正优雅地操作一台被重新设计成Art Deco美学的Nespresso咖啡机——黄铜细节、流线型曲线、华丽雕刻。
-右侧文字: 视觉焦点是一列巨大、引人注目的竖排风格化汉字。
-字体是核心元素:
-主标题: “奈斯派索”这四个汉字是核心艺术品。每个字的笔画都被设计成大胆的几何线条和装饰元素。
-Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“啡常时刻，啡你莫属”。
-英文“Nespresso”以小号无衬线字体，作为装饰巧妙地融入汉字笔画之间或旁边。
-背景与边框: 背景是风格化、几何化的上海城市景观。整个海报被一个融合了中式传统图案与Art Deco几何图形的华丽边框包围。色彩丰富而怀旧（深红、金色、蓝绿色、奶油色）。杰作，精致，黄金时代的魅力。
-负面提示词: 3D, 照片, 写实, 现代, 极简, 丑陋, 畸形, 糟糕的书法, 水印。
-`画幅比例16:9，一张为Nespresso设计的优雅商业海报，采用上世纪二三十年代独特的上海装饰艺术（Art Deco）风格。
-构图: 不对称但平衡的构图。
-左侧人物: 一位身穿时尚几何图案旗袍的摩登女性，正优雅地操作一台被重新设计成Art Deco美学的Nespresso咖啡机——黄铜细节、流线型曲线、华丽雕刻。
-右侧文字: 视觉焦点是一列巨大、引人注目的竖排风格化汉字。
-字体是核心元素:
-主标题: “奈斯派索”这四个汉字是核心艺术品。每个字的笔画都被设计成大胆的几何线条和装饰元素。
-Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“啡常时刻，啡你莫属”。
-英文“Nespresso”以小号无衬线字体，作为装饰巧妙地融入汉字笔画之间或旁边。
-背景与边框: 背景是风格化、几何化的上海城市景观。整个海报被一个融合了中式传统图案与Art Deco几何图形的华丽边框包围。色彩丰富而怀旧（深红、金色、蓝绿色、奶油色）。杰作，精致，黄金时代的魅力。
-负面提示词: 3D, 照片, 写实, 现代, 极简, 丑陋, 畸形, 糟糕的书法, 水印。
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-38"></a>
-### Case 38: 美团 赛博黄历 复古符箓海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
-
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
-
-<img src="cases/38/case.webp" width="300" alt="仿古木版画风的密集网格海报，中心“外卖神君”持手机与餐盒，十二时辰宜忌与八卦图标围绕，呈现赛博道教美学。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
-
-
-**Prompt**
-
-```
-`画幅比例16:9，一张为美团设计的、超级复杂的商业海报，风格是未来主义的道家黄历或符箓图。
-布局与风格: 整张海报是一个密集的、复杂的网格，充满了文字和图标，模仿在泛黄旧纸上的中国传统木版画。所有文字都采用经典的木刻风格楷体或宋体，从右到左竖排。
-中心神像: 中央是一位“外卖神君”，以古版画风格描绘。他身穿黄帝袍，头戴袋鼠耳神冠，一手托着显示美团App的手机，另一手托着外卖餐盒。
-复杂文字网格:
-顶部标题: 在一个华丽的画框中，从右到左写着主标题：“赛博黄历·万事皆宜”。
-环绕网格: 中心神像被代表十二时辰（子、丑、寅…）的网格包围。每个时辰下都有一列竖排文字描述宜忌，例如“宜：點宵夜”和“忌：空腹眠”。
-角落元素: 四角是八卦卦象，每个卦象都与一项美团业务和一个小版画图标相关联（例如，机械马代表共享单车）。
-细节: 海报上装饰着几个红色的、篆书风格的方形印章。整体氛围是古代神秘主义与现代日常生活的融合，一种“赛博道教”美学。杰作，高信息密度。
-负面提示词: 3D, 照片, 现代字体, 横排文字, 极简, 简单, 模糊, 丑陋, 畸形, 糟糕的书法, 水印。
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-37"></a>
-### Case 37: 绝区零 × 喜茶 霓虹联动海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
-
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
-
-<img src="cases/37/case.webp" width="300" alt="四位动漫角色在未来城市夜景下手持喜茶，背后巨大的“ZZZ”和“HEYTEA”霓虹招牌发光，漂浮水果与能量漩涡营造活力联动氛围。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
-
-
-**Prompt**
-
-```
-`画幅比例16:9，官方游戏联动海报，杰作，充满活力的《绝区零》动漫风格。
-场景: 四位时尚的动漫角色（一位黑夹克粉发女孩是视觉中心，一位银发女孩，一位白发男孩，一位黑发男孩）在未来城市夜晚上摆姿势，每人都拿着一杯喜茶。
-环境: 这是一个未来城市的夜间街道，整个场景
-被巨大、发光的霓虹灯招牌所主导。
-一个以风格化的“ZZZ”标志为特色的、巨大且不容错过的霓虹灯招牌，是背景的绝对视觉焦点，在主角们身后闪耀着明亮的光芒。 其他写着“HEYTEA”的霓虹灯也同样醒目，将整个场景沐浴在鲜艳的紫色和蓝色光线中。
-特殊效果: 草莓和柠檬等水果被包裹在透明气泡中漂浮，发光的粉色和蓝色能量漩涡贯穿画面。
-文字元素:
-左上角: 显示“绝区零”和“喜茶”的Logo，由“X”连接。
-底部中央: 一大块醒目的中文文字“绝区零 X 喜茶：异能觉醒，双倍快乐！”。字体为粗体、风格化的艺术字，白色填充，带有厚重的紫粉渐变描边。
-中文下方: 黑色矩形框内有白色大写英文“LIMITED COLLAB”。
-艺术风格: 高度细节，线条干净，来自巨型霓虹灯的电影级光效，动态构图。
-负面提示词: 模糊, 低质量, 人体结构崩坏, 手部畸形, 丑陋, 水印, 签名, 乱码文字, 字母变形
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-36"></a>
-### Case 36: Prompt Overload Dystopian Desert (by [ComprehensiveLead198](https://www.reddit.com/user/ComprehensiveLead198/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/36/case.png" width="300" alt="Highly detailed dystopian desert landscape with a glowing digital monolith reading 'PROMPT OVERLOAD' amid neon-lit cyberpunk ruins."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ComprehensiveLead198/">ComprehensiveLead198</a></sub>
-
-
-**Prompt**
-
-```
-Dystopian, arid desert landscape under a hazy orange sky, leading to a distant cyberpunk megalopolis. Central focus: a rusted tech scrap pile with a flickering digital monolith. The monolith displays: "PROMPT OVERLOAD: Reddit silliness consumed creative cycles. Error 404: Imagination Not Found." Holographic snippets of absurd Reddit prompts drift like digital sand. Highly detailed 3D render, volumetric fog, neon reflections.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-35"></a>
-### Case 35: Comic-Book Ouroboros with Ben Day Dots (by [SupehCookie](https://www.reddit.com/user/SupehCookie/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/35/case.png" width="300" alt="Ouroboros drawn in bold comic-book style with Ben Day dots suggesting motion."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SupehCookie/">SupehCookie</a></sub>
-
-
-**Prompt**
-
-```
-an Ouroboros in a comicbook theme, with ben day dots make the Ouroboros look like its moving
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-34"></a>
-### Case 34: Space-Age 60s Living Room at Golden Hour (by [Polstick1971](https://www.reddit.com/user/Polstick1971/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/34/case.png" width="300" alt="Retro space-age 1960s style living room bathed in warm golden-hour light."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Polstick1971/">Polstick1971</a></sub>
-
-
-**Prompt**
-
-```
-Space age 60’s style living room. Golden hour. Nostalgic feeling.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-33"></a>
-### Case 33: A Burger, but not (by [HeraclesLeftNipple](https://www.reddit.com/user/HeraclesLeftNipple/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/33/case.png" width="300" alt="A Burger, but not."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/HeraclesLeftNipple/">HeraclesLeftNipple</a></sub>
-
-
-**Prompt**
-
-```
-A Burger, but not.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-32"></a>
-### Case 32: Blue Oranges and a Purple Apple (by [Head_Phrase_7084](https://www.reddit.com/user/Head_Phrase_7084/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/32/case.png" width="300" alt="White bowl filled with vivid blue oranges and a single purple apple in the center."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Head_Phrase_7084/">Head_Phrase_7084</a></sub>
-
-
-**Prompt**
-
-```
-Photo of a white bowl filled with blue oranges and a singular purple apple in the center
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-31"></a>
-### Case 31: Tiny Human Inside an Acoustic Guitar (by [xGRAPH1KSx](https://www.reddit.com/user/xGRAPH1KSx/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/31/case.png" width="300" alt="Surreal view from inside an acoustic guitar with a tiny person standing among its inner bracing."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/xGRAPH1KSx/">xGRAPH1KSx</a></sub>
-
-
-**Prompt**
-
-```
-a tiny human standing in the inside of an accoustic guitar revealing all the inner workings and details of the hollow space that is contained within a guitar.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-30"></a>
-### Case 30: Anne Boleyn Actress iPhone Selfie (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/30/case.png" width="300" alt="Casual iPhone selfie of a smiling young actress dressed as Anne Boleyn on an outdoor film set."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a></sub>
-
-
-**Prompt**
-
-```
-Amateur, medicore iPhone selfie of smiling young actress dressed as Anne Boleyn. Outdoor movie set setting, daytime, clear blue sky.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-29"></a>
-### Case 29: Wind Turbine over the Swiss Alps (by [Kosmicce](https://www.reddit.com/user/Kosmicce/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/29/case.png" width="300" alt="Drone close-up of a wind turbine spinning above snowy Swiss Alps on a clear sunny day."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kosmicce/">Kosmicce</a></sub>
-
-
-**Prompt**
-
-```
-Close-up drone shot of a wind turbine on top of swiss alps, beautiful sunny day, no clouds
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-28"></a>
-### Case 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by [zactral](https://www.reddit.com/user/zactral/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/28/case.png" width="300" alt="Photorealistic couple dancing Brazilian Zouk while a crowd watches and a videographer films at a festival."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/zactral/">zactral</a></sub>
-
-
-**Prompt**
-
-```
-A couple doing a Brazilian Zouk dance demo at Warsaw Zouk Festival while a crowd of people watches and a videographer films the dancers, photorealistic.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-27"></a>
-### Case 27: CT5-V Blackwing and Purple Hellcat at Dusk (by [InformalNatural1134](https://www.reddit.com/user/InformalNatural1134/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/27/case.png" width="300" alt="Radiant red CT5-V Blackwing and gloss purple Hellcat parked side by side in an empty lot at evening."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/InformalNatural1134/">InformalNatural1134</a></sub>
-
-
-**Prompt**
-
-```
-A ct5 v black wing radiant red and a gloss purple hellcat parked together in a empty parking lot in evening
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-26"></a>
-### Case 26: Web App UI with QR Code (by [Camaraderie](https://www.reddit.com/user/Camaraderie/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/26/case.png" width="300" alt="Modern web app mockup UI featuring a prominent scannable QR code linking to google.com."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Camaraderie/">Camaraderie</a></sub>
-
-
-**Prompt**
-
-```
-Generate a mock UI for a web application with modern styling and CSS. Place a QR code with the encoding payload 'https://google.com'. The QR code must be scannable.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-25"></a>
-### Case 25: Sveavägen Street in Stockholm (by [kyprianou](https://www.reddit.com/user/kyprianou/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/25/case.png" width="300" alt="Street-level view of Sveavägen in Stockholm with cars, buildings and Nordic city atmosphere."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/kyprianou/">kyprianou</a></sub>
-
-
-**Prompt**
-
-```
-Sveavägen, Stockholm
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-24"></a>
-### Case 24: Volcanic Werewolf Camo Pattern (by [SentinelHalo](https://www.reddit.com/user/SentinelHalo/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/24/case.png" width="300" alt="Seamless ember-orange and charcoal-black camouflage pattern hiding snarling wolf faces."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SentinelHalo/">SentinelHalo</a></sub>
-
-
-**Prompt**
-
-```
-Volcanic-inspired werewolf camo pattern using ember-orange, charcoal-black, and deep red hues, molten cracks forming hidden wolf faces and snarls, flame-like fur textures, jagged claw-scar geometry, intense and supernatural, seamless repeating pattern
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-23"></a>
-### Case 23: Cats Boxing in the Ring (by [Every_Ad_2705](https://www.reddit.com/user/Every_Ad_2705/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/23/case.png" width="300" alt="Two cats wearing boxing gloves fight in a boxing ring."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Every_Ad_2705/">Every_Ad_2705</a></sub>
-
-
-**Prompt**
-
-```
-2 cats in the ring boxing it out
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-22"></a>
-### Case 22: Orchestra Playing 'Baby Got Back' in Vienna (by [ryebrye](https://www.reddit.com/user/ryebrye/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/22/case.png" width="300" alt="Conductor’s-eye view of a Viennese orchestra at a Christmas concert performing an arrangement of 'Baby Got Back'."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a></sub>
-
-
-**Prompt**
-
-```
-a conductor's point of view of an orchestra during a Christmas concert in Vienna, with the score for an orchestral arrangement of "Baby Got Back" on the music stand. Photorealistic. RF 20mm f/1.4 L VCM lens at 4.0, Canon R5 with Aperture priority +1 ev.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-21"></a>
-### Case 21: Business Conversation Film Still (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/21/case.png" width="300" alt="Movie-style shot of a red-haired woman in a black blazer talking with a man in a blue suit indoors."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a></sub>
-
-
-**Prompt**
-
-```
-A redhead woman in a black blazer talks with a man in a blue business suit. Indoor setting. Screencap from a film.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-20"></a>
-### Case 20: Soviet Manual on Human-Wolf Hybrids (by [ryebrye](https://www.reddit.com/user/ryebrye/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/20/case.png" width="300" alt="Retro Technicolor-style frame of a werewolf reading a Soviet biology textbook about human-wolf hybrids with a sparkly vampire in a glass cage behind."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a></sub>
-
-
-**Prompt**
-
-```
-A soviet biology textbook open to the page describing how to hybridize a human and a wolf, photo realistic - being read by a werewolf with a sparkly vampire in a glass cage in the background. 1940's styling. Frame from a 1953 motion picture in technicolor.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-19"></a>
-### Case 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/19/case.png" width="300" alt="Cartoony scene of an old lady atop the Statue of Liberty balancing three stacked sumo wrestlers on her pinky."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
-
-
-**Prompt**
-
-```
-An old lady balancing 3 sumo wrestlers on her pinky finger, each sumo wrestler balances the others on their pinky fingers, the old lady is balancing on the top of the statue of liberty
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-18"></a>
-### Case 18: Sun Exploding into Pigeons (by [neoqueto](https://www.reddit.com/user/neoqueto/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/18/case.png" width="300" alt="Photorealistic doomsday scene where the Sun erupts into flocks of pigeons as an old lady exclaims 'oh, crikey!'."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/neoqueto/">neoqueto</a></sub>
-
-
-**Prompt**
-
-```
-A very photorealistic image of the Sun vigorously exploding into a bunch of pigeons and an old lady looking at the situation saying "oh, crikey!", some of the pigeons are wearing pink wedding dresses, but don't be fooled, this is certainly a doomsday scenario, Earth is cooked.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-17"></a>
-### Case 17: Big-Headed Superhero Sprite Sheet (by [hydrangers](https://www.reddit.com/user/hydrangers/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/17/case.png" width="300" alt="2D sprite sheet of a big-headed blue-and-red superhero in multiple animation poses."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/hydrangers/">hydrangers</a></sub>
-
-
-**Prompt**
-
-```
-a sprite sheet for various animation for a single character for a 2d game. The hero should have a big head, cell shaded appearance, blue spandex suit with red face mask, red gloves, and red boots
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-16"></a>
-### Case 16: Gemini Solves Cancer and World Peace (by [Feisty_Test_9388](https://www.reddit.com/user/Feisty_Test_9388/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/16/case.png" width="300" alt="Futuristic AI Gemini is depicted discovering a cure for cancer and ushering in world peace."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Feisty_Test_9388/">Feisty_Test_9388</a></sub>
-
-
-**Prompt**
-
-```
-Gemini finding cure to cancer and establishing world peace
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-15"></a>
-### Case 15: One-Eyed Whippet on a Moped (by [douggieball1312](https://www.reddit.com/user/douggieball1312/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/15/case.png" width="300" alt="A whippet wearing an eye patch rides a moped down a UK street lined with boarded-up shops."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/douggieball1312/">douggieball1312</a></sub>
-
-
-**Prompt**
-
-```
-A whippet with an eye patch riding a moped through a UK street filled with shops with boarded up windows.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-14"></a>
-### Case 14: Duck, Chicken and Parrot Riding a Scooter (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/14/case.png" width="300" alt="A parrot drives an electric scooter while a chicken rides on its shoulders and a duck rides on the chicken through a theme park."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
-
-
-**Prompt**
-
-```
-A duck riding a chicken that sits in the shoulders of a parrot that drives and electric scooter in a theme park
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-13"></a>
-### Case 13: Lightning Radar Browser UI (by [BasketFar667](https://www.reddit.com/user/BasketFar667/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/13/case.png" width="300" alt="Weather-style radar interface in a browser visualizing lightning strikes on a map."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/BasketFar667/">BasketFar667</a></sub>
-
-
-**Prompt**
-
-```
-Lightning Radar: A copy of the browser version of Lightning Radar.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-12"></a>
-### Case 12: Floral Calculus Blackboard (by [Longjumping_Spot5843](https://www.reddit.com/user/Longjumping_Spot5843/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/12/case.png" width="300" alt="Blackboard with a solved calculus integral whose colorful chalk lines form a flower-like artwork."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Longjumping_Spot5843/">Longjumping_Spot5843</a></sub>
-
-
-**Prompt**
-
-```
-A hard calculus integration problem written and solved on a blackboard, but the text itself and the chalk is sort of turned into this coloured artwork that looks like a flower. (as a photo)
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-11"></a>
-### Case 11: Grizzly Bear Showing a Meme to a Hiker (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/11/case.png" width="300" alt="A grizzly bear holds a meme photo of another bear in front of a real hiker in the forest."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
-
-
-**Prompt**
-
-```
-A grizzly bear holding a picture with a meme of a grizzly bear in the forest, in front of a real hiker
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-10"></a>
-### Case 10: Man Drinking Sushi Water Under Surreal Skies (by [Rare-Belt-9644](https://www.reddit.com/user/Rare-Belt-9644/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/10/case.png" width="300" alt="Smirking man drinks a bottle of sushi water while gazing at strangely shaped skies."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Rare-Belt-9644/">Rare-Belt-9644</a></sub>
-
-
-**Prompt**
-
-```
-A man drinking bottle of sushi water and looking at beautiful-shaped skies, smirking
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-9"></a>
-### Case 9: Stylized 3D Zombie Character (by [Fysikz](https://www.reddit.com/user/Fysikz/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/9/case.png" width="300" alt="Graphic 3D zombie with decaying flesh and bold, saturated colors."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Fysikz/">Fysikz</a></sub>
-
-
-**Prompt**
-
-```
-3D character model of a zombie. The style should be stylized and graphic, with crisp, defined, and bold colors. The zombie should have a gloomy inspired aesthetic only wearing torn shorts. Has decaying flesh.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-8"></a>
-### Case 8: Elderly Couple Watching a B-2 Bomber (by [Snoo26837](https://www.reddit.com/user/Snoo26837/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/8/case.png" width="300" alt="Grainy film photo of an elderly couple on a vast tarmac facing a distant B-2 stealth bomber."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Snoo26837/">Snoo26837</a></sub>
-
-
-**Prompt**
-
-```
-35mm film photograph, full shot from behind of an elderly man in a long black overcoat and an elderly woman in a long deep red overcoat, standing symmetrically on a vast concrete tarmac. They are looking at a Northrop Grumman B-2 Spirit stealth bomber parked in the middle distance. In the far background are hazy, snow-capped mountains under a pale blue sky. The top third of the image is framed by the interior ceiling of a massive hangar with horizontal beams. Cinematic and formal composition, muted color palette, visible film grain, somber and powerful atmosphere. --ar 2:3 --style raw --v 6.0
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-7"></a>
-### Case 7: Biden’s Dog Holding a 2018 Newspaper (by [Healthy_Razzmatazz38](https://www.reddit.com/user/Healthy_Razzmatazz38/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/7/case.png" width="300" alt="Biden’s pet dog stands on a skateboard holding a newspaper with an October 1, 2018 headline."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Healthy_Razzmatazz38/">Healthy_Razzmatazz38</a></sub>
-
-
-**Prompt**
-
-```
-the breed of dog which biden had as a pet holding up a newspaper with the top headline from october 1st 2018 on a skateboard.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-6"></a>
-### Case 6: A Motorbike Made of Sharks (by [Dependent_Piece_5781](https://www.reddit.com/user/Dependent_Piece_5781/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/6/case.png" width="300" alt="A motorbike made of sharks"><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Dependent_Piece_5781/">Dependent_Piece_5781</a></sub>
-
-
-**Prompt**
-
-```
-A motorbike made of sharks
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-5"></a>
-### Case 5: Five Adventurers in a Luminous Cave (by [Kiitani](https://www.reddit.com/user/Kiitani/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/5/case.png" width="300" alt="Animated fantasy party of five adventurers exploring a glowing cave corridor."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kiitani/">Kiitani</a></sub>
-
-
-**Prompt**
-
-```
-an animated illustration of a party of five adventurers navigating a cave system. In the middle, the tall, old guide stands. He is dressed in navy blue wizard robes. He has a silver goatee and a wise smile on his face. He holds a brown walking stick. He is carrying a heavy load of packs. A grimoire floats next to him, creating a luminescent light to guide the way. On his right, stands the towering Berserker. The berserker is wearing fur armor. He has a sculpted, muscular and tall build. His muscles are covered in storm lightning runes that flicker and crack. He is carrying twin axes, one in his left hand, and another in his axe holster on his hip. He has a large bastardsword on his back. He is gnawing on a huge piece of meat which he holds with his right hand. On the right of the berserker stands the pretty, fair-skinned healer. She is short and cute, wearing pure white priestess robes with golden trim. She has blonde hair and she is actually levitating a bit off the ground, with an aura around her. On the left of the guide stands a mischievious, redhead archer with a crafty smile on her face. She is drawing her bow. She has a number of arrows on her back and bombs strapped to her leather armor. She is slender and of average height. Next to her left stands the bald monk with five shaolin marks on his head. He wears orange monk robes and has a lean-muscular build. He is wearing sandals. He is carrying daoist builds and holding his hands close together in prayer.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-4"></a>
-### Case 4: CNN Election Results TV Broadcast (by [vladislavkochergin01](https://www.reddit.com/user/vladislavkochergin01/))
-
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
-
-<img src="cases/4/case.webp" width="300" alt="CNN television screen displaying U.S. election results with two candidates and a news anchor."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a></sub>
-
-
-**Prompt**
-
-```
-A realistic close-up of a television screen displaying CNN U.S. election results. The broadcast layout shows the two candidates with their photos: P Diddy at 50.2% and Jeffry Epstein at 49.8%. Their portraits appear beside their names and percentages in a clean red-and-blue election graphic. On the right side of the screen, a female news anchor is visible in a small live window, as if she is reporting the results. High-resolution, realistic lighting, slight screen glare, modern American news broadcast style.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-3"></a>
-### Case 3: CCTV Footage (by []())
-
-[Source Link](https://www.reddit.com/r/singularity/comments/1otuefg/nano_banana_2_crazy_image_outputs/)
-
-<img src="cases/3/case.webp" width="300" alt="Security camera style frame with scanlines, timestamp, and documentary feel."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">@vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Qemmish/">@Qemmish</a></sub>
-
-
-**Prompt**
-
-```
-cctv footage, UK. a man in the street wearing gigantic oversized sneakers. talking to a police officer.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-2"></a>
-### Case 2: Math/Formula Boards & Logical Layouts (by []())
-
-[Source Link](https://x.com/EHuanglu/status/1988007355070451975)
-
-<img src="cases/2/case.jpeg" width="300" alt="Professor in a classroom with a blackboard full of multi-line mathematical derivations."><br>
-<sub>Image © 2025 <a href="https://github.com/company">@company</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/company">@company</a></sub>
-
-
-**Prompt**
-
-```
-A professor teaching in a classroom. Large blackboard behind them filled with a multi-line derivation: numbered steps, clearly separated lines, readable mathematical symbols, and logical arrows or brackets showing the flow of the proof.
-```
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-1"></a>
-### Case 1: Clock 11:15 + Wine Glass Filled to Rim (by []())
-
-[Source Link](https://aidisruption.ai/p/nano-banana-2-pulled-in-1-hour-aced)
-
-<img src="cases/1/case.jpg" width="300" alt="A cozy dining table, wall clock showing exactly 11:15, and a crystal wine glass filled to the rim."><br>
-<sub>Image © 2025 <a href="https://github.com/company">@company</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/company">@company</a></sub>
-
-
-**Prompt**
-
-```
-A cozy dining table scene. On the wall, a clock showing exactly 11:15 with correct tick marks. A crystal wine glass on the table is filled exactly to the rim with liquid—no spill, realistic meniscus, and natural reflections. Soft daylight, 50mm lens look.
+3D, 照片, 现代, 简约, 极简主义, 模糊, 水印, 糟糕的书法, 畸形, 错误
 ```
 
 

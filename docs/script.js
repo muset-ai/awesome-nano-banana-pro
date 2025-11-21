@@ -1,33 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const gallery = document.getElementById('gallery');
 
-    // Lightbox elements
-    const lightbox = document.getElementById('lightbox');
-    const lightboxImg = document.getElementById('lightbox-img');
-    const lightboxCaption = document.getElementById('lightbox-caption');
-    const closeBtn = document.querySelector('.lightbox-close');
-
-    // Close Lightbox functions
-    const closeLightbox = () => {
-        lightbox.style.display = "none";
-    };
-
-    closeBtn.onclick = closeLightbox;
-
-    // Close on clicking background
-    lightbox.addEventListener('click', (e) => {
-        if (e.target === lightbox) {
-            closeLightbox();
-        }
-    });
-
-    // Close on ESC key
-    document.addEventListener('keydown', (e) => {
-        if (e.key === "Escape" && lightbox.style.display === "block") {
-            closeLightbox();
-        }
-    });
-
     fetch('data.json')
         .then(response => response.json())
         .then(data => {
@@ -38,16 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            // Sort cases by case_no in ascending order (1 to 45)
-            const sortedCases = [...data.cases].sort((a, b) => a.case_no - b.case_no);
-
-            sortedCases.forEach(item => {
-                const card = createCaseCard(item, (imgSrc, altText) => {
-                    // Open Lightbox Handler
-                    lightbox.style.display = "block";
-                    lightboxImg.src = imgSrc;
-                    lightboxCaption.textContent = altText;
-                });
+            data.cases.forEach(item => {
+                const card = createCaseCard(item);
                 gallery.appendChild(card);
             });
         })
@@ -57,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 });
 
-function createCaseCard(c, onImageClick) {
+function createCaseCard(c) {
     const card = document.createElement('article');
     card.className = 'case-card';
     card.id = `case-${c.case_no}`;
@@ -73,35 +38,12 @@ function createCaseCard(c, onImageClick) {
         </div>
     `;
 
-    // Create Prompt Container manually to attach event listener
-    const promptContainer = document.createElement('div');
-    promptContainer.className = 'case-prompt-container';
-    
-    const promptLabel = document.createElement('div');
-    promptLabel.className = 'case-label';
-    promptLabel.textContent = 'Prompt';
-    
-    const copyBtn = document.createElement('button');
-    copyBtn.className = 'copy-btn';
-    copyBtn.textContent = 'Copy';
-    copyBtn.onclick = () => {
-        navigator.clipboard.writeText(c.prompt).then(() => {
-            copyBtn.textContent = 'Copied!';
-            copyBtn.classList.add('copied');
-            setTimeout(() => {
-                copyBtn.textContent = 'Copy';
-                copyBtn.classList.remove('copied');
-            }, 2000);
-        });
-    };
-
-    const promptText = document.createElement('div');
-    promptText.className = 'case-prompt';
-    promptText.textContent = c.prompt;
-
-    promptContainer.appendChild(promptLabel);
-    promptContainer.appendChild(copyBtn);
-    promptContainer.appendChild(promptText);
+    const promptHTML = `
+        <div class="case-prompt-container">
+            <div class="case-label">Prompt</div>
+            <div class="case-prompt">${c.prompt}</div>
+        </div>
+    `;
 
     let metaHTML = '<div class="case-meta">';
     if (c.attribution.prompt_author) {
@@ -113,10 +55,7 @@ function createCaseCard(c, onImageClick) {
     }
     metaHTML += '</div>';
 
-    // Assemble Info Column
-    infoCol.innerHTML = headerHTML;
-    infoCol.appendChild(promptContainer);
-    infoCol.insertAdjacentHTML('beforeend', metaHTML);
+    infoCol.innerHTML = headerHTML + promptHTML + metaHTML;
 
 
     // 2. References Column
@@ -134,20 +73,8 @@ function createCaseCard(c, onImageClick) {
         c.reference_images.forEach(refImg => {
             const refWrapper = document.createElement('div');
             refWrapper.className = 'ref-item';
-            
-            const img = document.createElement('img');
-            img.src = `images/${c.case_no}/${refImg}`;
-            img.alt = "Reference";
-            img.loading = "lazy";
-            img.style.cursor = "pointer";
-            
-            // Click to open lightbox
-            img.onclick = (e) => {
-                e.preventDefault();
-                onImageClick(`images/${c.case_no}/${refImg}`, "Reference Image");
-            };
-
-            refWrapper.appendChild(img);
+            // Path adjustment: images are stored in images/{case_no}/
+            refWrapper.innerHTML = `<a href="images/${c.case_no}/${refImg}" target="_blank"><img src="images/${c.case_no}/${refImg}" alt="Reference" loading="lazy"></a>`;
             refsCol.appendChild(refWrapper);
         });
     } else {
@@ -158,26 +85,16 @@ function createCaseCard(c, onImageClick) {
     // 3. Visual Column (Case Image)
     const visualCol = document.createElement('div');
     visualCol.className = 'case-visual';
-    
-    const mainImg = document.createElement('img');
-    mainImg.src = `images/${c.case_no}/${c.image}`;
-    mainImg.alt = c.alt_text;
-    mainImg.loading = "lazy";
-    mainImg.style.cursor = "pointer";
-
-    // Click to open lightbox
-    mainImg.onclick = (e) => {
-        e.preventDefault();
-        onImageClick(`images/${c.case_no}/${c.image}`, c.alt_text);
-    };
-
-    visualCol.appendChild(mainImg);
+    // Path adjustment: images are stored in images/{case_no}/
+    visualCol.innerHTML = `<a href="images/${c.case_no}/${c.image}" target="_blank"><img src="images/${c.case_no}/${c.image}" alt="${c.alt_text}" loading="lazy"></a>`;
 
 
     // Append columns based on layout
+    // Layout: Info | Refs | Visual
     card.appendChild(infoCol);
     card.appendChild(refsCol);
     card.appendChild(visualCol);
 
     return card;
 }
+
