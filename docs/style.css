@@ -86,7 +86,6 @@ body {
     display: grid;
     /* Desktop: Prompt (25%) | Ref (15%) | Case Image (60%) */
     grid-template-columns: 1.5fr 0.8fr 3fr;
-    min-height: 400px;
 }
 
 /* Column 1: Prompt & Meta */
@@ -210,14 +209,15 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
+    padding: 20px;
+    min-height: 400px;
 }
 
 .case-visual img {
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: contain; /* Ensure the whole image is visible */
-    max-height: 800px; /* Cap height for very tall images */
+    max-width: 100%;
 }
 
 /* Footer */
@@ -261,5 +261,83 @@ body {
     .case-info {
         border-right: none;
     }
+}
+
+/* Lightbox */
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.95);
+    backdrop-filter: blur(10px);
+    animation: fadeIn 0.3s ease;
+}
+
+.lightbox.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.lightbox-content {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+    animation: zoomIn 0.3s ease;
+}
+
+@keyframes zoomIn {
+    from {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.lightbox-close {
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 300;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 10000;
+    line-height: 1;
+    user-select: none;
+}
+
+.lightbox-close:hover {
+    color: var(--accent);
+    transform: rotate(90deg);
+}
+
+#lightbox-caption {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--text-main);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    max-width: 80%;
+    text-align: center;
 }
 

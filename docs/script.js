@@ -1,5 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     const gallery = document.getElementById('gallery');
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    const lightboxCaption = document.getElementById('lightbox-caption');
+    const lightboxClose = document.querySelector('.lightbox-close');
 
     fetch('data.json')
         .then(response => response.json())
@@ -20,6 +24,39 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('Error loading data:', error);
             gallery.innerHTML = '<div class="loading">Error loading cases. Please try again later.</div>';
         });
+
+    // Lightbox functionality
+    function openLightbox(imageSrc, caption) {
+        lightbox.classList.add('active');
+        lightboxImg.src = imageSrc;
+        lightboxCaption.textContent = caption || '';
+        document.body.style.overflow = 'hidden'; // Prevent scrolling
+    }
+
+    function closeLightbox() {
+        lightbox.classList.remove('active');
+        document.body.style.overflow = ''; // Re-enable scrolling
+    }
+
+    // Close lightbox on X button click
+    lightboxClose.addEventListener('click', closeLightbox);
+
+    // Close lightbox on background click
+    lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) {
+            closeLightbox();
+        }
+    });
+
+    // Close lightbox on ESC key
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && lightbox.classList.contains('active')) {
+            closeLightbox();
+        }
+    });
+
+    // Store openLightbox function globally for card creation
+    window.openLightbox = openLightbox;
 });
 
 function createCaseCard(c) {
@@ -73,8 +110,15 @@ function createCaseCard(c) {
         c.reference_images.forEach(refImg => {
             const refWrapper = document.createElement('div');
             refWrapper.className = 'ref-item';
-            // Path adjustment: images are stored in images/{case_no}/
-            refWrapper.innerHTML = `<a href="images/${c.case_no}/${refImg}" target="_blank"><img src="images/${c.case_no}/${refImg}" alt="Reference" loading="lazy"></a>`;
+            const img = document.createElement('img');
+            img.src = `images/${c.case_no}/${refImg}`;
+            img.alt = 'Reference';
+            img.loading = 'lazy';
+            img.style.cursor = 'pointer';
+            img.addEventListener('click', () => {
+                window.openLightbox(`images/${c.case_no}/${refImg}`, `Reference - Case #${c.case_no}`);
+            });
+            refWrapper.appendChild(img);
             refsCol.appendChild(refWrapper);
         });
     } else {
@@ -85,8 +129,15 @@ function createCaseCard(c) {
     // 3. Visual Column (Case Image)
     const visualCol = document.createElement('div');
     visualCol.className = 'case-visual';
-    // Path adjustment: images are stored in images/{case_no}/
-    visualCol.innerHTML = `<a href="images/${c.case_no}/${c.image}" target="_blank"><img src="images/${c.case_no}/${c.image}" alt="${c.alt_text}" loading="lazy"></a>`;
+    const mainImg = document.createElement('img');
+    mainImg.src = `images/${c.case_no}/${c.image}`;
+    mainImg.alt = c.alt_text;
+    mainImg.loading = 'lazy';
+    mainImg.style.cursor = 'pointer';
+    mainImg.addEventListener('click', () => {
+        window.openLightbox(`images/${c.case_no}/${c.image}`, `Case #${c.case_no}: ${c.title}`);
+    });
+    visualCol.appendChild(mainImg);
 
 
     // Append columns based on layout
