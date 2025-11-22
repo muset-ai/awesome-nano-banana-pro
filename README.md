@@ -2934,7 +2934,7 @@ If you would like to contribute or have any questions, please feel free to conta
 <a id="star-history"></a>
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=muset-ai/awesome-nano-banana-pro&type=Date)](https://www.star-history.com/#muset-ai/awesome-nano-banana-pro&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=muset-ai/awesome-nano-banana-pro&type=Date&_t=202501)](https://www.star-history.com/#muset-ai/awesome-nano-banana-pro&Date)
 
 [⬆️ Back to Top](#readme-top)
 
