@@ -1,0 +1,14 @@
+title: Ingredients for the Dish
+author: Higgsfield AI
+author_link: https://x.com/higgsfield_ai
+source_links:
+- url: https://x.com/higgsfield_ai/status/1991600367138926697
+image: 307.output.1.JPG
+alt_text: A photo displaying all the ingredients for a dish, each labeled with its name and quantity.
+reference_images:
+- 307.input.1.JPG
+prompt: Show me a photo of all the ingredients for this dish, labeled with names and quantities.
+submitter: ''
+submitter_link: ''
+capability_code: C3
+capability_type: Typography

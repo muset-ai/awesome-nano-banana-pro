@@ -1,0 +1,14 @@
+title: Gashapon Capsule Diorama of [NAME] in [ICONIC POSE / STYLE]
+author: Marvin
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+- url: https://www.fotor.com/blog/nano-banana-model-prompts/
+image: 301.output.1.webp
+alt_text: A transparent gashapon capsule diorama held between fingers, showcasing [NAME] in their [ICONIC POSE / STYLE]. The figure features [short description of figure’s look, clothing, and accessories], set against a dramatic background of [relevant setting]. The capsule has a transparent top and a [fitting color] base, adorned with [motifs related to the person], and labeled with [NAME or NICKNAME] in a matching font style. The composition is photorealistic with soft bokeh effects.
+reference_images:
+- 301.input.1.webp
+prompt: 'A detailed transparent gashapon capsule diorama, held between fingers, featuring [NAME] in their [ICONIC POSE / STYLE]. Inside: [short description of figure’s look, clothing, and accessories], with background elements such as [relevant setting: stadium, stage, lecture hall, etc.]. Lighting should be dramatic and cinematic, matching their theme. The capsule has a transparent top and a colored base [choose fitting color: e.g., royal blue, gold, black, red], decorated with [motifs related to the person]. The base is labeled with [NAME or NICKNAME] in a matching font style. The design should look like a miniature collectible, with photorealistic detail, soft bokeh, and a square 1080x1080 composition.'
+submitter: ''
+submitter_link: ''
+capability_code: C2
+capability_type: Cinematic Photo

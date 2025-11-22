@@ -1,0 +1,13 @@
+title: Transformer架构图
+author: 沃垠AI
+author_link: ''
+source_links:
+- url: https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ
+image: 215.output.1.png
+alt_text: 一幅展示Transformer模型架构的图示，包含输入层、编码器、解码器及输出层的结构
+reference_images: []
+prompt: 画一个Transformer的架构图。
+submitter: ''
+submitter_link: ''
+capability_code: C7
+capability_type: Maps Layout

@@ -1,0 +1,14 @@
+title: Hand-Crocheted Yarn Doll Cradled in Gentle Hands
+author: Marvin
+author_link: https://www.fotor.com/blog/author/marvin-tompkins/
+source_links:
+- url: https://www.fotor.com/blog/nano-banana-model-prompts/
+image: 201.output.1.webp
+alt_text: A close-up photograph of a hand-crocheted yarn doll shaped like a cute chibi character, held gently by two hands. The background is softly blurred, featuring a warm wooden tabletop and natural light, enhancing the intimate and cozy atmosphere.
+reference_images:
+- 201.input.1.webp
+prompt: A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
+submitter: ''
+submitter_link: ''
+capability_code: C2
+capability_type: Cinematic Photo

@@ -1,0 +1,14 @@
+title: Anime Girl Joins the Conversation
+author: ニケちゃん（@tegnike）
+author_link: https://x.com/tegnike
+source_links:
+- url: https://x.com/tegnike/status/1991557599519728113
+image: 311.output.1.JPG
+alt_text: An anime girl replaces the second person from the right in a group conversation, maintaining the same pose as the original character.
+reference_images:
+- 311.input.1.JPG
+prompt: Please replace the second person from the right in the conversation with the attached anime girl, keeping the pose exactly the same
+submitter: ''
+submitter_link: ''
+capability_code: C4
+capability_type: Multi Character

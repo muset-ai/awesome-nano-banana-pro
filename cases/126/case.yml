@@ -1,0 +1,14 @@
+title: 橙色风格的用户界面设计
+author: 沃垠AI
+author_link: ''
+source_links:
+- url: https://mp.weixin.qq.com/s/DMC3xioLV8gwp8iaT8zQlQ
+image: 208.output.1.png
+alt_text: 一张以橙色为主色调的用户界面设计，风格与参考图相似
+reference_images:
+- 208.input.1.png
+prompt: 参考这张图，生成一张类似风格的UI，主色调改为橙色。
+submitter: ''
+submitter_link: ''
+capability_code: C8
+capability_type: Pattern Design
