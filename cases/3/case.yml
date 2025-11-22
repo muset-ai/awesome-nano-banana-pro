@@ -1,13 +1,14 @@
-title: "CCTV Footage"
+title: CCTV Footage
 author: ""
 author_link: ""
 source_links:
   - url: https://www.reddit.com/r/singularity/comments/1otuefg/nano_banana_2_crazy_image_outputs/
 image: case.webp
-alt_text: "Security camera style frame with scanlines, timestamp, and documentary feel."
+alt_text: Security camera style frame with scanlines, timestamp, and documentary feel.
 reference_images: []
 prompt: |
   cctv footage, UK. a man in the street wearing gigantic oversized sneakers. talking to a police officer.
 submitter: ""
 submitter_link: ""
-
+capability_code: C2
+capability_type: Cinematic Photo

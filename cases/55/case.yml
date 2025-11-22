@@ -1,14 +1,15 @@
-title: "Body Reshaping While Preserving Identity"
-author: "Marvin"
+title: Body Reshaping While Preserving Identity
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A portrait where the person’s body shape is transformed to a new type while their face, hairstyle, and clothing remain recognizable."
+alt_text: A portrait where the person’s body shape is transformed to a new type while their face, hairstyle, and clothing remain recognizable.
 reference_images:
   - input.webp
 prompt: |
   Reshape the body of the person in [Image1] into a [target body type]. Keep the face, identity, hairstyle, and clothing consistent. Ensure realistic anatomy, natural proportions, and photorealistic details.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

@@ -1,10 +1,10 @@
-title: "成都慢行图 手绘旅游地图"
-author: "雪佬说"
+title: 成都慢行图 手绘旅游地图
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "羊皮纸上的水彩钢笔插画，等轴视角呈现熊猫基地、锦里等地标，行楷主标题与沿锦江弯曲书写的文字融于地图。"
+alt_text: 羊皮纸上的水彩钢笔插画，等轴视角呈现熊猫基地、锦里等地标，行楷主标题与沿锦江弯曲书写的文字融于地图。
 reference_images: []
 prompt: |
   画幅比例16:9，一张迷人而精致的成都手绘旅游地图，具有吉卜力工作室艺术设定集般的风格。整个画面是在一张有纹理的、陈旧的羊皮纸上的水彩和钢笔淡彩插画。整体美学风格异想天开、充满活力和生活气息。
@@ -31,4 +31,5 @@ prompt: |
   电脑字体, 计算机生成的文字, 直线, 僵硬的网格, 完美对齐, 只有水平文字, 文字浮层, 照片, 3D, 极简, 通用图标, 拼写错误, 乱码, 水印。
 submitter: ""
 submitter_link: ""
-
+capability_code: C7
+capability_type: Maps Layout

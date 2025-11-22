@@ -1,14 +1,15 @@
-title: "Pose Transfer Between Two Men"
-author: "Marvin"
+title: Pose Transfer Between Two Men
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "Two men recreated in a new photo, posed exactly like the man in green carrying the man in red from the reference image."
+alt_text: Two men recreated in a new photo, posed exactly like the man in green carrying the man in red from the reference image.
 reference_images:
   - input.webp
 prompt: |
   Take the two men and place them in the exact poses of the man in green carrying the man in red. Preserve their identities, body proportions, and clothing details. Ensure the pose is natural and realistic, with consistent lighting, shadows, and perspective. Photorealistic, high-resolution result.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

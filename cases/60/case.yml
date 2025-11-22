@@ -1,10 +1,10 @@
-title: "Four Camera Angles of the Same Scene"
-author: "Marvin"
+title: Four Camera Angles of the Same Scene
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "Four images of the same person and environment shown from bird’s-eye, rear, side profile, and close-up portrait views."
+alt_text: Four images of the same person and environment shown from bird’s-eye, rear, side profile, and close-up portrait views.
 reference_images:
   - input.webp
 prompt: |
@@ -16,4 +16,5 @@ prompt: |
   Close-up portrait view.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

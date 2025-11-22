@@ -1,14 +1,15 @@
-title: "Background Replacement for a Subject"
-author: "Marvin"
+title: Background Replacement for a Subject
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A subject from the original photo placed into a new background that matches the lighting and style for seamless integration."
+alt_text: A subject from the original photo placed into a new background that matches the lighting and style for seamless integration.
 reference_images:
   - input.webp
 prompt: |
   Replace the background of [Image1] with [desired background description, e.g., a beach, a forest, a city skyline]. Keep the main subject (person/object) unchanged, maintaining original proportions, lighting, and details. Ensure the subject blends naturally with the new environment. Photorealistic, high-resolution, seamless integration.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

@@ -1,13 +1,14 @@
-title: "CNN Election Results TV Broadcast"
-author: "vladislavkochergin01"
+title: CNN Election Results TV Broadcast
+author: vladislavkochergin01
 author_link: https://www.reddit.com/user/vladislavkochergin01/
 source_links:
   - url: https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/
 image: case.webp
-alt_text: "CNN television screen displaying U.S. election results with two candidates and a news anchor."
+alt_text: CNN television screen displaying U.S. election results with two candidates and a news anchor.
 reference_images: []
 prompt: |
   A realistic close-up of a television screen displaying CNN U.S. election results. The broadcast layout shows the two candidates with their photos: P Diddy at 50.2% and Jeffry Epstein at 49.8%. Their portraits appear beside their names and percentages in a clean red-and-blue election graphic. On the right side of the screen, a female news anchor is visible in a small live window, as if she is reporting the results. High-resolution, realistic lighting, slight screen glare, modern American news broadcast style.
 submitter: ""
 submitter_link: ""
-
+capability_code: C3
+capability_type: Typography

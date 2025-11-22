@@ -1,14 +1,15 @@
-title: "Chibi Funko Pop 3D Character Render"
-author: "Marvin"
+title: Chibi Funko Pop 3D Character Render
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A detailed 3D render of a chibi Funko Pop-style figure based on a reference photo on a pure white background."
+alt_text: A detailed 3D render of a chibi Funko Pop-style figure based on a reference photo on a pure white background.
 reference_images:
   - input.webp
 prompt: |
   Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the provided reference photo. The figure should accurately reflect the person's appearance, hairstyle, attire, and characteristic style from the photo. High detail, studio lighting, photorealistic texture, pure white background.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

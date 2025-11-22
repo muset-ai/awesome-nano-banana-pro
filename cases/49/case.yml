@@ -1,14 +1,15 @@
-title: "Rhythm Dance Game Scene with 3D Character"
-author: "Marvin"
+title: Rhythm Dance Game Scene with 3D Character
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A neon-lit rhythm dance game screenshot with a 3D animated character dancing on a glossy reflective stage and full rhythm-game HUD."
+alt_text: A neon-lit rhythm dance game screenshot with a 3D animated character dancing on a glossy reflective stage and full rhythm-game HUD.
 reference_images:
   - input.webp
 prompt: |
   A vibrant rhythm dance game screenshot featuring the 3D animated character from the reference photo, keeping its unique style, hat, outfit, and confident dance pose. Immersive cinematic lighting with neon pink and purple glow, glossy reflective dance floor shining under spotlights, and dynamic 3D cartoon style. Rhythm game interface with immersive UI: score meter at the top, colorful music waveform animations synced to the beat, stage timer countdown, and floating combo numbers. Highly detailed, game-like atmosphere with energy bars, neon particle effects, and immersive arcade rhythm game HUD elements. Ultra-detailed, cinematic, immersive, 3D animation.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

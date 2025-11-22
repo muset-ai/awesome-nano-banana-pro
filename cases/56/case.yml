@@ -1,14 +1,15 @@
-title: "Nine Half-Length Portraits in Natural Environments"
-author: "Marvin"
+title: Nine Half-Length Portraits in Natural Environments
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A 3x3 grid of vibrant half-length portraits of the same person in different poses and colorful natural settings."
+alt_text: A 3x3 grid of vibrant half-length portraits of the same person in different poses and colorful natural settings.
 reference_images:
   - input.webp
 prompt: |
   Using the uploaded photo as a reference, generate a set of 9 vibrant half-length portraits featuring natural life. Each portrait should show a different pose and be placed in a unique setting, with rich, colorful details that highlight the diversity of nature.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

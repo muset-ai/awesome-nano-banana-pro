@@ -48,6 +48,8 @@ for (const c of cases) {
       source_links: source_links,
       image: c.image,
       alt_text: c.alt_text.trim(),
+      capability_code: c.capability_code,
+      capability_type: c.capability_type,
       attribution: c.attribution,
       prompt: c.prompt.trim(),
       reference_images: c.reference_images || [],

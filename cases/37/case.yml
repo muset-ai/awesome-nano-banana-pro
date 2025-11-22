@@ -1,10 +1,10 @@
-title: "绝区零 × 喜茶 霓虹联动海报"
-author: "雪佬说"
+title: 绝区零 × 喜茶 霓虹联动海报
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "四位动漫角色在未来城市夜景下手持喜茶，背后巨大的“ZZZ”和“HEYTEA”霓虹招牌发光，漂浮水果与能量漩涡营造活力联动氛围。"
+alt_text: 四位动漫角色在未来城市夜景下手持喜茶，背后巨大的“ZZZ”和“HEYTEA”霓虹招牌发光，漂浮水果与能量漩涡营造活力联动氛围。
 reference_images: []
 prompt: |
   `画幅比例16:9，官方游戏联动海报，杰作，充满活力的《绝区零》动漫风格。
@@ -21,4 +21,5 @@ prompt: |
   负面提示词: 模糊, 低质量, 人体结构崩坏, 手部畸形, 丑陋, 水印, 签名, 乱码文字, 字母变形
 submitter: ""
 submitter_link: ""
-
+capability_code: C3
+capability_type: Typography

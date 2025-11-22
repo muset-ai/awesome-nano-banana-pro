@@ -1,14 +1,15 @@
-title: "Outfit Swap with New Pants from Reference"
-author: "Marvin"
+title: Outfit Swap with New Pants from Reference
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The original character kept the same while their pants are replaced by the outfit design from a second reference image."
+alt_text: The original character kept the same while their pants are replaced by the outfit design from a second reference image.
 reference_images:
   - input.webp
 prompt: |
   Keep the character in [Image1] unchanged, but replace her pant with the outfit in [Image2]. Maintain the same pose, body proportions, and facial features, while applying the color, texture, and style of the pants in [Image2]. High-quality, realistic, consistent detail.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

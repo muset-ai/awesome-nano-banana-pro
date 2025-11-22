@@ -1,6 +1,8 @@
 <a id="cases-{{{case_no}}}"></a>
 ### {{{t.case_caption}}} {{{case_no}}}{{{t.colon}}}{{{title}}} (by [{{{author}}}]({{{author_link}}}))
 
+> **Type:** `{{{capability_type}}}`
+
 {{{source_links}}}
 
 <img src="cases/{{{case_no}}}/{{{image}}}" width="300" alt="{{{alt_text}}}"><br>

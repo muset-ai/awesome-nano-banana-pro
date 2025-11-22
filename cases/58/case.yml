@@ -1,14 +1,15 @@
-title: "Adding a New Element into a Photo"
-author: "Marvin"
+title: Adding a New Element into a Photo
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The original scene preserved while a new object or element is added and blended naturally into the environment."
+alt_text: The original scene preserved while a new object or element is added and blended naturally into the environment.
 reference_images:
   - input.webp
 prompt: |
   Add [desired element, e.g., a tree, a lamp, a dog] to [Image1]. Place it naturally in the scene, matching the lighting, perspective, and style. Keep the original elements unchanged. Photorealistic, seamless integration.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

@@ -1,14 +1,15 @@
-title: "Chibi Sticker Sheet with Expressive Poses"
-author: "Marvin"
+title: Chibi Sticker Sheet with Expressive Poses
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A set of chibi-style character stickers in multiple expressive poses on a vibrant red background."
+alt_text: A set of chibi-style character stickers in multiple expressive poses on a vibrant red background.
 reference_images:
   - input.jpg
 prompt: |
   Making a playful peace sign with both hands and winking. Tearful eyes and slightly trembling lips, showing a cute crying expression. Arms wide open in a warm, enthusiastic hug pose. Lying on their side asleep, resting on a tiny pillow with a sweet smile. Pointing forward with confidence, surrounded by shining visual effects. Blowing a kiss, with heart symbols floating around. Maintain the chibi aesthetic. Exaggerated, expressive big eyes. Soft facial lines. Background: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker. Aspect ratio: 9:16
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing
