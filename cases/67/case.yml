@@ -11,4 +11,7 @@ prompt: |
   Replace [target element or area] in [Image1] with [new element or reference, e.g., a different person, object, or scene]. Keep all other parts of the image unchanged. Ensure the replacement blends naturally with lighting, perspective, and overall style. Photorealistic, high-resolution, seamless integration.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Cinematic Photo

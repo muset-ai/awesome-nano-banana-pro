@@ -11,4 +11,7 @@ prompt: |
   Enhance [Image1] to improve overall quality and detail. Keep the original composition, colors, and style intact. Increase resolution, sharpness, texture clarity, and lighting realism. Output as a photorealistic, high-resolution image.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Cinematic Photo

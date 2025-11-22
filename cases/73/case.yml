@@ -14,4 +14,7 @@ prompt: |
   2️⃣ Step two: Add more furniture-like items to the foreground and more daily necessities on the table. Also, change the wallpaper to something warmer.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Cinematic Photo

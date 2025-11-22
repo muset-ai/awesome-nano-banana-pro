@@ -39,6 +39,35 @@ for (const c of cases) {
       ? `[${t.source_link_caption}](${c.source_links[0].url})`
     : c.source_links.map((link, i) => `[${t.source_link_caption}${i + 1}](${link.url})`).join(' | ');
 
+    // Process capability types
+    let capabilityTypes = [];
+    if (Array.isArray(c.capability_type)) {
+      capabilityTypes = c.capability_type;
+    } else if (c.capability_type) {
+      capabilityTypes = [c.capability_type];
+    }
+
+    const badgeMap = {
+      'Physics': { color: '3b82f6', name: 'Physics', key: 'physics' },
+      'Cinematic Photo': { color: '8b5cf6', name: 'Cinematic_Photo', key: 'cinematic' },
+      'Typography': { color: '10b981', name: 'Typography', key: 'typography' },
+      'Multi Character': { color: 'f59e0b', name: 'Multi_Character', key: 'multi_character' },
+      'Stylized Characters': { color: 'ec4899', name: 'Stylized_Characters', key: 'stylized' },
+      'Surreal Concepts': { color: '06b6d4', name: 'Surreal_Concepts', key: 'surreal' },
+      'Maps Layout': { color: 'eab308', name: 'Maps_Layout', key: 'maps' },
+      'Pattern Design': { color: 'ef4444', name: 'Pattern_Design', key: 'pattern' },
+      'Image Editing': { color: '6366f1', name: 'Image_Editing', key: 'editing' }
+    };
+
+    const badges = capabilityTypes.map(type => {
+      const info = badgeMap[type];
+      if (!info) return null;
+      return {
+        name: type,
+        url: `https://img.shields.io/badge/Type-${info.name}-${info.color}?style=flat-square`
+      };
+    }).filter(b => b !== null);
+
     cases_contents += Mustache.render(case_template, {
       case_no: c.case_no,
       t: t,
@@ -48,6 +77,10 @@ for (const c of cases) {
       source_links: source_links,
       image: c.image,
       alt_text: c.alt_text.trim(),
+      capability_code: c.capability_code,
+      capability_type: capabilityTypes, // Pass array for web data
+      badges: badges,
+      has_badges: badges.length > 0,
       attribution: c.attribution,
       prompt: c.prompt.trim(),
       reference_images: c.reference_images || [],
@@ -69,8 +102,6 @@ const data = {
   'table-of-contents': fs.readFileSync(path.join(__dirname, '../templates', lang, 'table-of-contents.md'), 'utf8'),
   'gpt4o-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'gpt4o-intro.md'), 'utf8'),
   'cases-contents': cases_contents,
-  'tools-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'tools-intro.md'), 'utf8'),
-  'prompting-tips': fs.readFileSync(path.join(__dirname, '../templates', lang, 'prompting-tips.md'), 'utf8'),
   'how-to-contribute': fs.readFileSync(path.join(__dirname, '../templates', lang, 'how-to-contribute.md'), 'utf8'),
   'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.md'), 'utf8'),
   'star-history': fs.readFileSync(path.join(__dirname, '../templates', lang, 'star-history.md'), 'utf8')

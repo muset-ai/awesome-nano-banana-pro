@@ -11,4 +11,7 @@ prompt: |
   Create a storyboard from the uploaded image, highlighting key moments and transitions with cinematic angles, camera movements, and framing that capture the scene's mood and narrative flow.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Cinematic Photo

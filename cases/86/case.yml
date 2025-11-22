@@ -11,4 +11,7 @@ prompt: |
   Focus on the background trees and blanket of this image, blur this kid.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Cinematic Photo

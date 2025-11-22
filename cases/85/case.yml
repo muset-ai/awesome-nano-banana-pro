@@ -11,4 +11,7 @@ prompt: |
   Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingredients and recipe in it.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Typography

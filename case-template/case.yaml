@@ -5,6 +5,8 @@ source_links:
   - url: https://x.com/azed_ai/status/1915770501705925106
 image: gold_pendant_necklace.png
 alt_text: Gold Pendant Necklace
+capability_code: C1  # Optional: Capability category code
+capability_type: Physics  # Optional: Capability type for categorization
 reference_images:
   - ref_emoji.png
   - ref_design.png

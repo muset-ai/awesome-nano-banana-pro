@@ -1,14 +1,15 @@
-title: "Photorealistic Multi-Image Composite"
-author: "Marvin"
+title: Photorealistic Multi-Image Composite
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A seamless photorealistic composite image that blends several source photos into one coherent scene with consistent lighting and perspective."
+alt_text: A seamless photorealistic composite image that blends several source photos into one coherent scene with consistent lighting and perspective.
 reference_images:
   - input.webp
 prompt: |
   Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesive image. Keep all key subjects recognizable and maintain their proportions and details. Blend the images naturally with consistent lighting, shadows, perspective, and style. Photorealistic, high-resolution, seamless integration.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

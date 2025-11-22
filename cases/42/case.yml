@@ -1,10 +1,10 @@
-title: "大唐长安 插画长卷地图"
-author: "雪佬说"
+title: 大唐长安 插画长卷地图
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "唐代仕女画风散点透视长卷，朱雀大街为中轴，宫市池等微型场景与小篆坊名印章构成华丽城市织锦。"
+alt_text: 唐代仕女画风散点透视长卷，朱雀大街为中轴，宫市池等微型场景与小篆坊名印章构成华丽城市织锦。
 reference_images: []
 prompt: |
   画幅比例16:9，一幅令人叹为观止的插画地图学杰作，描绘了唐代首都长安的地图。整个画面以唐代仕女画的精致风格呈现，令人联想到绘画大师周昉的作品。媒材是在陈旧、细腻的绢本上使用工笔重彩。
@@ -37,4 +37,5 @@ prompt: |
   英文, 罗马字母, 3D, 现代地图, 网格布局, 几何形状, 电脑字体, 西方艺术风格, 卡通, 简单, 极简, 空白区域, 水印, 糟糕的书法, 乱码。
 submitter: ""
 submitter_link: ""
-
+capability_code: C7
+capability_type: Maps Layout

@@ -1,10 +1,10 @@
-title: "90年代过肩镜头：Nano-Banana-Pro 电视广告"
-author: "雪佬说"
+title: 90年代过肩镜头：Nano-Banana-Pro 电视广告
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "父亲与小孩的剪影前景越肩看木纹显像管电视，屏幕以刀锋般锐利字体显示“未来之约，准时抵达！2025年11月18日”。"
+alt_text: 父亲与小孩的剪影前景越肩看木纹显像管电视，屏幕以刀锋般锐利字体显示“未来之约，准时抵达！2025年11月18日”。
 reference_images: []
 prompt: |
   画幅比例16:9，一张大师级的电影感过肩镜头画面，视角位于一个怀旧的90年代中国家庭成员身后。这个视角将观众直接带入场景中，与角色一同望向电视。
@@ -31,4 +31,5 @@ prompt: |
   家人的正面视角, 角色面向镜头, 电视面向镜头, 模糊的文字, 无法辨认的文字, 文字错误, 屏幕反光, 扫描线, 像素化的屏幕, 扭曲的屏幕内容, 现代房间, 平板电视, 水印。
 submitter: ""
 submitter_link: ""
-
+capability_code: C3
+capability_type: Typography

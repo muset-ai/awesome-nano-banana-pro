@@ -15,6 +15,69 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
+            // Generate Filters
+            const types = new Set();
+            data.cases.forEach(c => {
+                if (c.capability_type) {
+                    if (Array.isArray(c.capability_type)) {
+                        c.capability_type.forEach(t => types.add(t));
+                    } else {
+                        types.add(c.capability_type);
+                    }
+                }
+            });
+
+            const filtersContainer = document.getElementById('filters');
+            Array.from(types).sort().forEach(type => {
+                const btn = document.createElement('button');
+                // Map type to class name
+                const typeMap = {
+                    'Physics': 'type-physics',
+                    'Cinematic Photo': 'type-cinematic',
+                    'Typography': 'type-typography',
+                    'Multi Character': 'type-multi',
+                    'Stylized Characters': 'type-stylized',
+                    'Surreal Concepts': 'type-surreal',
+                    'Maps Layout': 'type-maps',
+                    'Pattern Design': 'type-pattern',
+                    'Image Editing': 'type-editing'
+                };
+                const typeClass = typeMap[type] || 'type-editing';
+                
+                btn.className = `filter-btn ${typeClass}`;
+                btn.dataset.filter = type;
+                btn.textContent = type;
+                filtersContainer.appendChild(btn);
+            });
+
+            // Filter Logic
+            const filterBtns = document.querySelectorAll('.filter-btn');
+            filterBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    // Remove active class from all
+                    filterBtns.forEach(b => b.classList.remove('active'));
+                    // Add active to clicked
+                    btn.classList.add('active');
+
+                    const filterValue = btn.dataset.filter;
+                    const cards = document.querySelectorAll('.case-card');
+
+                    cards.forEach(card => {
+                        if (filterValue === 'all') {
+                            card.style.display = 'grid';
+                        } else {
+                            // Get types from dataset, split by comma
+                            const cardTypes = (card.dataset.types || '').split(',');
+                            if (cardTypes.includes(filterValue)) {
+                                card.style.display = 'grid';
+                            } else {
+                                card.style.display = 'none';
+                            }
+                        }
+                    });
+                });
+            });
+
             data.cases.forEach(item => {
                 const card = createCaseCard(item);
                 gallery.appendChild(card);
@@ -63,15 +126,48 @@ function createCaseCard(c) {
     const card = document.createElement('article');
     card.className = 'case-card';
     card.id = `case-${c.case_no}`;
+    
+    let capabilityTypes = [];
+    if (Array.isArray(c.capability_type)) {
+        capabilityTypes = c.capability_type;
+    } else if (c.capability_type) {
+        capabilityTypes = [c.capability_type];
+    }
+    
+    if (capabilityTypes.length > 0) {
+        card.dataset.types = capabilityTypes.join(',');
+    }
 
     // 1. Info Column (Prompt & Meta)
     const infoCol = document.createElement('div');
     infoCol.className = 'case-info';
 
+    let typeBadgeHTML = '';
+    if (capabilityTypes.length > 0) {
+        // Map types to CSS classes
+        const typeMap = {
+            'Physics': 'type-physics',
+            'Cinematic Photo': 'type-cinematic',
+            'Typography': 'type-typography',
+            'Multi Character': 'type-multi',
+            'Stylized Characters': 'type-stylized',
+            'Surreal Concepts': 'type-surreal',
+            'Maps Layout': 'type-maps',
+            'Pattern Design': 'type-pattern',
+            'Image Editing': 'type-editing'
+        };
+        
+        capabilityTypes.forEach(type => {
+            const badgeClass = typeMap[type] || 'type-editing';
+            typeBadgeHTML += `<span class="type-badge ${badgeClass}">${type}</span> `; // Added space for separation
+        });
+    }
+
     const headerHTML = `
         <div class="case-header">
             <span class="case-id">#${c.case_no}</span>
             <h2 class="case-title">${c.title}</h2>
+            <div class="type-badges">${typeBadgeHTML}</div>
         </div>
     `;
 

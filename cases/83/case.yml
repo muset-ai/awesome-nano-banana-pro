@@ -11,4 +11,7 @@ prompt: |
   Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that the image details remain sharp and clear, revealing intricate textures, patterns, and elements without distortion, while preserving the natural colors and quality.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Cinematic Photo

@@ -1,10 +1,10 @@
-title: "美团 赛博黄历 复古符箓海报"
-author: "雪佬说"
+title: 美团 赛博黄历 复古符箓海报
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "仿古木版画风的密集网格海报，中心“外卖神君”持手机与餐盒，十二时辰宜忌与八卦图标围绕，呈现赛博道教美学。"
+alt_text: 仿古木版画风的密集网格海报，中心“外卖神君”持手机与餐盒，十二时辰宜忌与八卦图标围绕，呈现赛博道教美学。
 reference_images: []
 prompt: |
   `画幅比例16:9，一张为美团设计的、超级复杂的商业海报，风格是未来主义的道家黄历或符箓图。
@@ -18,4 +18,5 @@ prompt: |
   负面提示词: 3D, 照片, 现代字体, 横排文字, 极简, 简单, 模糊, 丑陋, 畸形, 糟糕的书法, 水印。
 submitter: ""
 submitter_link: ""
-
+capability_code: C3
+capability_type: Typography

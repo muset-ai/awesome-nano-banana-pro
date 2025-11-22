@@ -11,4 +11,7 @@ prompt: |
   Recreate this [Character] as a 16-bit video game character, and place the character in a level of a 2D 16-bit platform video game.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Stylized Characters

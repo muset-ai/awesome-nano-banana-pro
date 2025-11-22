@@ -1,14 +1,15 @@
-title: "Seamless Text Editing in an Image"
-author: "Marvin"
+title: Seamless Text Editing in an Image
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "An image where original text has been replaced with new wording that perfectly matches the existing font and design."
+alt_text: An image where original text has been replaced with new wording that perfectly matches the existing font and design.
 reference_images:
   - input.webp
 prompt: |
   Edit the text in [Image1]. Replace the existing text with “[your new text]” while keeping the background, design, and other elements unchanged. Match the font style, size, and color to look natural and consistent with the image. Photorealistic, seamless integration.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

@@ -11,10 +11,10 @@ const langs = {
   },
   'en': {
     'colon': ': ',
-    'case_caption': 'Case',
+    'case_caption': 'No.',
     'case_toc_caption': 'Cases Directory',
     'prompt_caption': 'Prompt',
-    'source_link_caption': 'Source Link',
+    'source_link_caption': 'Source',
     'reference_images_caption': 'Reference Images:',
     'submitter_caption': 'Submitter:',
     'return_to_cases_toc_caption': 'Back to Cases Directory',

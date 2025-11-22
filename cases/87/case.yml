@@ -11,4 +11,7 @@ prompt: |
   Turn these 8 Logos into sophisticated minimalistic logos to make letters from realistic food to express the meaning of this word. Composition: rendering of all logos on a single solid white background.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Typography

@@ -1,10 +1,10 @@
-title: "奈斯派索 上海装饰艺术海报"
-author: "雪佬说"
+title: 奈斯派索 上海装饰艺术海报
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "摩登旗袍女子操作Art Deco风咖啡机，右侧竖排“奈斯派索”艺术字与标语，背景为几何化上海城市与华丽边框。"
+alt_text: 摩登旗袍女子操作Art Deco风咖啡机，右侧竖排“奈斯派索”艺术字与标语，背景为几何化上海城市与华丽边框。
 reference_images: []
 prompt: |
   `画幅比例16:9，一张为Nespresso设计的优雅商业海报，采用上世纪二三十年代独特的上海装饰艺术（Art Deco）风格。
@@ -29,4 +29,5 @@ prompt: |
   负面提示词: 3D, 照片, 写实, 现代, 极简, 丑陋, 畸形, 糟糕的书法, 水印。
 submitter: ""
 submitter_link: ""
-
+capability_code: C3
+capability_type: Typography

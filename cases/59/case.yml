@@ -1,14 +1,15 @@
-title: "Object Removal and Clean Background Fill"
-author: "Marvin"
+title: Object Removal and Clean Background Fill
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A photo where a selected object has been removed and the background filled in realistically so the edit is invisible."
+alt_text: A photo where a selected object has been removed and the background filled in realistically so the edit is invisible.
 reference_images:
   - input.webp
 prompt: |
   Remove [element to remove, e.g., a person, a car, a sign] from [Image1]. Fill the background naturally to maintain the scene’s continuity, lighting, and details. Keep all other elements unchanged. Photorealistic, high-resolution.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

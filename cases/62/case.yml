@@ -1,14 +1,15 @@
-title: "Ten-Minute-Later Version of the Same Scene"
-author: "Marvin"
+title: Ten-Minute-Later Version of the Same Scene
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The same scene reimagined as it would look ten minutes later with natural changes in light, weather, or activity."
+alt_text: The same scene reimagined as it would look ten minutes later with natural changes in light, weather, or activity.
 reference_images:
   - input.webp
 prompt: |
   Generate an image of the same scene as [Image1], but showing how it looks 10 minutes later. Keep the environment and style consistent, but add natural changes over time such as light, weather, people and so on. Photorealistic, seamless continuity.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

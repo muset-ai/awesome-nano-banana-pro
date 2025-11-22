@@ -1,10 +1,10 @@
-title: "老北京航拍：光影显形的“衚”字"
-author: "雪佬说"
+title: 老北京航拍：光影显形的“衚”字
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "胡同与四合院墙体在同一高度与材质中，被低角度阳光与氛围雾以光影与对比微妙勾勒出“衚”字形态。"
+alt_text: 胡同与四合院墙体在同一高度与材质中，被低角度阳光与氛围雾以光影与对比微妙勾勒出“衚”字形态。
 reference_images: []
 prompt: |
   画幅比例16:9，一幅关于精妙含蓄与视觉智慧的杰作。一幅老北京城市肌理的无人机鸟瞰图。核心概念是汉字“衚”**完美无缝地**融入了整个城市景观。
@@ -26,4 +26,5 @@ prompt: |
   高耸的墙壁, 雕塑般的汉字, 庞大的结构, 过于明显的汉字形状, 平均的光照, 平光, 发光方框, 未来感UI, 无衬线字体, 抽象, 2D, 色彩鲜艳, 卡通, 糟糕的书法, 水印。
 submitter: ""
 submitter_link: ""
-
+capability_code: C7
+capability_type: Maps Layout

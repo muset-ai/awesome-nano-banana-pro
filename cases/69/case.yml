@@ -12,4 +12,7 @@ prompt: |
   Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figure 1 to fit the aspect ratio of Figure 2, completely clear the content of Figure 2, and only retain the aspect ratio of Figure 2.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Cinematic Photo

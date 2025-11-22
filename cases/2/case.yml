@@ -1,13 +1,14 @@
-title: "Math/Formula Boards & Logical Layouts"
+title: Math/Formula Boards & Logical Layouts
 author: ""
 author_link: ""
 source_links:
   - url: https://x.com/EHuanglu/status/1988007355070451975
 image: case.jpeg
-alt_text: "Professor in a classroom with a blackboard full of multi-line mathematical derivations."
+alt_text: Professor in a classroom with a blackboard full of multi-line mathematical derivations.
 reference_images: []
 prompt: |
   A professor teaching in a classroom. Large blackboard behind them filled with a multi-line derivation: numbered steps, clearly separated lines, readable mathematical symbols, and logical arrows or brackets showing the flow of the proof.
 submitter: ""
 submitter_link: ""
-
+capability_code: C3
+capability_type: Typography

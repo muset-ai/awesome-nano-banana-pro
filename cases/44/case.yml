@@ -1,10 +1,10 @@
-title: "过肩镜头：雨夜瘦金体书稿"
-author: "雪佬说"
+title: 过肩镜头：雨夜瘦金体书稿
+author: 雪佬说
 author_link: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 source_links:
   - url: https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA
 image: case.webp
-alt_text: "文人右手执笔书写《声声慢》，孤灯映照宣纸；雨滴在新字上炸裂成纤细羽毛状洇染，与窗外芭蕉雨景相映。"
+alt_text: 文人右手执笔书写《声声慢》，孤灯映照宣纸；雨滴在新字上炸裂成纤细羽毛状洇染，与窗外芭蕉雨景相映。
 reference_images: []
 prompt: |
   画幅比例16:9，一个源自中国古装剧的、极富氛围感和叙事性的电影镜头，散发着宋代典雅、克制的美学。风格令人联想到张艺谋的电影。
@@ -32,4 +32,5 @@ prompt: |
   墨色完全一样, 实心的墨团晕染, 完全干燥的纸, 左手写字, 不正确的姿势, 模糊的文字, 现代字体, 粗壮的笔画, 晴天, 微笑, 水印。
 submitter: ""
 submitter_link: ""
-
+capability_code: C1
+capability_type: Physics

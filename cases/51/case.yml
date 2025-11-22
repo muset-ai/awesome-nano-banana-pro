@@ -1,14 +1,15 @@
-title: "Image Style Transfer Between Two Photos"
-author: "Marvin"
+title: Image Style Transfer Between Two Photos
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The main subject from one photo rendered in the artistic colors and textures of another reference image."
+alt_text: The main subject from one photo rendered in the artistic colors and textures of another reference image.
 reference_images:
   - input.webp
 prompt: |
   Transform this image [Image1] into the artistic style of [Image2]. Keep the main subject, composition, and details from [Image1], but apply the colors, textures, and overall aesthetic of [Image2]. High-quality, [illustraition] style, consistent details.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

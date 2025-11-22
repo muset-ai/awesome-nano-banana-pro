@@ -32,6 +32,8 @@ If you want to quickly share an example, or if you're less familiar with the Pul
         * **Author name**
         * **Author link**
         * **Source URL**
+    * **Optional fields:**
+        * `capability_code` and `capability_type`: Used for categorization (e.g., C1/Physics, C2/Cinematic Photo, etc.). You can leave these blank if unsure.
     * **Language:** You can provide the information in any language (English, Chinese, etc.). The prompt should be provided in its original language as used for generation.
 
 3. Commit your changes and open a Pull Request on GitHub.

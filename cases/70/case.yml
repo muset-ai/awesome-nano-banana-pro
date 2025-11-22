@@ -11,4 +11,7 @@ prompt: |
   Turn the photo into a 3x3 grid of photo strips with different studio-style poses and expressions.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type:
+  - Image Editing
+  - Pattern Design

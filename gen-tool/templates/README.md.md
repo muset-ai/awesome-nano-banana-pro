@@ -29,14 +29,6 @@
 
 ---
 
-<a id="tools-intro"></a>
-{{{tools-intro}}}
-
-
-<a id="prompting-tips"></a>
-{{{prompting-tips}}}
-
-
 <a id="how-to-contribute"></a>
 {{{how-to-contribute}}}
 

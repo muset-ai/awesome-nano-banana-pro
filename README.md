@@ -25,8 +25,6 @@ Most examples come from Twitter/X 🐦 and Nano-Banana Studio 🎬. May they spa
 
 - [🎨 What is Nano‑Banana-Pro](#gpt4o-intro)
 - [📖 Cases Directory](#cases-toc)
-- [🛠️ Tools Introduction](#tools-intro)
-- [💡 Prompting Tips](#prompting-tips)
 - [🤝 How to Contribute](#how-to-contribute)
 - [🙏 Acknowledgements](#acknowledgements)
 - [🌟 Star History](#star-history)
@@ -52,137 +50,139 @@ Nano‑Banana-Pro is a multimodal model that not only turns text prompts into hi
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
-*   [Case 1: Clock 11:15 + Wine Glass Filled to Rim (by )](#cases-1)
-*   [Case 2: Math/Formula Boards & Logical Layouts (by )](#cases-2)
-*   [Case 3: CCTV Footage (by )](#cases-3)
-*   [Case 4: CNN Election Results TV Broadcast (by vladislavkochergin01)](#cases-4)
-*   [Case 5: Five Adventurers in a Luminous Cave (by Kiitani)](#cases-5)
-*   [Case 6: A Motorbike Made of Sharks (by Dependent_Piece_5781)](#cases-6)
-*   [Case 7: Biden’s Dog Holding a 2018 Newspaper (by Healthy_Razzmatazz38)](#cases-7)
-*   [Case 8: Elderly Couple Watching a B-2 Bomber (by Snoo26837)](#cases-8)
-*   [Case 9: Stylized 3D Zombie Character (by Fysikz)](#cases-9)
-*   [Case 10: Man Drinking Sushi Water Under Surreal Skies (by Rare-Belt-9644)](#cases-10)
-*   [Case 11: Grizzly Bear Showing a Meme to a Hiker (by maynmaynmayn)](#cases-11)
-*   [Case 12: Floral Calculus Blackboard (by Longjumping_Spot5843)](#cases-12)
-*   [Case 13: Lightning Radar Browser UI (by BasketFar667)](#cases-13)
-*   [Case 14: Duck, Chicken and Parrot Riding a Scooter (by maynmaynmayn)](#cases-14)
-*   [Case 15: One-Eyed Whippet on a Moped (by douggieball1312)](#cases-15)
-*   [Case 16: Gemini Solves Cancer and World Peace (by Feisty_Test_9388)](#cases-16)
-*   [Case 17: Big-Headed Superhero Sprite Sheet (by hydrangers)](#cases-17)
-*   [Case 18: Sun Exploding into Pigeons (by neoqueto)](#cases-18)
-*   [Case 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by maynmaynmayn)](#cases-19)
-*   [Case 20: Soviet Manual on Human-Wolf Hybrids (by ryebrye)](#cases-20)
-*   [Case 21: Business Conversation Film Still (by Bait_Shop_Guy_)](#cases-21)
-*   [Case 22: Orchestra Playing 'Baby Got Back' in Vienna (by ryebrye)](#cases-22)
-*   [Case 23: Cats Boxing in the Ring (by Every_Ad_2705)](#cases-23)
-*   [Case 24: Volcanic Werewolf Camo Pattern (by SentinelHalo)](#cases-24)
-*   [Case 25: Sveavägen Street in Stockholm (by kyprianou)](#cases-25)
-*   [Case 26: Web App UI with QR Code (by Camaraderie)](#cases-26)
-*   [Case 27: CT5-V Blackwing and Purple Hellcat at Dusk (by InformalNatural1134)](#cases-27)
-*   [Case 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by zactral)](#cases-28)
-*   [Case 29: Wind Turbine over the Swiss Alps (by Kosmicce)](#cases-29)
-*   [Case 30: Anne Boleyn Actress iPhone Selfie (by Bait_Shop_Guy_)](#cases-30)
-*   [Case 31: Tiny Human Inside an Acoustic Guitar (by xGRAPH1KSx)](#cases-31)
-*   [Case 32: Blue Oranges and a Purple Apple (by Head_Phrase_7084)](#cases-32)
-*   [Case 33: A Burger, but not (by HeraclesLeftNipple)](#cases-33)
-*   [Case 34: Space-Age 60s Living Room at Golden Hour (by Polstick1971)](#cases-34)
-*   [Case 35: Comic-Book Ouroboros with Ben Day Dots (by SupehCookie)](#cases-35)
-*   [Case 36: Prompt Overload Dystopian Desert (by ComprehensiveLead198)](#cases-36)
-*   [Case 37: 绝区零 × 喜茶 霓虹联动海报 (by 雪佬说)](#cases-37)
-*   [Case 38: 美团 赛博黄历 复古符箓海报 (by 雪佬说)](#cases-38)
-*   [Case 39: 奈斯派索 上海装饰艺术海报 (by 雪佬说)](#cases-39)
-*   [Case 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by 雪佬说)](#cases-40)
-*   [Case 41: 成都慢行图 手绘旅游地图 (by 雪佬说)](#cases-41)
-*   [Case 42: 大唐长安 插画长卷地图 (by 雪佬说)](#cases-42)
-*   [Case 43: 老北京航拍：光影显形的“衚”字 (by 雪佬说)](#cases-43)
-*   [Case 44: 过肩镜头：雨夜瘦金体书稿 (by 雪佬说)](#cases-44)
-*   [Case 45: 蜜雪冰城商业海报 (by 雪佬说)](#cases-45)
-*   [Case 46: Chibi Sticker Sheet with Expressive Poses (by Marvin)](#cases-46)
-*   [Case 47: Chibi Funko Pop 3D Character Render (by Marvin)](#cases-47)
-*   [Case 48: Ghibli-Style Redraw of Reference Photo (by Marvin)](#cases-48)
-*   [Case 49: Rhythm Dance Game Scene with 3D Character (by Marvin)](#cases-49)
-*   [Case 50: Photorealistic Multi-Image Composite (by Marvin)](#cases-50)
-*   [Case 51: Image Style Transfer Between Two Photos (by Marvin)](#cases-51)
-*   [Case 52: Outfit Swap with New Pants from Reference (by Marvin)](#cases-52)
-*   [Case 53: Facial Expression Editing of the Same Person (by Marvin)](#cases-53)
-*   [Case 54: Pose Transfer Between Two Men (by Marvin)](#cases-54)
-*   [Case 55: Body Reshaping While Preserving Identity (by Marvin)](#cases-55)
-*   [Case 56: Nine Half-Length Portraits in Natural Environments (by Marvin)](#cases-56)
-*   [Case 57: Background Replacement for a Subject (by Marvin)](#cases-57)
-*   [Case 58: Adding a New Element into a Photo (by Marvin)](#cases-58)
-*   [Case 59: Object Removal and Clean Background Fill (by Marvin)](#cases-59)
-*   [Case 60: Four Camera Angles of the Same Scene (by Marvin)](#cases-60)
-*   [Case 61: Seamless Text Editing in an Image (by Marvin)](#cases-61)
-*   [Case 62: Ten-Minute-Later Version of the Same Scene (by Marvin)](#cases-62)
-*   [Case 63: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-63)
-*   [Case 64: High-Quality Photo Enhancement from Reference Image (by Marvin)](#cases-64)
-*   [Case 65: Weather Transformation Based on Reference Image (by Marvin)](#cases-65)
-*   [Case 66: Color Grading and Palette Adjustment from Reference Image (by Marvin)](#cases-66)
-*   [Case 67: Targeted content replacement in a reference image (by Marvin)](#cases-67)
-*   [Case 68: Image Outpainting Extension from Reference Photo (by Marvin)](#cases-68)
-*   [Case 69: Dual-Image Redraw and Aspect Ratio Transfer (by Marvin)](#cases-69)
-*   [Case 70: 3x3 Studio-Style Photo Strip Grid (by Marvin)](#cases-70)
-*   [Case 71: Line Art to Fully Colored Illustration (by Marvin)](#cases-71)
-*   [Case 72: Line Art Colorization with Detailed Rendering (by Marvin)](#cases-72)
-*   [Case 73: Two-Step Living Room Redesign from Reference Photos (by Marvin)](#cases-73)
-*   [Case 74: Object or Scene Creation from Listed Items (by Marvin)](#cases-74)
-*   [Case 75: Anatomical Infographic of a Fictional Character (by Marvin)](#cases-75)
-*   [Case 76: 16-Bit Video Game Character Recreation (by Marvin)](#cases-76)
-*   [Case 77: Polaroid-Style Snapshot with Curtain Background (by Marvin)](#cases-77)
-*   [Case 78: Soft Sunlit Portrait in Yellow Saree (by Marvin)](#cases-78)
-*   [Case 79: Polaroid Hug Scene with White Curtain Background (by Marvin)](#cases-79)
-*   [Case 80: Top-Angle Black-and-White Portrait (by Marvin)](#cases-80)
-*   [Case 81: Vertical Cinematic Portrait with Red Background (by Marvin)](#cases-81)
-*   [Case 82: Exploded Technical View of a Product (by Marvin)](#cases-82)
-*   [Case 83: 100x Zoom Detail View of a Scene (by Marvin)](#cases-83)
-*   [Case 84: Storyboard Generated from a Single Image (by Marvin)](#cases-84)
-*   [Case 85: Tom Yum Goong Soup Recipe Infographic (by Marvin)](#cases-85)
-*   [Case 86: Background and Blanket Focus with Blurred Child (by Marvin)](#cases-86)
-*   [Case 87: Minimal Food Letter Logos on White Background (by Marvin)](#cases-87)
-*   [Case 88: 水调歌头 词意与意境 (by AIGC 创意猎人)](#cases-88)
-*   [Case 89: 古老石碑上的《青玉案·元夕》 (by AIGC 创意猎人)](#cases-89)
-*   [Case 90: 感恩节主题黑板报 (by AIGC 创意猎人)](#cases-90)
-*   [Case 91: 90年代情书：春娇写给志明 (by AIGC 创意猎人)](#cases-91)
-*   [Case 92: 三天两晚北京旅游攻略手帐风格 (by AIGC 创意猎人)](#cases-92)
-*   [Case 93: 猎人野味湘菜餐馆经典菜单 (by AIGC 创意猎人)](#cases-93)
-*   [Case 94: 宇称不守恒原理科普图 (by AIGC 创意猎人)](#cases-94)
-*   [Case 95: 《红楼梦》主要人物关系图谱 (by AIGC 创意猎人)](#cases-95)
-*   [Case 96: 黑板上的高考解答过程 (by AIGC 创意猎人)](#cases-96)
-*   [Case 97: MBTI 16型人格图（中文版） (by AIGC 创意猎人)](#cases-97)
-*   [Case 98: 航空发动机3D结构透视图 (by AIGC 创意猎人)](#cases-98)
-*   [Case 99: 黑金立体3D文字与传统印章设计 (by AIGC 创意猎人)](#cases-99)
-*   [Case 100: 创意猎人 - 街头涂鸦风格字体设计 (by AIGC 创意猎人)](#cases-100)
-*   [Case 101: 苍劲有力的北京书法艺术 (by AIGC 创意猎人)](#cases-101)
-*   [Case 102: 夏日傍晚的浪漫海边情感海报 (by AIGC 创意猎人)](#cases-102)
-*   [Case 103: 梦幻唐代荔枝海报 (by AIGC 创意猎人)](#cases-103)
-*   [Case 104: HUNTER 高端品牌鞋靴广告 (by AIGC 创意猎人)](#cases-104)
-*   [Case 105: 搞怪创意海报：牛马注意警示标识 (by AIGC 创意猎人)](#cases-105)
-*   [Case 106: 时尚电影肖像：年轻女性坐在现代椅子上 (by AIGC 创意猎人)](#cases-106)
-*   [Case 107: 工作室肖像照片 (by AIGC 创意猎人)](#cases-107)
-*   [Case 108: 米色工作室中的极简主义肖像系列 (by AIGC 创意猎人)](#cases-108)
-*   [Case 109: 高端洗发水广告：Nano Banana 2 (by AIGC 创意猎人)](#cases-109)
-*   [Case 110: 老夫子风格漫画：俞敏洪南极游玩与加班员工的对比 (by AIGC 创意猎人)](#cases-110)
-*   [Case 111: 真人风格的漫画翻译 (by AIGC 创意猎人)](#cases-111)
-*   [Case 112: 简约高级AI产品商店设计 (by AIGC 创意猎人)](#cases-112)
-*   [Case 113: Nano Banana 2 - Fictional Pharmaceutical Product (by AIGC 创意猎人)](#cases-113)
-*   [Case 114: 微信聊天截图：Nano Banana 2发布警告 (by AIGC 创意猎人)](#cases-114)
-*   [Case 115: 爱因斯坦发布相对论后的微信朋友圈 (by AIGC 创意猎人)](#cases-115)
-*   [Case 116: 斗地主游戏UI界面 (by AIGC 创意猎人)](#cases-116)
-*   [Case 117: Gemini 3 Pro 主要功能亮点介绍 (by AIGC 创意猎人)](#cases-117)
-*   [Case 118: Nano Banana 2的优势与Bento Grid视觉风格 (by AIGC 创意猎人)](#cases-118)
+*   [No. 1: Clock 11:15 + Wine Glass Filled to Rim (by )](#cases-1)
+*   [No. 2: Math/Formula Boards & Logical Layouts (by )](#cases-2)
+*   [No. 3: CCTV Footage (by )](#cases-3)
+*   [No. 4: CNN Election Results TV Broadcast (by vladislavkochergin01)](#cases-4)
+*   [No. 5: Five Adventurers in a Luminous Cave (by Kiitani)](#cases-5)
+*   [No. 6: A Motorbike Made of Sharks (by Dependent_Piece_5781)](#cases-6)
+*   [No. 7: Biden’s Dog Holding a 2018 Newspaper (by Healthy_Razzmatazz38)](#cases-7)
+*   [No. 8: Elderly Couple Watching a B-2 Bomber (by Snoo26837)](#cases-8)
+*   [No. 9: Stylized 3D Zombie Character (by Fysikz)](#cases-9)
+*   [No. 10: Man Drinking Sushi Water Under Surreal Skies (by Rare-Belt-9644)](#cases-10)
+*   [No. 11: Grizzly Bear Showing a Meme to a Hiker (by maynmaynmayn)](#cases-11)
+*   [No. 12: Floral Calculus Blackboard (by Longjumping_Spot5843)](#cases-12)
+*   [No. 13: Lightning Radar Browser UI (by BasketFar667)](#cases-13)
+*   [No. 14: Duck, Chicken and Parrot Riding a Scooter (by maynmaynmayn)](#cases-14)
+*   [No. 15: One-Eyed Whippet on a Moped (by douggieball1312)](#cases-15)
+*   [No. 16: Gemini Solves Cancer and World Peace (by Feisty_Test_9388)](#cases-16)
+*   [No. 17: Big-Headed Superhero Sprite Sheet (by hydrangers)](#cases-17)
+*   [No. 18: Sun Exploding into Pigeons (by neoqueto)](#cases-18)
+*   [No. 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by maynmaynmayn)](#cases-19)
+*   [No. 20: Soviet Manual on Human-Wolf Hybrids (by ryebrye)](#cases-20)
+*   [No. 21: Business Conversation Film Still (by Bait_Shop_Guy_)](#cases-21)
+*   [No. 22: Orchestra Playing 'Baby Got Back' in Vienna (by ryebrye)](#cases-22)
+*   [No. 23: Cats Boxing in the Ring (by Every_Ad_2705)](#cases-23)
+*   [No. 24: Volcanic Werewolf Camo Pattern (by SentinelHalo)](#cases-24)
+*   [No. 25: Sveavägen Street in Stockholm (by kyprianou)](#cases-25)
+*   [No. 26: Web App UI with QR Code (by Camaraderie)](#cases-26)
+*   [No. 27: CT5-V Blackwing and Purple Hellcat at Dusk (by InformalNatural1134)](#cases-27)
+*   [No. 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by zactral)](#cases-28)
+*   [No. 29: Wind Turbine over the Swiss Alps (by Kosmicce)](#cases-29)
+*   [No. 30: Anne Boleyn Actress iPhone Selfie (by Bait_Shop_Guy_)](#cases-30)
+*   [No. 31: Tiny Human Inside an Acoustic Guitar (by xGRAPH1KSx)](#cases-31)
+*   [No. 32: Blue Oranges and a Purple Apple (by Head_Phrase_7084)](#cases-32)
+*   [No. 33: A Burger, but not (by HeraclesLeftNipple)](#cases-33)
+*   [No. 34: Space-Age 60s Living Room at Golden Hour (by Polstick1971)](#cases-34)
+*   [No. 35: Comic-Book Ouroboros with Ben Day Dots (by SupehCookie)](#cases-35)
+*   [No. 36: Prompt Overload Dystopian Desert (by ComprehensiveLead198)](#cases-36)
+*   [No. 37: 绝区零 × 喜茶 霓虹联动海报 (by 雪佬说)](#cases-37)
+*   [No. 38: 美团 赛博黄历 复古符箓海报 (by 雪佬说)](#cases-38)
+*   [No. 39: 奈斯派索 上海装饰艺术海报 (by 雪佬说)](#cases-39)
+*   [No. 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by 雪佬说)](#cases-40)
+*   [No. 41: 成都慢行图 手绘旅游地图 (by 雪佬说)](#cases-41)
+*   [No. 42: 大唐长安 插画长卷地图 (by 雪佬说)](#cases-42)
+*   [No. 43: 老北京航拍：光影显形的“衚”字 (by 雪佬说)](#cases-43)
+*   [No. 44: 过肩镜头：雨夜瘦金体书稿 (by 雪佬说)](#cases-44)
+*   [No. 45: 蜜雪冰城商业海报 (by 雪佬说)](#cases-45)
+*   [No. 46: Chibi Sticker Sheet with Expressive Poses (by Marvin)](#cases-46)
+*   [No. 47: Chibi Funko Pop 3D Character Render (by Marvin)](#cases-47)
+*   [No. 48: Ghibli-Style Redraw of Reference Photo (by Marvin)](#cases-48)
+*   [No. 49: Rhythm Dance Game Scene with 3D Character (by Marvin)](#cases-49)
+*   [No. 50: Photorealistic Multi-Image Composite (by Marvin)](#cases-50)
+*   [No. 51: Image Style Transfer Between Two Photos (by Marvin)](#cases-51)
+*   [No. 52: Outfit Swap with New Pants from Reference (by Marvin)](#cases-52)
+*   [No. 53: Facial Expression Editing of the Same Person (by Marvin)](#cases-53)
+*   [No. 54: Pose Transfer Between Two Men (by Marvin)](#cases-54)
+*   [No. 55: Body Reshaping While Preserving Identity (by Marvin)](#cases-55)
+*   [No. 56: Nine Half-Length Portraits in Natural Environments (by Marvin)](#cases-56)
+*   [No. 57: Background Replacement for a Subject (by Marvin)](#cases-57)
+*   [No. 58: Adding a New Element into a Photo (by Marvin)](#cases-58)
+*   [No. 59: Object Removal and Clean Background Fill (by Marvin)](#cases-59)
+*   [No. 60: Four Camera Angles of the Same Scene (by Marvin)](#cases-60)
+*   [No. 61: Seamless Text Editing in an Image (by Marvin)](#cases-61)
+*   [No. 62: Ten-Minute-Later Version of the Same Scene (by Marvin)](#cases-62)
+*   [No. 63: Clothing Extraction for E-Commerce Photo (by Marvin)](#cases-63)
+*   [No. 64: High-Quality Photo Enhancement from Reference Image (by Marvin)](#cases-64)
+*   [No. 65: Weather Transformation Based on Reference Image (by Marvin)](#cases-65)
+*   [No. 66: Color Grading and Palette Adjustment from Reference Image (by Marvin)](#cases-66)
+*   [No. 67: Targeted content replacement in a reference image (by Marvin)](#cases-67)
+*   [No. 68: Image Outpainting Extension from Reference Photo (by Marvin)](#cases-68)
+*   [No. 69: Dual-Image Redraw and Aspect Ratio Transfer (by Marvin)](#cases-69)
+*   [No. 70: 3x3 Studio-Style Photo Strip Grid (by Marvin)](#cases-70)
+*   [No. 71: Line Art to Fully Colored Illustration (by Marvin)](#cases-71)
+*   [No. 72: Line Art Colorization with Detailed Rendering (by Marvin)](#cases-72)
+*   [No. 73: Two-Step Living Room Redesign from Reference Photos (by Marvin)](#cases-73)
+*   [No. 74: Object or Scene Creation from Listed Items (by Marvin)](#cases-74)
+*   [No. 75: Anatomical Infographic of a Fictional Character (by Marvin)](#cases-75)
+*   [No. 76: 16-Bit Video Game Character Recreation (by Marvin)](#cases-76)
+*   [No. 77: Polaroid-Style Snapshot with Curtain Background (by Marvin)](#cases-77)
+*   [No. 78: Soft Sunlit Portrait in Yellow Saree (by Marvin)](#cases-78)
+*   [No. 79: Polaroid Hug Scene with White Curtain Background (by Marvin)](#cases-79)
+*   [No. 80: Top-Angle Black-and-White Portrait (by Marvin)](#cases-80)
+*   [No. 81: Vertical Cinematic Portrait with Red Background (by Marvin)](#cases-81)
+*   [No. 82: Exploded Technical View of a Product (by Marvin)](#cases-82)
+*   [No. 83: 100x Zoom Detail View of a Scene (by Marvin)](#cases-83)
+*   [No. 84: Storyboard Generated from a Single Image (by Marvin)](#cases-84)
+*   [No. 85: Tom Yum Goong Soup Recipe Infographic (by Marvin)](#cases-85)
+*   [No. 86: Background and Blanket Focus with Blurred Child (by Marvin)](#cases-86)
+*   [No. 87: Minimal Food Letter Logos on White Background (by Marvin)](#cases-87)
+*   [No. 88: 水调歌头 词意与意境 (by AIGC 创意猎人)](#cases-88)
+*   [No. 89: 古老石碑上的《青玉案·元夕》 (by AIGC 创意猎人)](#cases-89)
+*   [No. 90: 感恩节主题黑板报 (by AIGC 创意猎人)](#cases-90)
+*   [No. 91: 90年代情书：春娇写给志明 (by AIGC 创意猎人)](#cases-91)
+*   [No. 92: 三天两晚北京旅游攻略手帐风格 (by AIGC 创意猎人)](#cases-92)
+*   [No. 93: 猎人野味湘菜餐馆经典菜单 (by AIGC 创意猎人)](#cases-93)
+*   [No. 94: 宇称不守恒原理科普图 (by AIGC 创意猎人)](#cases-94)
+*   [No. 95: 《红楼梦》主要人物关系图谱 (by AIGC 创意猎人)](#cases-95)
+*   [No. 96: 黑板上的高考解答过程 (by AIGC 创意猎人)](#cases-96)
+*   [No. 97: MBTI 16型人格图（中文版） (by AIGC 创意猎人)](#cases-97)
+*   [No. 98: 航空发动机3D结构透视图 (by AIGC 创意猎人)](#cases-98)
+*   [No. 99: 黑金立体3D文字与传统印章设计 (by AIGC 创意猎人)](#cases-99)
+*   [No. 100: 创意猎人 - 街头涂鸦风格字体设计 (by AIGC 创意猎人)](#cases-100)
+*   [No. 101: 苍劲有力的北京书法艺术 (by AIGC 创意猎人)](#cases-101)
+*   [No. 102: 夏日傍晚的浪漫海边情感海报 (by AIGC 创意猎人)](#cases-102)
+*   [No. 103: 梦幻唐代荔枝海报 (by AIGC 创意猎人)](#cases-103)
+*   [No. 104: HUNTER 高端品牌鞋靴广告 (by AIGC 创意猎人)](#cases-104)
+*   [No. 105: 搞怪创意海报：牛马注意警示标识 (by AIGC 创意猎人)](#cases-105)
+*   [No. 106: 时尚电影肖像：年轻女性坐在现代椅子上 (by AIGC 创意猎人)](#cases-106)
+*   [No. 107: 工作室肖像照片 (by AIGC 创意猎人)](#cases-107)
+*   [No. 108: 米色工作室中的极简主义肖像系列 (by AIGC 创意猎人)](#cases-108)
+*   [No. 109: 高端洗发水广告：Nano Banana 2 (by AIGC 创意猎人)](#cases-109)
+*   [No. 110: 老夫子风格漫画：俞敏洪南极游玩与加班员工的对比 (by AIGC 创意猎人)](#cases-110)
+*   [No. 111: 真人风格的漫画翻译 (by AIGC 创意猎人)](#cases-111)
+*   [No. 112: 简约高级AI产品商店设计 (by AIGC 创意猎人)](#cases-112)
+*   [No. 113: Nano Banana 2 - Fictional Pharmaceutical Product (by AIGC 创意猎人)](#cases-113)
+*   [No. 114: 微信聊天截图：Nano Banana 2发布警告 (by AIGC 创意猎人)](#cases-114)
+*   [No. 115: 爱因斯坦发布相对论后的微信朋友圈 (by AIGC 创意猎人)](#cases-115)
+*   [No. 116: 斗地主游戏UI界面 (by AIGC 创意猎人)](#cases-116)
+*   [No. 117: Gemini 3 Pro 主要功能亮点介绍 (by AIGC 创意猎人)](#cases-117)
+*   [No. 118: Nano Banana 2的优势与Bento Grid视觉风格 (by AIGC 创意猎人)](#cases-118)
 
 ---
 
 <a id="cases"></a>
-## 🧩 Case
+## 🧩 No.
 
 <a id="cases-1"></a>
-### Case 1: Clock 11:15 + Wine Glass Filled to Rim (by []())
+### No. 1: Clock 11:15 + Wine Glass Filled to Rim
 
-[Source Link](https://aidisruption.ai/p/nano-banana-2-pulled-in-1-hour-aced)
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+</p>
 
 <img src="cases/1/case.jpg" width="300" alt="A cozy dining table, wall clock showing exactly 11:15, and a crystal wine glass filled to the rim."><br>
-<sub>Image © 2025 <a href="https://github.com/muset-ai">@muset-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/muset-ai">@muset-ai</a></sub>
+<sub>Image © 2025 <a href="https://github.com/muset-ai">@muset-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/muset-ai">@muset-ai</a> • [Source](https://aidisruption.ai/p/nano-banana-2-pulled-in-1-hour-aced)</sub>
 
 
 **Prompt**
@@ -192,17 +192,20 @@ A cozy dining table scene. On the wall, a clock showing exactly 11:15 with corre
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-2"></a>
-### Case 2: Math/Formula Boards & Logical Layouts (by []())
+---
 
-[Source Link](https://x.com/EHuanglu/status/1988007355070451975)
+
+<a id="cases-2"></a>
+### No. 2: Math/Formula Boards & Logical Layouts
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/2/case.jpeg" width="300" alt="Professor in a classroom with a blackboard full of multi-line mathematical derivations."><br>
-<sub>Image © 2025 <a href="https://github.com/muset-ai">@muset-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/muset-ai">@muset-ai</a></sub>
+<sub>Image © 2025 <a href="https://github.com/muset-ai">@muset-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/muset-ai">@muset-ai</a> • [Source](https://x.com/EHuanglu/status/1988007355070451975)</sub>
 
 
 **Prompt**
@@ -212,17 +215,20 @@ A professor teaching in a classroom. Large blackboard behind them filled with a 
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-3"></a>
-### Case 3: CCTV Footage (by []())
+---
 
-[Source Link](https://www.reddit.com/r/singularity/comments/1otuefg/nano_banana_2_crazy_image_outputs/)
+
+<a id="cases-3"></a>
+### No. 3: CCTV Footage
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/3/case.webp" width="300" alt="Security camera style frame with scanlines, timestamp, and documentary feel."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">@vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Qemmish/">@Qemmish</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">@vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Qemmish/">@Qemmish</a> • [Source](https://www.reddit.com/r/singularity/comments/1otuefg/nano_banana_2_crazy_image_outputs/)</sub>
 
 
 **Prompt**
@@ -232,17 +238,20 @@ cctv footage, UK. a man in the street wearing gigantic oversized sneakers. talki
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-4"></a>
-### Case 4: CNN Election Results TV Broadcast (by [vladislavkochergin01](https://www.reddit.com/user/vladislavkochergin01/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-4"></a>
+### No. 4: CNN Election Results TV Broadcast
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/4/case.webp" width="300" alt="CNN television screen displaying U.S. election results with two candidates and a news anchor."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -252,17 +261,20 @@ A realistic close-up of a television screen displaying CNN U.S. election results
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-5"></a>
-### Case 5: Five Adventurers in a Luminous Cave (by [Kiitani](https://www.reddit.com/user/Kiitani/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-5"></a>
+### No. 5: Five Adventurers in a Luminous Cave
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
 
 <img src="cases/5/case.png" width="300" alt="Animated fantasy party of five adventurers exploring a glowing cave corridor."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kiitani/">Kiitani</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kiitani/">Kiitani</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -272,17 +284,20 @@ an animated illustration of a party of five adventurers navigating a cave system
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-6"></a>
-### Case 6: A Motorbike Made of Sharks (by [Dependent_Piece_5781](https://www.reddit.com/user/Dependent_Piece_5781/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-6"></a>
+### No. 6: A Motorbike Made of Sharks
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/6/case.png" width="300" alt="A motorbike made of sharks"><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Dependent_Piece_5781/">Dependent_Piece_5781</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Dependent_Piece_5781/">Dependent_Piece_5781</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -292,17 +307,20 @@ A motorbike made of sharks
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-7"></a>
-### Case 7: Biden’s Dog Holding a 2018 Newspaper (by [Healthy_Razzmatazz38](https://www.reddit.com/user/Healthy_Razzmatazz38/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-7"></a>
+### No. 7: Biden’s Dog Holding a 2018 Newspaper
+
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+</p>
 
 <img src="cases/7/case.png" width="300" alt="Biden’s pet dog stands on a skateboard holding a newspaper with an October 1, 2018 headline."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Healthy_Razzmatazz38/">Healthy_Razzmatazz38</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Healthy_Razzmatazz38/">Healthy_Razzmatazz38</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -312,17 +330,20 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-8"></a>
-### Case 8: Elderly Couple Watching a B-2 Bomber (by [Snoo26837](https://www.reddit.com/user/Snoo26837/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-8"></a>
+### No. 8: Elderly Couple Watching a B-2 Bomber
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/8/case.png" width="300" alt="Grainy film photo of an elderly couple on a vast tarmac facing a distant B-2 stealth bomber."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Snoo26837/">Snoo26837</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Snoo26837/">Snoo26837</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -332,17 +353,20 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-9"></a>
-### Case 9: Stylized 3D Zombie Character (by [Fysikz](https://www.reddit.com/user/Fysikz/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-9"></a>
+### No. 9: Stylized 3D Zombie Character
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/9/case.png" width="300" alt="Graphic 3D zombie with decaying flesh and bold, saturated colors."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Fysikz/">Fysikz</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Fysikz/">Fysikz</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -352,17 +376,20 @@ the breed of dog which biden had as a pet holding up a newspaper with the top he
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-10"></a>
-### Case 10: Man Drinking Sushi Water Under Surreal Skies (by [Rare-Belt-9644](https://www.reddit.com/user/Rare-Belt-9644/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-10"></a>
+### No. 10: Man Drinking Sushi Water Under Surreal Skies
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/10/case.png" width="300" alt="Smirking man drinks a bottle of sushi water while gazing at strangely shaped skies."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Rare-Belt-9644/">Rare-Belt-9644</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Rare-Belt-9644/">Rare-Belt-9644</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -372,17 +399,20 @@ A man drinking bottle of sushi water and looking at beautiful-shaped skies, smir
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-11"></a>
-### Case 11: Grizzly Bear Showing a Meme to a Hiker (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-11"></a>
+### No. 11: Grizzly Bear Showing a Meme to a Hiker
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
 
 <img src="cases/11/case.png" width="300" alt="A grizzly bear holds a meme photo of another bear in front of a real hiker in the forest."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -392,17 +422,20 @@ A grizzly bear holding a picture with a meme of a grizzly bear in the forest, in
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-12"></a>
-### Case 12: Floral Calculus Blackboard (by [Longjumping_Spot5843](https://www.reddit.com/user/Longjumping_Spot5843/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-12"></a>
+### No. 12: Floral Calculus Blackboard
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/12/case.png" width="300" alt="Blackboard with a solved calculus integral whose colorful chalk lines form a flower-like artwork."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Longjumping_Spot5843/">Longjumping_Spot5843</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Longjumping_Spot5843/">Longjumping_Spot5843</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -412,17 +445,20 @@ A hard calculus integration problem written and solved on a blackboard, but the 
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-13"></a>
-### Case 13: Lightning Radar Browser UI (by [BasketFar667](https://www.reddit.com/user/BasketFar667/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-13"></a>
+### No. 13: Lightning Radar Browser UI
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/13/case.png" width="300" alt="Weather-style radar interface in a browser visualizing lightning strikes on a map."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/BasketFar667/">BasketFar667</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/BasketFar667/">BasketFar667</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -432,17 +468,20 @@ Lightning Radar: A copy of the browser version of Lightning Radar.
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-14"></a>
-### Case 14: Duck, Chicken and Parrot Riding a Scooter (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-14"></a>
+### No. 14: Duck, Chicken and Parrot Riding a Scooter
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
 
 <img src="cases/14/case.png" width="300" alt="A parrot drives an electric scooter while a chicken rides on its shoulders and a duck rides on the chicken through a theme park."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -452,17 +491,20 @@ A duck riding a chicken that sits in the shoulders of a parrot that drives and e
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-15"></a>
-### Case 15: One-Eyed Whippet on a Moped (by [douggieball1312](https://www.reddit.com/user/douggieball1312/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-15"></a>
+### No. 15: One-Eyed Whippet on a Moped
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/15/case.png" width="300" alt="A whippet wearing an eye patch rides a moped down a UK street lined with boarded-up shops."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/douggieball1312/">douggieball1312</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/douggieball1312/">douggieball1312</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -472,17 +514,20 @@ A whippet with an eye patch riding a moped through a UK street filled with shops
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-16"></a>
-### Case 16: Gemini Solves Cancer and World Peace (by [Feisty_Test_9388](https://www.reddit.com/user/Feisty_Test_9388/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-16"></a>
+### No. 16: Gemini Solves Cancer and World Peace
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/16/case.png" width="300" alt="Futuristic AI Gemini is depicted discovering a cure for cancer and ushering in world peace."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Feisty_Test_9388/">Feisty_Test_9388</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Feisty_Test_9388/">Feisty_Test_9388</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -492,17 +537,20 @@ Gemini finding cure to cancer and establishing world peace
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-17"></a>
-### Case 17: Big-Headed Superhero Sprite Sheet (by [hydrangers](https://www.reddit.com/user/hydrangers/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-17"></a>
+### No. 17: Big-Headed Superhero Sprite Sheet
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/17/case.png" width="300" alt="2D sprite sheet of a big-headed blue-and-red superhero in multiple animation poses."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/hydrangers/">hydrangers</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/hydrangers/">hydrangers</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -512,17 +560,20 @@ a sprite sheet for various animation for a single character for a 2d game. The h
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-18"></a>
-### Case 18: Sun Exploding into Pigeons (by [neoqueto](https://www.reddit.com/user/neoqueto/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-18"></a>
+### No. 18: Sun Exploding into Pigeons
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/18/case.png" width="300" alt="Photorealistic doomsday scene where the Sun erupts into flocks of pigeons as an old lady exclaims 'oh, crikey!'."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/neoqueto/">neoqueto</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/neoqueto/">neoqueto</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -532,17 +583,20 @@ A very photorealistic image of the Sun vigorously exploding into a bunch of pige
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-19"></a>
-### Case 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty (by [maynmaynmayn](https://www.reddit.com/user/maynmaynmayn/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-19"></a>
+### No. 19: Old Lady Balancing Sumo Wrestlers on the Statue of Liberty
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
 
 <img src="cases/19/case.png" width="300" alt="Cartoony scene of an old lady atop the Statue of Liberty balancing three stacked sumo wrestlers on her pinky."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/maynmaynmayn/">maynmaynmayn</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -552,17 +606,20 @@ An old lady balancing 3 sumo wrestlers on her pinky finger, each sumo wrestler b
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-20"></a>
-### Case 20: Soviet Manual on Human-Wolf Hybrids (by [ryebrye](https://www.reddit.com/user/ryebrye/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-20"></a>
+### No. 20: Soviet Manual on Human-Wolf Hybrids
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/20/case.png" width="300" alt="Retro Technicolor-style frame of a werewolf reading a Soviet biology textbook about human-wolf hybrids with a sparkly vampire in a glass cage behind."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -572,17 +629,20 @@ A soviet biology textbook open to the page describing how to hybridize a human a
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-21"></a>
-### Case 21: Business Conversation Film Still (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-21"></a>
+### No. 21: Business Conversation Film Still
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/21/case.png" width="300" alt="Movie-style shot of a red-haired woman in a black blazer talking with a man in a blue suit indoors."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -592,17 +652,20 @@ A redhead woman in a black blazer talks with a man in a blue business suit. Indo
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-22"></a>
-### Case 22: Orchestra Playing 'Baby Got Back' in Vienna (by [ryebrye](https://www.reddit.com/user/ryebrye/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-22"></a>
+### No. 22: Orchestra Playing 'Baby Got Back' in Vienna
+
+<p>
+<img src="https://img.shields.io/badge/Type-Multi_Character-f59e0b?style=flat-square" alt="Multi Character">
+</p>
 
 <img src="cases/22/case.png" width="300" alt="Conductor’s-eye view of a Viennese orchestra at a Christmas concert performing an arrangement of 'Baby Got Back'."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ryebrye/">ryebrye</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -612,17 +675,20 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-23"></a>
-### Case 23: Cats Boxing in the Ring (by [Every_Ad_2705](https://www.reddit.com/user/Every_Ad_2705/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-23"></a>
+### No. 23: Cats Boxing in the Ring
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/23/case.png" width="300" alt="Two cats wearing boxing gloves fight in a boxing ring."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Every_Ad_2705/">Every_Ad_2705</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Every_Ad_2705/">Every_Ad_2705</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -632,17 +698,20 @@ a conductor's point of view of an orchestra during a Christmas concert in Vienna
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-24"></a>
-### Case 24: Volcanic Werewolf Camo Pattern (by [SentinelHalo](https://www.reddit.com/user/SentinelHalo/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-24"></a>
+### No. 24: Volcanic Werewolf Camo Pattern
+
+<p>
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
 
 <img src="cases/24/case.png" width="300" alt="Seamless ember-orange and charcoal-black camouflage pattern hiding snarling wolf faces."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SentinelHalo/">SentinelHalo</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SentinelHalo/">SentinelHalo</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -652,17 +721,20 @@ Volcanic-inspired werewolf camo pattern using ember-orange, charcoal-black, and 
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-25"></a>
-### Case 25: Sveavägen Street in Stockholm (by [kyprianou](https://www.reddit.com/user/kyprianou/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-25"></a>
+### No. 25: Sveavägen Street in Stockholm
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
 
 <img src="cases/25/case.png" width="300" alt="Street-level view of Sveavägen in Stockholm with cars, buildings and Nordic city atmosphere."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/kyprianou/">kyprianou</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/kyprianou/">kyprianou</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -672,17 +744,20 @@ Sveavägen, Stockholm
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-26"></a>
-### Case 26: Web App UI with QR Code (by [Camaraderie](https://www.reddit.com/user/Camaraderie/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-26"></a>
+### No. 26: Web App UI with QR Code
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/26/case.png" width="300" alt="Modern web app mockup UI featuring a prominent scannable QR code linking to google.com."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Camaraderie/">Camaraderie</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Camaraderie/">Camaraderie</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -692,17 +767,20 @@ Generate a mock UI for a web application with modern styling and CSS. Place a QR
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-27"></a>
-### Case 27: CT5-V Blackwing and Purple Hellcat at Dusk (by [InformalNatural1134](https://www.reddit.com/user/InformalNatural1134/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-27"></a>
+### No. 27: CT5-V Blackwing and Purple Hellcat at Dusk
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/27/case.png" width="300" alt="Radiant red CT5-V Blackwing and gloss purple Hellcat parked side by side in an empty lot at evening."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/InformalNatural1134/">InformalNatural1134</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/InformalNatural1134/">InformalNatural1134</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -712,17 +790,20 @@ A ct5 v black wing radiant red and a gloss purple hellcat parked together in a e
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-28"></a>
-### Case 28: Brazilian Zouk Demo at Warsaw Zouk Festival (by [zactral](https://www.reddit.com/user/zactral/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-28"></a>
+### No. 28: Brazilian Zouk Demo at Warsaw Zouk Festival
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/28/case.png" width="300" alt="Photorealistic couple dancing Brazilian Zouk while a crowd watches and a videographer films at a festival."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/zactral/">zactral</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/zactral/">zactral</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -732,17 +813,20 @@ A couple doing a Brazilian Zouk dance demo at Warsaw Zouk Festival while a crowd
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-29"></a>
-### Case 29: Wind Turbine over the Swiss Alps (by [Kosmicce](https://www.reddit.com/user/Kosmicce/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-29"></a>
+### No. 29: Wind Turbine over the Swiss Alps
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
 
 <img src="cases/29/case.png" width="300" alt="Drone close-up of a wind turbine spinning above snowy Swiss Alps on a clear sunny day."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kosmicce/">Kosmicce</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Kosmicce/">Kosmicce</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -752,17 +836,20 @@ Close-up drone shot of a wind turbine on top of swiss alps, beautiful sunny day,
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-30"></a>
-### Case 30: Anne Boleyn Actress iPhone Selfie (by [Bait_Shop_Guy_](https://www.reddit.com/user/Bait_Shop_Guy_/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-30"></a>
+### No. 30: Anne Boleyn Actress iPhone Selfie
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/30/case.png" width="300" alt="Casual iPhone selfie of a smiling young actress dressed as Anne Boleyn on an outdoor film set."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Bait_Shop_Guy_/">Bait_Shop_Guy_</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -772,17 +859,20 @@ Amateur, medicore iPhone selfie of smiling young actress dressed as Anne Boleyn.
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-31"></a>
-### Case 31: Tiny Human Inside an Acoustic Guitar (by [xGRAPH1KSx](https://www.reddit.com/user/xGRAPH1KSx/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-31"></a>
+### No. 31: Tiny Human Inside an Acoustic Guitar
+
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+</p>
 
 <img src="cases/31/case.png" width="300" alt="Surreal view from inside an acoustic guitar with a tiny person standing among its inner bracing."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/xGRAPH1KSx/">xGRAPH1KSx</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/xGRAPH1KSx/">xGRAPH1KSx</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -792,17 +882,20 @@ a tiny human standing in the inside of an accoustic guitar revealing all the inn
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-32"></a>
-### Case 32: Blue Oranges and a Purple Apple (by [Head_Phrase_7084](https://www.reddit.com/user/Head_Phrase_7084/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-32"></a>
+### No. 32: Blue Oranges and a Purple Apple
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/32/case.png" width="300" alt="White bowl filled with vivid blue oranges and a single purple apple in the center."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Head_Phrase_7084/">Head_Phrase_7084</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Head_Phrase_7084/">Head_Phrase_7084</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -812,17 +905,20 @@ Photo of a white bowl filled with blue oranges and a singular purple apple in th
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-33"></a>
-### Case 33: A Burger, but not (by [HeraclesLeftNipple](https://www.reddit.com/user/HeraclesLeftNipple/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-33"></a>
+### No. 33: A Burger, but not
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/33/case.png" width="300" alt="A Burger, but not."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/HeraclesLeftNipple/">HeraclesLeftNipple</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/HeraclesLeftNipple/">HeraclesLeftNipple</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -832,17 +928,20 @@ A Burger, but not.
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-34"></a>
-### Case 34: Space-Age 60s Living Room at Golden Hour (by [Polstick1971](https://www.reddit.com/user/Polstick1971/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-34"></a>
+### No. 34: Space-Age 60s Living Room at Golden Hour
+
+<p>
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/34/case.png" width="300" alt="Retro space-age 1960s style living room bathed in warm golden-hour light."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Polstick1971/">Polstick1971</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/Polstick1971/">Polstick1971</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -852,17 +951,20 @@ Space age 60’s style living room. Golden hour. Nostalgic feeling.
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-35"></a>
-### Case 35: Comic-Book Ouroboros with Ben Day Dots (by [SupehCookie](https://www.reddit.com/user/SupehCookie/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-35"></a>
+### No. 35: Comic-Book Ouroboros with Ben Day Dots
+
+<p>
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/35/case.png" width="300" alt="Ouroboros drawn in bold comic-book style with Ben Day dots suggesting motion."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SupehCookie/">SupehCookie</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/SupehCookie/">SupehCookie</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -872,17 +974,20 @@ an Ouroboros in a comicbook theme, with ben day dots make the Ouroboros look lik
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-36"></a>
-### Case 36: Prompt Overload Dystopian Desert (by [ComprehensiveLead198](https://www.reddit.com/user/ComprehensiveLead198/))
+---
 
-[Source Link](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)
+
+<a id="cases-36"></a>
+### No. 36: Prompt Overload Dystopian Desert
+
+<p>
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/36/case.png" width="300" alt="Highly detailed dystopian desert landscape with a glowing digital monolith reading 'PROMPT OVERLOAD' amid neon-lit cyberpunk ruins."><br>
-<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ComprehensiveLead198/">ComprehensiveLead198</a></sub>
+<sub>Image © 2025 <a href="https://www.reddit.com/user/vladislavkochergin01/">vladislavkochergin01</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.reddit.com/user/ComprehensiveLead198/">ComprehensiveLead198</a> • [Source](https://www.reddit.com/r/Bard/comments/1p0moso/just_got_a_limited_access_to_nano_banana_2_pro/)</sub>
 
 
 **Prompt**
@@ -892,17 +997,20 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-37"></a>
-### Case 37: 绝区零 × 喜茶 霓虹联动海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-37"></a>
+### No. 37: 绝区零 × 喜茶 霓虹联动海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/37/case.webp" width="300" alt="四位动漫角色在未来城市夜景下手持喜茶，背后巨大的“ZZZ”和“HEYTEA”霓虹招牌发光，漂浮水果与能量漩涡营造活力联动氛围。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -923,17 +1031,20 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-38"></a>
-### Case 38: 美团 赛博黄历 复古符箓海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-38"></a>
+### No. 38: 美团 赛博黄历 复古符箓海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/38/case.webp" width="300" alt="仿古木版画风的密集网格海报，中心“外卖神君”持手机与餐盒，十二时辰宜忌与八卦图标围绕，呈现赛博道教美学。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -951,17 +1062,20 @@ Dystopian, arid desert landscape under a hazy orange sky, leading to a distant c
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-39"></a>
-### Case 39: 奈斯派索 上海装饰艺术海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-39"></a>
+### No. 39: 奈斯派索 上海装饰艺术海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/39/case.webp" width="300" alt="摩登旗袍女子操作Art Deco风咖啡机，右侧竖排“奈斯派索”艺术字与标语，背景为几何化上海城市与华丽边框。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -990,17 +1104,20 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-40"></a>
-### Case 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-40"></a>
+### No. 40: 90年代过肩镜头：Nano-Banana-Pro 电视广告
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/40/case.webp" width="300" alt="父亲与小孩的剪影前景越肩看木纹显像管电视，屏幕以刀锋般锐利字体显示“未来之约，准时抵达！2025年11月18日”。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -1031,17 +1148,20 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-41"></a>
-### Case 41: 成都慢行图 手绘旅游地图 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-41"></a>
+### No. 41: 成都慢行图 手绘旅游地图
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
 
 <img src="cases/41/case.webp" width="300" alt="羊皮纸上的水彩钢笔插画，等轴视角呈现熊猫基地、锦里等地标，行楷主标题与沿锦江弯曲书写的文字融于地图。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -1072,17 +1192,20 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-42"></a>
-### Case 42: 大唐长安 插画长卷地图 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-42"></a>
+### No. 42: 大唐长安 插画长卷地图
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
 
 <img src="cases/42/case.webp" width="300" alt="唐代仕女画风散点透视长卷，朱雀大街为中轴，宫市池等微型场景与小篆坊名印章构成华丽城市织锦。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -1119,17 +1242,20 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-43"></a>
-### Case 43: 老北京航拍：光影显形的“衚”字 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-43"></a>
+### No. 43: 老北京航拍：光影显形的“衚”字
+
+<p>
+<img src="https://img.shields.io/badge/Type-Maps_Layout-eab308?style=flat-square" alt="Maps Layout">
+</p>
 
 <img src="cases/43/case.webp" width="300" alt="胡同与四合院墙体在同一高度与材质中，被低角度阳光与氛围雾以光影与对比微妙勾勒出“衚”字形态。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -1155,17 +1281,20 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-44"></a>
-### Case 44: 过肩镜头：雨夜瘦金体书稿 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-44"></a>
+### No. 44: 过肩镜头：雨夜瘦金体书稿
+
+<p>
+<img src="https://img.shields.io/badge/Type-Physics-3b82f6?style=flat-square" alt="Physics">
+</p>
 
 <img src="cases/44/case.webp" width="300" alt="文人右手执笔书写《声声慢》，孤灯映照宣纸；雨滴在新字上炸裂成纤细羽毛状洇染，与窗外芭蕉雨景相映。"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -1197,17 +1326,20 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-45"></a>
-### Case 45: 蜜雪冰城商业海报 (by [雪佬说](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA))
+---
 
-[Source Link](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)
+
+<a id="cases-45"></a>
+### No. 45: 蜜雪冰城商业海报
+
+<p>
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/45/case.webp" width="300" alt="古代敦煌壁画风格蜜雪冰城商业海报"><br>
-<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a></sub>
+<sub>Image © 2025 <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA">雪佬说</a> • [Source](https://mp.weixin.qq.com/s/Rcr2TM4tIRpZfxJueXntsA)</sub>
 
 
 **Prompt**
@@ -1236,17 +1368,20 @@ Slogan: 主标题旁，用小一号但同样艺术风格的字体竖排写着“
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-46"></a>
-### Case 46: Chibi Sticker Sheet with Expressive Poses (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-46"></a>
+### No. 46: Chibi Sticker Sheet with Expressive Poses
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/46/case.webp" width="300" alt="A set of chibi-style character stickers in multiple expressive poses on a vibrant red background."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1260,17 +1395,20 @@ Making a playful peace sign with both hands and winking. Tearful eyes and slight
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-47"></a>
-### Case 47: Chibi Funko Pop 3D Character Render (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-47"></a>
+### No. 47: Chibi Funko Pop 3D Character Render
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/47/case.webp" width="300" alt="A detailed 3D render of a chibi Funko Pop-style figure based on a reference photo on a pure white background."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1284,17 +1422,20 @@ Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the p
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-48"></a>
-### Case 48: Ghibli-Style Redraw of Reference Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-48"></a>
+### No. 48: Ghibli-Style Redraw of Reference Photo
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/48/case.webp" width="300" alt="The reference photo redrawn in a soft, colorful Studio Ghibli-inspired illustration style."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1308,17 +1449,20 @@ Redraw this photo in Ghibli style
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-49"></a>
-### Case 49: Rhythm Dance Game Scene with 3D Character (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-49"></a>
+### No. 49: Rhythm Dance Game Scene with 3D Character
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/49/case.webp" width="300" alt="A neon-lit rhythm dance game screenshot with a 3D animated character dancing on a glossy reflective stage and full rhythm-game HUD."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1332,17 +1476,20 @@ A vibrant rhythm dance game screenshot featuring the 3D animated character from 
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-50"></a>
-### Case 50: Photorealistic Multi-Image Composite (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-50"></a>
+### No. 50: Photorealistic Multi-Image Composite
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/50/case.webp" width="300" alt="A seamless photorealistic composite image that blends several source photos into one coherent scene with consistent lighting and perspective."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1356,17 +1503,20 @@ Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesi
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-51"></a>
-### Case 51: Image Style Transfer Between Two Photos (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-51"></a>
+### No. 51: Image Style Transfer Between Two Photos
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/51/case.webp" width="300" alt="The main subject from one photo rendered in the artistic colors and textures of another reference image."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1380,17 +1530,20 @@ Transform this image [Image1] into the artistic style of [Image2]. Keep the main
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-52"></a>
-### Case 52: Outfit Swap with New Pants from Reference (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-52"></a>
+### No. 52: Outfit Swap with New Pants from Reference
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/52/case.webp" width="300" alt="The original character kept the same while their pants are replaced by the outfit design from a second reference image."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1404,17 +1557,20 @@ Keep the character in [Image1] unchanged, but replace her pant with the outfit i
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-53"></a>
-### Case 53: Facial Expression Editing of the Same Person (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-53"></a>
+### No. 53: Facial Expression Editing of the Same Person
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/53/case.webp" width="300" alt="A portrait where the person’s pose and appearance stay the same but their facial expression is changed to a new emotion."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1428,17 +1584,20 @@ Keep the person from [Image1] unchanged, but change their facial expression to [
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-54"></a>
-### Case 54: Pose Transfer Between Two Men (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-54"></a>
+### No. 54: Pose Transfer Between Two Men
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/54/case.webp" width="300" alt="Two men recreated in a new photo, posed exactly like the man in green carrying the man in red from the reference image."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1452,17 +1611,20 @@ Take the two men and place them in the exact poses of the man in green carrying 
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-55"></a>
-### Case 55: Body Reshaping While Preserving Identity (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-55"></a>
+### No. 55: Body Reshaping While Preserving Identity
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/55/case.webp" width="300" alt="A portrait where the person’s body shape is transformed to a new type while their face, hairstyle, and clothing remain recognizable."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1476,17 +1638,20 @@ Reshape the body of the person in [Image1] into a [target body type]. Keep the f
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-56"></a>
-### Case 56: Nine Half-Length Portraits in Natural Environments (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-56"></a>
+### No. 56: Nine Half-Length Portraits in Natural Environments
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/56/case.webp" width="300" alt="A 3x3 grid of vibrant half-length portraits of the same person in different poses and colorful natural settings."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1500,17 +1665,20 @@ Using the uploaded photo as a reference, generate a set of 9 vibrant half-length
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-57"></a>
-### Case 57: Background Replacement for a Subject (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-57"></a>
+### No. 57: Background Replacement for a Subject
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/57/case.webp" width="300" alt="A subject from the original photo placed into a new background that matches the lighting and style for seamless integration."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1524,17 +1692,20 @@ Replace the background of [Image1] with [desired background description, e.g., a
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-58"></a>
-### Case 58: Adding a New Element into a Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-58"></a>
+### No. 58: Adding a New Element into a Photo
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/58/case.webp" width="300" alt="The original scene preserved while a new object or element is added and blended naturally into the environment."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1548,17 +1719,20 @@ Add [desired element, e.g., a tree, a lamp, a dog] to [Image1]. Place it natural
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-59"></a>
-### Case 59: Object Removal and Clean Background Fill (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-59"></a>
+### No. 59: Object Removal and Clean Background Fill
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/59/case.webp" width="300" alt="A photo where a selected object has been removed and the background filled in realistically so the edit is invisible."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1572,17 +1746,20 @@ Remove [element to remove, e.g., a person, a car, a sign] from [Image1]. Fill th
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-60"></a>
-### Case 60: Four Camera Angles of the Same Scene (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-60"></a>
+### No. 60: Four Camera Angles of the Same Scene
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/60/case.webp" width="300" alt="Four images of the same person and environment shown from bird’s-eye, rear, side profile, and close-up portrait views."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1601,17 +1778,20 @@ Close-up portrait view.
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-61"></a>
-### Case 61: Seamless Text Editing in an Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-61"></a>
+### No. 61: Seamless Text Editing in an Image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/61/case.webp" width="300" alt="An image where original text has been replaced with new wording that perfectly matches the existing font and design."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1625,17 +1805,20 @@ Edit the text in [Image1]. Replace the existing text with “[your new text]” 
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-62"></a>
-### Case 62: Ten-Minute-Later Version of the Same Scene (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-62"></a>
+### No. 62: Ten-Minute-Later Version of the Same Scene
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/62/case.webp" width="300" alt="The same scene reimagined as it would look ten minutes later with natural changes in light, weather, or activity."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1649,17 +1832,20 @@ Generate an image of the same scene as [Image1], but showing how it looks 10 min
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-63"></a>
-### Case 63: Clothing Extraction for E-Commerce Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-63"></a>
+### No. 63: Clothing Extraction for E-Commerce Photo
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+</p>
 
 <img src="cases/63/case.webp" width="300" alt="The outfit from the reference image isolated as a clean e-commerce product photo on a simple white or transparent background."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1673,17 +1859,21 @@ Extract the clothing from [Image1] and present it as a clean e-commerce product 
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-64"></a>
-### Case 64: High-Quality Photo Enhancement from Reference Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-64"></a>
+### No. 64: High-Quality Photo Enhancement from Reference Image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/64/case.webp" width="300" alt="An enhanced version of the original reference photo with improved resolution, sharpness, texture clarity, and realistic lighting while preserving the original composition and colors."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1697,17 +1887,21 @@ Enhance [Image1] to improve overall quality and detail. Keep the original compos
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-65"></a>
-### Case 65: Weather Transformation Based on Reference Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-65"></a>
+### No. 65: Weather Transformation Based on Reference Image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/65/case.webp" width="300" alt="A transformed version of the original photo where the weather has been changed while keeping the main subject and scene intact, with lighting, shadows, and colors adjusted to match the new weather in a photorealistic way."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1721,17 +1915,21 @@ Change the weather in [Image1] to [desired weather, e.g., rainy, snowy, foggy, s
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-66"></a>
-### Case 66: Color Grading and Palette Adjustment from Reference Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-66"></a>
+### No. 66: Color Grading and Palette Adjustment from Reference Image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/66/case.webp" width="300" alt="A recolored version of the reference image where the overall color scheme, lighting, and shadows are adjusted to a new palette while preserving the original subject and composition."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1745,17 +1943,21 @@ Change the colors in [Image1] to [desired color/style, e.g., warm tones, cool bl
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-67"></a>
-### Case 67: Targeted content replacement in a reference image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-67"></a>
+### No. 67: Targeted content replacement in a reference image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/67/case.webp" width="300" alt="A photorealistic image where a specific target element from the reference image has been replaced with a new subject, seamlessly blended with the original lighting, perspective, and style."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1769,17 +1971,21 @@ Replace [target element or area] in [Image1] with [new element or reference, e.g
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-68"></a>
-### Case 68: Image Outpainting Extension from Reference Photo (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-68"></a>
+### No. 68: Image Outpainting Extension from Reference Photo
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/68/case.webp" width="300" alt="An extended version of the original reference photo where new content has been generated beyond the original borders, seamlessly matching the style, colors, lighting, and perspective."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1793,17 +1999,21 @@ Extend [Image1] beyond its original borders using outpainting. Keep the main sub
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-69"></a>
-### Case 69: Dual-Image Redraw and Aspect Ratio Transfer (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-69"></a>
+### No. 69: Dual-Image Redraw and Aspect Ratio Transfer
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/69/case.webp" width="300" alt="Two combined reference images where the content of the first image has been redrawn to fill the aspect ratio of the second, with the original content of the second image cleared and only its aspect ratio preserved."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1818,17 +2028,21 @@ Redraw the content of Figure 1 onto Figure 2, add more detailed content to Figur
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-70"></a>
-### Case 70: 3x3 Studio-Style Photo Strip Grid (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-70"></a>
+### No. 70: 3x3 Studio-Style Photo Strip Grid
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
 
 <img src="cases/70/case.webp" width="300" alt="A 3x3 grid of photo strips derived from the original image, each panel showing different studio-style poses and facial expressions in a cohesive layout."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1842,17 +2056,21 @@ Turn the photo into a 3x3 grid of photo strips with different studio-style poses
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-71"></a>
-### Case 71: Line Art to Fully Colored Illustration (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-71"></a>
+### No. 71: Line Art to Fully Colored Illustration
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/71/case.webp" width="300" alt="A fully colored and detailed illustration generated from the original line art, preserving all outlines and composition while adding realistic lighting, shadows, and textures."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1866,17 +2084,21 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-72"></a>
-### Case 72: Line Art Colorization with Detailed Rendering (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-72"></a>
+### No. 72: Line Art Colorization with Detailed Rendering
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/72/case.webp" width="300" alt="A richly colored, fully rendered version of the original line art, keeping all line work intact while adding detailed lighting, shadows, and textures in the chosen style."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1890,17 +2112,21 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-73"></a>
-### Case 73: Two-Step Living Room Redesign from Reference Photos (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-73"></a>
+### No. 73: Two-Step Living Room Redesign from Reference Photos
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/73/case.webp" width="300" alt="A living room scene evolved in two steps from the reference images, first adding a gray sofa and wooden coffee table, then enriching the space with more furniture, daily items, and warmer wallpaper."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1917,17 +2143,21 @@ Convert the line art in [Image1] into a fully colored and detailed image. Preser
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-74"></a>
-### Case 74: Object or Scene Creation from Listed Items (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-74"></a>
+### No. 74: Object or Scene Creation from Listed Items
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Surreal_Concepts-06b6d4?style=flat-square" alt="Surreal Concepts">
+</p>
 
 <img src="cases/74/case.webp" width="300" alt="An image of a logically composed object or scene constructed from the provided list of items, with clear placement, appropriate proportions, and a coherent visual style."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1941,17 +2171,21 @@ Here are the items available: [List of items]. Based on these items, create an i
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-75"></a>
-### Case 75: Anatomical Infographic of a Fictional Character (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-75"></a>
+### No. 75: Anatomical Infographic of a Fictional Character
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/75/case.webp" width="300" alt="A bilaterally symmetrical frontal anatomical illustration of a fictional character, showing external features and partially exposed internal anatomy with explanatory infographic-style labels."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1965,17 +2199,21 @@ Draw a bilaterally symmetrical frontal anatomical illustration of the [Character
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-76"></a>
-### Case 76: 16-Bit Video Game Character Recreation (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-76"></a>
+### No. 76: 16-Bit Video Game Character Recreation
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Stylized_Characters-ec4899?style=flat-square" alt="Stylized Characters">
+</p>
 
 <img src="cases/76/case.webp" width="300" alt="A 16-bit pixel art version of the original character placed in a side-scrolling 2D platformer level, retaining the character’s key features within a retro game environment."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -1989,17 +2227,21 @@ Recreate this [Character] as a 16-bit video game character, and place the charac
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-77"></a>
-### Case 77: Polaroid-Style Snapshot with Curtain Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-77"></a>
+### No. 77: Polaroid-Style Snapshot with Curtain Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/77/case.webp" width="300" alt="A slightly blurred Polaroid-style photograph with two people in front of a plain white curtain background, natural flash lighting, and unchanged faces."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2013,17 +2255,21 @@ Take a picture with a Polaroid camera. The photo should look like a normal photo
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-78"></a>
-### Case 78: Soft Sunlit Portrait in Yellow Saree (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-78"></a>
+### No. 78: Soft Sunlit Portrait in Yellow Saree
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/78/case.webp" width="300" alt="A soft, sunlit portrait of a person in a flowing sheer yellow saree with floral embroidery, seated against a plain wall with artistic sunlight, holding sunflowers and exuding a serene, romantic mood."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2037,17 +2283,21 @@ Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicat
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-79"></a>
-### Case 79: Polaroid Hug Scene with White Curtain Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-79"></a>
+### No. 79: Polaroid Hug Scene with White Curtain Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/79/case.webp" width="300" alt="A slightly blurred Polaroid-style photograph where two people from the reference image appear to be hugging each other in front of white curtains, with consistent flash lighting and unchanged faces."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2061,17 +2311,21 @@ Take a photo taken with a Polaroid camera. The photo should look like an ordinar
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-80"></a>
-### Case 80: Top-Angle Black-and-White Portrait (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-80"></a>
+### No. 80: Top-Angle Black-and-White Portrait
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/80/case.webp" width="300" alt="A high-resolution black-and-white close-up portrait shot from a high angle, focusing on the face, upper chest, and shoulders against a deep black shadow background."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2085,17 +2339,21 @@ Please generate a top-angle and close-up black and white portrait of my face, fo
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-81"></a>
-### Case 81: Vertical Cinematic Portrait with Red Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-81"></a>
+### No. 81: Vertical Cinematic Portrait with Red Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/81/case.webp" width="300" alt="A vertical portrait of the same face captured from a slightly low angle with stark cinematic lighting, intense contrast, and a deep crimson red background contrasting with luminous skin and dark clothing."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2109,17 +2367,21 @@ Create a vertical potrait shot using the exact same face features, characterized
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-82"></a>
-### Case 82: Exploded Technical View of a Product (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-82"></a>
+### No. 82: Exploded Technical View of a Product
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Pattern_Design-ef4444?style=flat-square" alt="Pattern Design">
+</p>
 
 <img src="cases/82/case.webp" width="300" alt="An ultra-detailed exploded view of a product with metallic parts and electronic components floating in mid-air, perfectly aligned to reveal the internal structure with cinematic lighting."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2133,17 +2395,21 @@ Ultra-detailed exploded view of a product, metallic parts and electronic compone
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-83"></a>
-### Case 83: 100x Zoom Detail View of a Scene (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-83"></a>
+### No. 83: 100x Zoom Detail View of a Scene
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/83/case.webp" width="300" alt="An extremely close 100x zoomed-in view of the original image, preserving aspect ratio, sharp details, intricate textures, and natural colors without distortion."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2157,17 +2423,21 @@ Zoom in 100x on this image, maintaining the original aspect ratio. Ensure that t
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-84"></a>
-### Case 84: Storyboard Generated from a Single Image (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-84"></a>
+### No. 84: Storyboard Generated from a Single Image
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/84/case.jpg" width="300" alt="A storyboard derived from the uploaded image, showing key moments and transitions with cinematic framing, camera movements, and angles that convey the scene’s narrative flow."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2181,17 +2451,21 @@ Create a storyboard from the uploaded image, highlighting key moments and transi
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-85"></a>
-### Case 85: Tom Yum Goong Soup Recipe Infographic (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-85"></a>
+### No. 85: Tom Yum Goong Soup Recipe Infographic
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/85/case.jpg" width="300" alt="An infographic that visually explains how to make Thai Tom Yum Goong Soup, including ingredients and step-by-step recipe elements."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2205,17 +2479,21 @@ Create an infographic that shows how to make Thai Tom Yum Goong Soup, with ingre
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-86"></a>
-### Case 86: Background and Blanket Focus with Blurred Child (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-86"></a>
+### No. 86: Background and Blanket Focus with Blurred Child
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Cinematic_Photo-8b5cf6?style=flat-square" alt="Cinematic Photo">
+</p>
 
 <img src="cases/86/case.jpg" width="300" alt="A photograph where the trees and blanket in the background are sharp and emphasized, while the child in the foreground is intentionally blurred."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2229,17 +2507,21 @@ Focus on the background trees and blanket of this image, blur this kid.
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-87"></a>
-### Case 87: Minimal Food Letter Logos on White Background (by [Marvin](https://www.fotor.com/blog/author/marvin-tompkins/))
+---
 
-[Source Link](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)
+
+<a id="cases-87"></a>
+### No. 87: Minimal Food Letter Logos on White Background
+
+<p>
+<img src="https://img.shields.io/badge/Type-Image_Editing-6366f1?style=flat-square" alt="Image Editing">
+<img src="https://img.shields.io/badge/Type-Typography-10b981?style=flat-square" alt="Typography">
+</p>
 
 <img src="cases/87/case.jpg" width="300" alt="A set of eight sophisticated minimalistic logos arranged on a solid white background, each logo forming letters made from realistic food to express the meaning of the word."><br>
-<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a></sub>
+<sub>Image © 2025 <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://www.fotor.com/blog/author/marvin-tompkins/">Marvin</a> • [Source](https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1)</sub>
 
 **Reference Images:**
 
@@ -2253,17 +2535,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-88"></a>
-### Case 88: 水调歌头 词意与意境 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-88"></a>
+### No. 88: 水调歌头 词意与意境
 
 <img src="cases/88/407.output.1.webp" width="300" alt="展示《水调歌头》全文的艺术插图，展现明月、青天和人们的思绪与情感，体现古典诗词的意境与美感。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2273,17 +2554,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-89"></a>
-### Case 89: 古老石碑上的《青玉案·元夕》 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-89"></a>
+### No. 89: 古老石碑上的《青玉案·元夕》
 
 <img src="cases/89/408.output.1.webp" width="300" alt="一块破旧的石碑，上面用行书字体刻着《青玉案·元夕》全文，背景是荒郊野外，传达出沧桑感。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2293,17 +2573,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-90"></a>
-### Case 90: 感恩节主题黑板报 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-90"></a>
+### No. 90: 感恩节主题黑板报
 
 <img src="cases/90/409.output.1.webp" width="300" alt="教室后面装饰的黑板报，展示了丰富的感恩节主题内容，包括感恩的图案和文字。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2313,17 +2592,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-91"></a>
-### Case 91: 90年代情书：春娇写给志明 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-91"></a>
+### No. 91: 90年代情书：春娇写给志明
 
 <img src="cases/91/410.output.1.webp" width="300" alt="一封90年代风格的情书，使用钢笔书写，内容深情感人，传达春娇对志明的情感，纸张呈现出老旧感和年代感。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2333,17 +2611,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-92"></a>
-### Case 92: 三天两晚北京旅游攻略手帐风格 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-92"></a>
+### No. 92: 三天两晚北京旅游攻略手帐风格
 
 <img src="cases/92/411.output.1.webp" width="300" alt="手帐风格的北京旅游攻略图，包含三天两晚的详细行程安排，呈现出丰富的旅游信息和视觉元素。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2353,17 +2630,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-93"></a>
-### Case 93: 猎人野味湘菜餐馆经典菜单 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-93"></a>
+### No. 93: 猎人野味湘菜餐馆经典菜单
 
 <img src="cases/93/412.output.1.webp" width="300" alt="一份包含16道经典湘菜的实拍菜单，展示多样的湘菜美食，色彩鲜艳，诱人食欲。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2373,17 +2649,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-94"></a>
-### Case 94: 宇称不守恒原理科普图 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-94"></a>
+### No. 94: 宇称不守恒原理科普图
 
 <img src="cases/94/413.output.1.webp" width="300" alt="一张中文科普图，详细解释宇称不守恒原理，包括相关图示和文字说明。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2393,17 +2668,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-95"></a>
-### Case 95: 《红楼梦》主要人物关系图谱 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-95"></a>
+### No. 95: 《红楼梦》主要人物关系图谱
 
 <img src="cases/95/414.output.1.webp" width="300" alt="一幅展示《红楼梦》主要人物及其关系的图谱，包含人物名称和相互关系的连线，使用中文标注。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2413,17 +2687,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-96"></a>
-### Case 96: 黑板上的高考解答过程 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-96"></a>
+### No. 96: 黑板上的高考解答过程
 
 <img src="cases/96/415.output.1.webp" width="300" alt="黑板上清晰地写出2025年全国高考题的解答过程，答案正确，字迹工整。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 **Reference Images:**
 
@@ -2437,17 +2710,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-97"></a>
-### Case 97: MBTI 16型人格图（中文版） (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-97"></a>
+### No. 97: MBTI 16型人格图（中文版）
 
 <img src="cases/97/416.output.1.webp" width="300" alt="一幅展示16种MBTI人格类型的图表，标注中文名称和特征"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2457,17 +2729,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-98"></a>
-### Case 98: 航空发动机3D结构透视图 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-98"></a>
+### No. 98: 航空发动机3D结构透视图
 
 <img src="cases/98/417.output.1.webp" width="300" alt="一幅航空发动机的3D结构渲染透视图，图中标注了各个部位的名称，展示了发动机的内部构造和设计细节。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2477,17 +2748,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-99"></a>
-### Case 99: 黑金立体3D文字与传统印章设计 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-99"></a>
+### No. 99: 黑金立体3D文字与传统印章设计
 
 <img src="cases/99/418.output.1.webp" width="300" alt="一幅立体设计的图像，展示了黑金色的3D行书文字，内容为‘生活给你的不是标准答案，而是思考题。重要的不是发生了什么，而是你从中领悟到了什么？’并带有一枚横写的传统印章，印文为‘创意猎人’"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2497,17 +2767,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-100"></a>
-### Case 100: 创意猎人 - 街头涂鸦风格字体设计 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-100"></a>
+### No. 100: 创意猎人 - 街头涂鸦风格字体设计
 
 <img src="cases/100/419.output.1.webp" width="300" alt="一幅展示街头涂鸦风格的字体设计，大字‘创意猎人’与小字‘AIGCreativeHunter’，字体夸张变形，具有强烈的粗细对比和不规则切割效果，背景为纯黑色，装饰有蓝色渐变线条和开学季元素的抽象点缀。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2517,17 +2786,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-101"></a>
-### Case 101: 苍劲有力的北京书法艺术 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-101"></a>
+### No. 101: 苍劲有力的北京书法艺术
 
 <img src="cases/101/420.output.1.webp" width="300" alt="一幅在纯白背景上用毛笔书法书写的'北京'，字形结合了北京地标建筑和著名景点，展现极繁主义风格，颜色鲜艳，带有3D效果，红色结印作为点缀，底部有极小字'AIGCreativeHunter'"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2537,17 +2805,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-102"></a>
-### Case 102: 夏日傍晚的浪漫海边情感海报 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-102"></a>
+### No. 102: 夏日傍晚的浪漫海边情感海报
 
 <img src="cases/102/421.output.1.webp" width="300" alt="一幅海边情感海报，背景为橙红色的落日渐变，海面与地面反射光影，两个黑色剪影行人与路灯相映衬，手写体中文文案表达浪漫的感觉，英文字体补充说明，整体氛围温暖而艺术感十足。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2557,17 +2824,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-103"></a>
-### Case 103: 梦幻唐代荔枝海报 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-103"></a>
+### No. 103: 梦幻唐代荔枝海报
 
 <img src="cases/103/422.output.1.webp" width="300" alt="一幅高级感插画，描绘了一名唐代青衣中年男子骑马奔腾于金粉飞溅的地面上，背景是天空和荔枝树，顶部有红色隆起表面，诗句‘一骑红尘妃子笑，无人知是荔枝来’隐约可见，整体呈现出史诗感和梦幻的氛围。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2577,17 +2843,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-104"></a>
-### Case 104: HUNTER 高端品牌鞋靴广告 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-104"></a>
+### No. 104: HUNTER 高端品牌鞋靴广告
 
 <img src="cases/104/423.output.1.webp" width="300" alt="一双高端鞋靴以动态透视形式展示在方格纸背景上，旁边附有技术草图和手写注释。角落里是一张运动中的品牌服装的真实照片，搭配街头时尚。产品口号以粗体排版突出显示，布局中包含产品规格标签和品牌色彩参考。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2597,17 +2862,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-105"></a>
-### Case 105: 搞怪创意海报：牛马注意警示标识 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-105"></a>
+### No. 105: 搞怪创意海报：牛马注意警示标识
 
 <img src="cases/105/424.output.1.webp" width="300" alt="一张搞怪风格的海报，展示了带有牛图案的黄色警示标识和 '牛馬注意' 文字牌，背景为户外草地和蓝天，营造出轻松诙谐的氛围，配有多个幽默的文字说明，整体色调明亮活泼。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2617,17 +2881,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-106"></a>
-### Case 106: 时尚电影肖像：年轻女性坐在现代椅子上 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-106"></a>
+### No. 106: 时尚电影肖像：年轻女性坐在现代椅子上
 
 <img src="cases/106/425.output.1.webp" width="300" alt="一位年轻女性穿着全黑服装，坐在现代椅子上，3/4视角，身体微微向后倾斜，一只手臂搭在椅子上，背景是深色墙壁，窗户投射出几何光影，整体光线柔和且富有戏剧性。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2637,17 +2900,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-107"></a>
-### Case 107: 工作室肖像照片 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-107"></a>
+### No. 107: 工作室肖像照片
 
 <img src="cases/107/426.output.1.webp" width="300" alt="一位穿着黑色T恤的人物在黑色背景前拍摄的半身肖像，采用侧光照明。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 **Reference Images:**
 
@@ -2661,17 +2923,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-108"></a>
-### Case 108: 米色工作室中的极简主义肖像系列 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-108"></a>
+### No. 108: 米色工作室中的极简主义肖像系列
 
 <img src="cases/108/427.output.1.webp" width="300" alt="一组在干净柔和的米色工作室拍摄的极简主义肖像，展示不同角度和特写的面部细节，模特穿着深蓝色衬衫和象牙色裤子，营造亲密且内省的氛围。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2681,17 +2942,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-109"></a>
-### Case 109: 高端洗发水广告：Nano Banana 2 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-109"></a>
+### No. 109: 高端洗发水广告：Nano Banana 2
 
 <img src="cases/109/428.output.1.webp" width="300" alt="一瓶透明质感的洗发水，瓶身印有品牌英文'Nano Banana 2'和slogan'AIGCreativeHunter'，深色按压泵头，液体从顶部流动滴落，背景为浅色渐变，营造出高端、轻奢的产品广告氛围。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2701,17 +2961,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-110"></a>
-### Case 110: 老夫子风格漫画：俞敏洪南极游玩与加班员工的对比 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-110"></a>
+### No. 110: 老夫子风格漫画：俞敏洪南极游玩与加班员工的对比
 
 <img src="cases/110/429.output.1.webp" width="300" alt="一组老夫子风格的漫画，讽刺俞敏洪在南极度假时给加班员工发周年祝贺信，展示两者之间的鲜明对比。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2721,17 +2980,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-111"></a>
-### Case 111: 真人风格的漫画翻译 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-111"></a>
+### No. 111: 真人风格的漫画翻译
 
 <img src="cases/111/430.output.1.webp" width="300" alt="一幅将漫画角色转化为真人风格的插图，包含中文翻译的文字"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 **Reference Images:**
 
@@ -2746,17 +3004,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-112"></a>
-### Case 112: 简约高级AI产品商店设计 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-112"></a>
+### No. 112: 简约高级AI产品商店设计
 
 <img src="cases/112/431.output.1.webp" width="300" alt="一个简约而高级的线下商店内景，展示了多款AI产品的外包装，包括ChatGPT、Gemini、Claude、Midjourney、Lovart和TapNow等。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2766,17 +3023,16 @@ Turn these 8 Logos into sophisticated minimalistic logos to make letters from re
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-113"></a>
-### Case 113: Nano Banana 2 - Fictional Pharmaceutical Product (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-113"></a>
+### No. 113: Nano Banana 2 - Fictional Pharmaceutical Product
 
 <img src="cases/113/432.output.1.webp" width="300" alt="A digital photograph of a fictional pharmaceutical product called 'Nano Banana 2'. The minimalist box on the left features bold text and a tagline 'Take one 1 daily'. Beside it is a silver blister pack containing banana-shaped pills. The image has a neutral background and soft lighting."><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2786,17 +3042,16 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-114"></a>
-### Case 114: 微信聊天截图：Nano Banana 2发布警告 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-114"></a>
+### No. 114: 微信聊天截图：Nano Banana 2发布警告
 
 <img src="cases/114/433.output.1.webp" width="300" alt="一张微信聊天截图，显示用户讨论Nano Banana 2的发布，内容提醒大家注意可能的虚假信息，配有真人头像。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2806,17 +3061,16 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-115"></a>
-### Case 115: 爱因斯坦发布相对论后的微信朋友圈 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-115"></a>
+### No. 115: 爱因斯坦发布相对论后的微信朋友圈
 
 <img src="cases/115/434.output.1.webp" width="300" alt="一张超写实风格的微信截图，爱因斯坦在朋友圈中分享自拍，背景有粉笔板和潦草的公式，尼古拉·特斯拉点赞了该内容。"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2826,17 +3080,16 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-116"></a>
-### Case 116: 斗地主游戏UI界面 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-116"></a>
+### No. 116: 斗地主游戏UI界面
 
 <img src="cases/116/435.output.1.webp" width="300" alt="一个斗地主游戏的用户界面，显示牌桌、玩家手牌和游戏操作按钮"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2846,17 +3099,16 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-117"></a>
-### Case 117: Gemini 3 Pro 主要功能亮点介绍 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-117"></a>
+### No. 117: Gemini 3 Pro 主要功能亮点介绍
 
 <img src="cases/117/436.output.1.webp" width="300" alt="一页PPT展示Gemini 3 Pro的主要功能亮点，采用谷歌的视觉风格，包含图表和文本信息"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2866,17 +3118,16 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-118"></a>
-### Case 118: Nano Banana 2的优势与Bento Grid视觉风格 (by [AIGC 创意猎人]())
+---
 
-[Source Link](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)
+
+<a id="cases-118"></a>
+### No. 118: Nano Banana 2的优势与Bento Grid视觉风格
 
 <img src="cases/118/438.output.1.webp" width="300" alt="一页PPT展示Nano Banana 2的优势以及Bento Grid的深色视觉风格，内容为中文"><br>
-<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a></sub>
+<sub>Image © 2025 <a href="">AIGC 创意猎人</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="">AIGC 创意猎人</a> • [Source](https://mp.weixin.qq.com/s/DvM-1_aVjItH_WunNeQ3ew)</sub>
 
 
 **Prompt**
@@ -2886,27 +3137,14 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 ```
 
 
----
-
 [⬆️ Back to Cases Directory](#cases-toc)
 
+---
+
+
 
 
 ---
-
-<a id="tools-intro"></a>
-## 🛠️ Tools Introduction
-
-*Information about tools and platforms will be updated soon.*
-
-
-
-<a id="prompting-tips"></a>
-## 💡 Prompting Tips
-
-*Prompting tips and best practices will be added as the community grows.*
-
-
 
 <a id="how-to-contribute"></a>
 ## 🤝 How to Contribute
@@ -2929,7 +3167,7 @@ If you would like to contribute or have any questions, please feel free to conta
 <a id="star-history"></a>
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=muset-ai/awesome-nano-banana-pro&type=Date)](https://www.star-history.com/#muset-ai/awesome-nano-banana-pro&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=muset-ai/awesome-nano-banana-pro&type=Date&_t=202501)](https://www.star-history.com/#muset-ai/awesome-nano-banana-pro&Date)
 
 [⬆️ Back to Top](#readme-top)
 

@@ -1,14 +1,15 @@
-title: "Facial Expression Editing of the Same Person"
-author: "Marvin"
+title: Facial Expression Editing of the Same Person
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "A portrait where the person’s pose and appearance stay the same but their facial expression is changed to a new emotion."
+alt_text: A portrait where the person’s pose and appearance stay the same but their facial expression is changed to a new emotion.
 reference_images:
   - input.webp
 prompt: |
   Keep the person from [Image1] unchanged, but change their facial expression to [desired expression, e.g., smiling, surprised, angry]. Preserve the pose, body proportions, hairstyle, and overall appearance. Maintain realistic lighting, shadows, and photorealistic details.
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing

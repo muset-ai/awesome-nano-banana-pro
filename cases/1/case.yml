@@ -1,13 +1,14 @@
-title: "Clock 11:15 + Wine Glass Filled to Rim"
+title: Clock 11:15 + Wine Glass Filled to Rim
 author: ""
 author_link: ""
 source_links:
   - url: https://aidisruption.ai/p/nano-banana-2-pulled-in-1-hour-aced
 image: case.jpg
-alt_text: "A cozy dining table, wall clock showing exactly 11:15, and a crystal wine glass filled to the rim."
+alt_text: A cozy dining table, wall clock showing exactly 11:15, and a crystal wine glass filled to the rim.
 reference_images: []
 prompt: |
   A cozy dining table scene. On the wall, a clock showing exactly 11:15 with correct tick marks. A crystal wine glass on the table is filled exactly to the rim with liquid—no spill, realistic meniscus, and natural reflections. Soft daylight, 50mm lens look.
 submitter: ""
 submitter_link: ""
-
+capability_code: C1
+capability_type: Physics

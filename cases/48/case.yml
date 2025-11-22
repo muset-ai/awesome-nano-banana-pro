@@ -1,14 +1,15 @@
-title: "Ghibli-Style Redraw of Reference Photo"
-author: "Marvin"
+title: Ghibli-Style Redraw of Reference Photo
+author: Marvin
 author_link: https://www.fotor.com/blog/author/marvin-tompkins/
 source_links:
   - url: https://www.fotor.com/blog/nano-banana-model-prompts/#blog-title-image-effects-0-1
 image: case.webp
-alt_text: "The reference photo redrawn in a soft, colorful Studio Ghibli-inspired illustration style."
+alt_text: The reference photo redrawn in a soft, colorful Studio Ghibli-inspired illustration style.
 reference_images:
   - input.webp
 prompt: |
   Redraw this photo in Ghibli style
 submitter: ""
 submitter_link: ""
-
+capability_code: C9
+capability_type: Image Editing
