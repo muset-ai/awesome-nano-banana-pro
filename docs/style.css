@@ -86,6 +86,34 @@ body {
     font-weight: 600;
 }
 
+/* Type Colors for Filter Buttons */
+.filter-btn.type-physics { color: #60a5fa; border-color: rgba(59, 130, 246, 0.3); }
+.filter-btn.type-physics:hover, .filter-btn.type-physics.active { background-color: rgba(59, 130, 246, 0.15); color: #60a5fa; border-color: #60a5fa; }
+
+.filter-btn.type-cinematic { color: #a78bfa; border-color: rgba(139, 92, 246, 0.3); }
+.filter-btn.type-cinematic:hover, .filter-btn.type-cinematic.active { background-color: rgba(139, 92, 246, 0.15); color: #a78bfa; border-color: #a78bfa; }
+
+.filter-btn.type-typography { color: #34d399; border-color: rgba(16, 185, 129, 0.3); }
+.filter-btn.type-typography:hover, .filter-btn.type-typography.active { background-color: rgba(16, 185, 129, 0.15); color: #34d399; border-color: #34d399; }
+
+.filter-btn.type-multi { color: #fbbf24; border-color: rgba(245, 158, 11, 0.3); }
+.filter-btn.type-multi:hover, .filter-btn.type-multi.active { background-color: rgba(245, 158, 11, 0.15); color: #fbbf24; border-color: #fbbf24; }
+
+.filter-btn.type-stylized { color: #f472b6; border-color: rgba(236, 72, 153, 0.3); }
+.filter-btn.type-stylized:hover, .filter-btn.type-stylized.active { background-color: rgba(236, 72, 153, 0.15); color: #f472b6; border-color: #f472b6; }
+
+.filter-btn.type-surreal { color: #22d3ee; border-color: rgba(6, 182, 212, 0.3); }
+.filter-btn.type-surreal:hover, .filter-btn.type-surreal.active { background-color: rgba(6, 182, 212, 0.15); color: #22d3ee; border-color: #22d3ee; }
+
+.filter-btn.type-maps { color: #facc15; border-color: rgba(234, 179, 8, 0.3); }
+.filter-btn.type-maps:hover, .filter-btn.type-maps.active { background-color: rgba(234, 179, 8, 0.15); color: #facc15; border-color: #facc15; }
+
+.filter-btn.type-pattern { color: #f87171; border-color: rgba(239, 68, 68, 0.3); }
+.filter-btn.type-pattern:hover, .filter-btn.type-pattern.active { background-color: rgba(239, 68, 68, 0.15); color: #f87171; border-color: #f87171; }
+
+.filter-btn.type-editing { color: #818cf8; border-color: rgba(99, 102, 241, 0.3); }
+.filter-btn.type-editing:hover, .filter-btn.type-editing.active { background-color: rgba(99, 102, 241, 0.15); color: #818cf8; border-color: #818cf8; }
+
 /* Type Badge Colors */
 .type-badge {
     display: inline-flex;

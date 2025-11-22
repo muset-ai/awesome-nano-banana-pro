@@ -26,7 +26,21 @@ document.addEventListener('DOMContentLoaded', () => {
             const filtersContainer = document.getElementById('filters');
             Array.from(types).sort().forEach(type => {
                 const btn = document.createElement('button');
-                btn.className = 'filter-btn';
+                // Map type to class name
+                const typeMap = {
+                    'Physics': 'type-physics',
+                    'Cinematic Photo': 'type-cinematic',
+                    'Typography': 'type-typography',
+                    'Multi Character': 'type-multi',
+                    'Stylized Characters': 'type-stylized',
+                    'Surreal Concepts': 'type-surreal',
+                    'Maps Layout': 'type-maps',
+                    'Pattern Design': 'type-pattern',
+                    'Image Editing': 'type-editing'
+                };
+                const typeClass = typeMap[type] || 'type-editing';
+                
+                btn.className = `filter-btn ${typeClass}`;
                 btn.dataset.filter = type;
                 btn.textContent = type;
                 filtersContainer.appendChild(btn);
